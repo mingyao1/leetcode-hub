@@ -538,5 +538,41 @@
       "us",
       "cn"
     ]
+  },
+  "find-median-from-data-stream": {
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "word-pattern": {
+    "title": "Word Pattern",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "isomorphic-strings": {
+    "title": "Isomorphic Strings",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "ransom-note": {
+    "title": "Ransom Note",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

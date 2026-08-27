@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:11:37.048490Z",
+  "generated_at": "2026-08-27T19:04:04.946763Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-27",
@@ -16,13 +16,13 @@
       "solved": {
         "easy": 35,
         "medium": 59,
-        "hard": 11,
-        "total": 105
+        "hard": 12,
+        "total": 106
       },
       "streak": 2,
-      "solved_last_7d": 2,
+      "solved_last_7d": 3,
       "active_today": true,
-      "last_fetched": "2026-08-27T17:11:37.048490Z",
+      "last_fetched": "2026-08-27T19:04:04.946763Z",
       "stale": false,
       "error": null
     },
@@ -31,15 +31,15 @@
       "handle": "eddiehuang",
       "region": "cn",
       "solved": {
-        "easy": 69,
+        "easy": 70,
         "medium": 138,
         "hard": 15,
-        "total": 222
+        "total": 223
       },
-      "streak": 3,
+      "streak": 2,
       "solved_last_7d": 15,
       "active_today": true,
-      "last_fetched": "2026-08-27T17:11:37.048490Z",
+      "last_fetched": "2026-08-27T19:04:04.946763Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": true,
-      "last_fetched": "2026-08-27T17:11:37.048490Z",
+      "last_fetched": "2026-08-27T19:04:04.946763Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-27T17:11:37.048490Z",
+      "last_fetched": "2026-08-27T19:04:04.946763Z",
       "stale": false,
       "error": null
     },
@@ -87,15 +87,140 @@
         "hard": 23,
         "total": 201
       },
-      "streak": 2,
-      "solved_last_7d": 11,
+      "streak": 3,
+      "solved_last_7d": 12,
+      "active_today": true,
+      "last_fetched": "2026-08-27T19:04:04.946763Z",
+      "stale": false,
+      "error": null
+    },
+    {
+      "display_name": "CX",
+      "handle": "RetNum",
+      "region": "us",
+      "solved": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0,
+        "total": 0
+      },
+      "streak": 0,
+      "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-27T17:11:37.048490Z",
+      "last_fetched": "2026-08-27T19:04:04.946763Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "longest-substring-without-repeating-characters",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "url_cn": "https://leetcode.cn/problems/longest-substring-without-repeating-characters/",
+      "timestamp": 1787856862
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "two-sum",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/two-sum/",
+      "url_cn": "https://leetcode.cn/problems/two-sum/",
+      "timestamp": 1787856269
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "group-anagrams",
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/group-anagrams/",
+      "url_cn": "https://leetcode.cn/problems/group-anagrams/",
+      "timestamp": 1787856080
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "valid-anagram",
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/valid-anagram/",
+      "url_cn": "https://leetcode.cn/problems/valid-anagram/",
+      "timestamp": 1787855865
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "word-pattern",
+      "title": "Word Pattern",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/word-pattern/",
+      "url_cn": "https://leetcode.cn/problems/word-pattern/",
+      "timestamp": 1787855700
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "isomorphic-strings",
+      "title": "Isomorphic Strings",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/isomorphic-strings/",
+      "url_cn": "https://leetcode.cn/problems/isomorphic-strings/",
+      "timestamp": 1787854563
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "ransom-note",
+      "title": "Ransom Note",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/ransom-note/",
+      "url_cn": "https://leetcode.cn/problems/ransom-note/",
+      "timestamp": 1787853825
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "minimum-window-substring",
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/minimum-window-substring/",
+      "url_cn": "https://leetcode.cn/problems/minimum-window-substring/",
+      "timestamp": 1787852913
+    },
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "find-median-from-data-stream",
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "url_cn": "https://leetcode.cn/problems/find-median-from-data-stream/",
+      "timestamp": 1787852059
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
