@@ -11,9 +11,12 @@ permissions:
 
 jobs:
   join:
-    if: >
-      github.event.label.name == 'approved' &&
-      contains(github.event.issue.labels.*.name, 'join-request')
+    # Gated on the 'approved' label alone -- BUILD.md's whole moderation
+    # model is "you add the label; that one click is it." An earlier
+    # version also required a 'join-request' label auto-applied by the
+    # issue form, but that didn't reliably land on real issues, which
+    # silently blocked approval. Simpler and matches the spec.
+    if: github.event.label.name == 'approved'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
