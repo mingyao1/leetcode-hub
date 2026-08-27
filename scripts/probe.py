@@ -39,6 +39,7 @@ HEADERS_CN = {
 
 US_URL = "https://leetcode.com/graphql/"
 CN_URL = "https://leetcode.cn/graphql/"
+CN_NOJ_URL = "https://leetcode.cn/graphql/noj-go/"
 
 US_QUERIES = [
     (
@@ -82,31 +83,47 @@ US_QUERIES = [
 ]
 
 CN_QUERIES = [
+    # CN is served by two separate GraphQL services with different schemas
+    # -- confirmed 2026-08-27 by capturing the real leetcode.cn frontend's
+    # own network requests (see docs/api-notes.md). Fields below are real,
+    # not guesses.
     (
         "cn_public_profile",
+        CN_URL,
         """
         query($userSlug: String!) { userProfilePublicProfile(userSlug: $userSlug) { profile { userSlug realName } } }
         """,
         lambda handle: {"userSlug": handle},
     ),
     (
-        "cn_calendar",
+        "cn_solved_counts",
+        CN_URL,
         """
-        query($userSlug: String!) { userProfileCalendar(userSlug: $userSlug) { submissionCalendar } }
+        query($userSlug: String!) { userProfileUserQuestionProgressV2(userSlug: $userSlug) { numAcceptedQuestions { difficulty count } } }
         """,
         lambda handle: {"userSlug": handle},
+    ),
+    (
+        "cn_question",
+        CN_URL,
+        """
+        query($titleSlug: String!) { question(titleSlug: $titleSlug) { questionFrontendId title titleSlug difficulty isPaidOnly } }
+        """,
+        lambda handle: {"titleSlug": "two-sum"},
+    ),
+    (
+        "cn_calendar",
+        CN_NOJ_URL,
+        """
+        query($userSlug: String!, $year: Int) { userCalendar(userSlug: $userSlug, year: $year) { streak totalActiveDays submissionCalendar } }
+        """,
+        lambda handle: {"userSlug": handle, "year": None},
     ),
     (
         "cn_recent_ac_submissions",
+        CN_NOJ_URL,
         """
-        query($userSlug: String!) { recentAcSubmissions(userSlug: $userSlug, limit: 20) { submissionId question { title titleSlug } submitTime } }
-        """,
-        lambda handle: {"userSlug": handle},
-    ),
-    (
-        "cn_solved_counts",
-        """
-        query($userSlug: String!) { userProfileUserQuestionProgressV2(userSlug: $userSlug) { numAcceptedQuestions { difficulty count } } }
+        query($userSlug: String!) { recentACSubmissions(userSlug: $userSlug) { submissionId submitTime question { title titleSlug questionFrontendId } } }
         """,
         lambda handle: {"userSlug": handle},
     ),
@@ -158,8 +175,8 @@ def main():
 
     if args.cn_handle:
         print("\n################ CN (leetcode.cn) ################")
-        for label, query, var_fn in CN_QUERIES:
-            ok = run_query(label, CN_URL, HEADERS_CN, query, var_fn(args.cn_handle))
+        for label, url, query, var_fn in CN_QUERIES:
+            ok = run_query(label, url, HEADERS_CN, query, var_fn(args.cn_handle))
             all_ok = all_ok and ok
     else:
         print(
