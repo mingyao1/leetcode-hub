@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T19:07:06.180565Z",
+  "generated_at": "2026-08-27T19:10:45.393697Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-27",
@@ -22,7 +22,7 @@
       "streak": 2,
       "solved_last_7d": 3,
       "active_today": true,
-      "last_fetched": "2026-08-27T19:07:06.180565Z",
+      "last_fetched": "2026-08-27T19:10:45.393697Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 15,
       "active_today": true,
-      "last_fetched": "2026-08-27T19:07:06.180565Z",
+      "last_fetched": "2026-08-27T19:10:45.393697Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": true,
-      "last_fetched": "2026-08-27T19:07:06.180565Z",
+      "last_fetched": "2026-08-27T19:10:45.393697Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-27T19:07:06.180565Z",
+      "last_fetched": "2026-08-27T19:10:45.393697Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,24 @@
       "streak": 3,
       "solved_last_7d": 12,
       "active_today": true,
-      "last_fetched": "2026-08-27T19:07:06.180565Z",
+      "last_fetched": "2026-08-27T19:10:45.393697Z",
+      "stale": false,
+      "error": null
+    },
+    {
+      "display_name": "CX_Real",
+      "handle": "ConnieXuuu",
+      "region": "us",
+      "solved": {
+        "easy": 7,
+        "medium": 69,
+        "hard": 11,
+        "total": 87
+      },
+      "streak": 2,
+      "solved_last_7d": 4,
+      "active_today": false,
+      "last_fetched": "2026-08-27T19:10:45.393697Z",
       "stale": false,
       "error": null
     }
@@ -289,6 +306,30 @@
       "timestamp": 1787840046
     },
     {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "snakes-and-ladders",
+      "title": "Snakes and Ladders",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/snakes-and-ladders/",
+      "url_cn": "https://leetcode.cn/problems/snakes-and-ladders/",
+      "timestamp": 1787778904
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "sort-list",
+      "title": "Sort List",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/sort-list/",
+      "url_cn": "https://leetcode.cn/problems/sort-list/",
+      "timestamp": 1787775248
+    },
+    {
       "handle": "justin6liu",
       "display_name": "Justin",
       "region": "us",
@@ -299,6 +340,18 @@
       "url_us": "https://leetcode.com/problems/group-anagrams/",
       "url_cn": "https://leetcode.cn/problems/group-anagrams/",
       "timestamp": 1787774978
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "summary-ranges",
+      "title": "Summary Ranges",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/summary-ranges/",
+      "url_cn": "https://leetcode.cn/problems/summary-ranges/",
+      "timestamp": 1787771691
     },
     {
       "handle": "justin6liu",
@@ -505,6 +558,18 @@
       "timestamp": 1787712646
     },
     {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "3sum",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/3sum/",
+      "url_cn": "https://leetcode.cn/problems/3sum/",
+      "timestamp": 1787712300
+    },
+    {
       "handle": "justin6liu",
       "display_name": "Justin",
       "region": "us",
@@ -611,6 +676,102 @@
       "url_us": "https://leetcode.com/problems/surrounded-regions/",
       "url_cn": "https://leetcode.cn/problems/surrounded-regions/",
       "timestamp": 1786456170
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "simplify-path",
+      "title": "Simplify Path",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/simplify-path/",
+      "url_cn": "https://leetcode.cn/problems/simplify-path/",
+      "timestamp": 1786066256
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "word-search-ii",
+      "title": "Word Search II",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/word-search-ii/",
+      "url_cn": "https://leetcode.cn/problems/word-search-ii/",
+      "timestamp": 1785980408
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "url_cn": "https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "timestamp": 1785895462
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "construct-quad-tree",
+      "title": "Construct Quad Tree",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/construct-quad-tree/",
+      "url_cn": "https://leetcode.cn/problems/construct-quad-tree/",
+      "timestamp": 1785807512
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "maximal-square",
+      "title": "Maximal Square",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/maximal-square/",
+      "url_cn": "https://leetcode.cn/problems/maximal-square/",
+      "timestamp": 1785720749
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "bitwise-and-of-numbers-range",
+      "title": "Bitwise AND of Numbers Range",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+      "url_cn": "https://leetcode.cn/problems/bitwise-and-of-numbers-range/",
+      "timestamp": 1785461494
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "minimum-path-sum",
+      "title": "Minimum Path Sum",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/minimum-path-sum/",
+      "url_cn": "https://leetcode.cn/problems/minimum-path-sum/",
+      "timestamp": 1785374689
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "find-peak-element",
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-peak-element/",
+      "url_cn": "https://leetcode.cn/problems/find-peak-element/",
+      "timestamp": 1785289744
     }
   ]
 }

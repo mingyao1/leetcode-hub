@@ -574,5 +574,140 @@
       "us",
       "cn"
     ]
+  },
+  "snakes-and-ladders": {
+    "title": "Snakes and Ladders",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "sort-list": {
+    "title": "Sort List",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "summary-ranges": {
+    "title": "Summary Ranges",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "simplify-path": {
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "word-search-ii": {
+    "title": "Word Search II",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "construct-binary-tree-from-preorder-and-inorder-traversal": {
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "construct-quad-tree": {
+    "title": "Construct Quad Tree",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "maximal-square": {
+    "title": "Maximal Square",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "bitwise-and-of-numbers-range": {
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-path-sum": {
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "find-peak-element": {
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "longest-increasing-subsequence": {
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "unique-paths-ii": {
+    "title": "Unique Paths II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "design-add-and-search-words-data-structure": {
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "single-number-ii": {
+    "title": "Single Number II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
