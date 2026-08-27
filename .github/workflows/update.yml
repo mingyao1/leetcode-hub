@@ -2,7 +2,10 @@ name: Update and deploy
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Offset from :00 -- GitHub documents the top of every hour as its
+    # highest-congestion window for scheduled workflows, where runs are
+    # most likely to be delayed or dropped entirely.
+    - cron: "17 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
