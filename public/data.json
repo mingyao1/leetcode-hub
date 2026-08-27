@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:28:36.629288Z",
+  "generated_at": "2026-08-27T14:34:05.565842Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-27",
@@ -22,7 +22,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-08-27T14:28:36.629288Z",
+      "last_fetched": "2026-08-27T14:34:05.565842Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,24 @@
       "streak": 3,
       "solved_last_7d": 15,
       "active_today": true,
-      "last_fetched": "2026-08-27T14:28:36.629288Z",
+      "last_fetched": "2026-08-27T14:34:05.565842Z",
+      "stale": false,
+      "error": null
+    },
+    {
+      "display_name": "keyjia",
+      "handle": "keyjia",
+      "region": "us",
+      "solved": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0,
+        "total": 0
+      },
+      "streak": 0,
+      "solved_last_7d": 0,
+      "active_today": false,
+      "last_fetched": "2026-08-27T14:34:05.565842Z",
       "stale": false,
       "error": null
     }
