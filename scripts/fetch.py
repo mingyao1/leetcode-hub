@@ -72,6 +72,7 @@ def enrich_problem(slug, client, cache):
 def fetch_one_user(user, client, problems_cache):
     result = client.fetch_user_and_recent(user["handle"])
     by_date = streaks.parse_calendar(result["submission_calendar"])
+    by_date = streaks.apply_precise_recent(by_date, result["recent"])
 
     fresh = {
         "solved": result["solved"],

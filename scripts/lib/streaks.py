@@ -7,7 +7,7 @@ solves on the wrong day) and walk backward from today.
 """
 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 TIMEZONE = "America/New_York"
@@ -15,14 +15,49 @@ _TZ = ZoneInfo(TIMEZONE)
 
 
 def parse_calendar(submission_calendar_json):
-    """submissionCalendar JSON string -> {date: count} in TIMEZONE."""
+    """submissionCalendar JSON string -> {date: count}.
+
+    Each key is midnight UTC of the day LeetCode recorded the submission
+    on -- a day marker, not an actual instant. Reconverting that marker
+    through TIMEZONE shifts every entry back by up to a day (midnight UTC
+    is always still "yesterday evening" in a behind-UTC zone like
+    Eastern), so we read the date in UTC as given rather than reconverting
+    it. See apply_precise_recent() for how the near-term days that
+    streak/active_today actually depend on get corrected to TIMEZONE.
+    """
     raw = json.loads(submission_calendar_json)
     by_date = {}
     for ts_str, count in raw.items():
-        dt = datetime.fromtimestamp(int(ts_str), tz=_TZ)
-        date = dt.date()
+        date = datetime.fromtimestamp(int(ts_str), tz=timezone.utc).date()
         by_date[date] = by_date.get(date, 0) + count
     return by_date
+
+
+def apply_precise_recent(by_date, recent):
+    """Overlay by_date with exact per-submission timestamps from
+    recentAcSubmissionList, bucketed by TIMEZONE day boundaries.
+
+    The calendar only gives UTC-day granularity, which can put a
+    submission on the wrong side of "today" near the UTC/TIMEZONE
+    boundary (BUILD.md's 'evening solve lands on the next UTC day'
+    gotcha). recentAcSubmissionList carries exact instants for the ~20
+    most recent submissions -- precise enough to fix the near-term days
+    that streak, active_today, and solved_last_7d depend on.
+    """
+    if not recent:
+        return dict(by_date)
+
+    precise = {}
+    for sub in recent:
+        date = datetime.fromtimestamp(sub["timestamp"], tz=_TZ).date()
+        precise[date] = precise.get(date, 0) + 1
+
+    lo = min(precise) - timedelta(days=1)
+    hi = max(precise) + timedelta(days=1)
+
+    merged = {d: c for d, c in by_date.items() if not (lo <= d <= hi)}
+    merged.update(precise)
+    return merged
 
 
 def compute_streak(by_date, today=None):
