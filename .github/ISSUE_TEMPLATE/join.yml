@@ -1,0 +1,55 @@
+name: Join the board
+description: Add yourself to the class LeetCode Hub
+title: "Join: "
+labels: ["join-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One thing first: go to your LeetCode profile settings and make sure
+        **recent submissions are public**. If that's off, the API returns
+        nothing for you and your row will look empty even while you're
+        grinding.
+
+  - type: input
+    id: display_name
+    attributes:
+      label: Display name
+      description: >
+        What shows on the board. This is public and gets indexed — it
+        doesn't have to be your real name.
+      placeholder: e.g. Alex, or a nickname
+    validations:
+      required: true
+
+  - type: input
+    id: handle
+    attributes:
+      label: LeetCode handle
+      description: >
+        Your username (leetcode.com) or userSlug (leetcode.cn) — the part
+        in the URL of your profile page.
+      placeholder: e.g. alexcodes
+    validations:
+      required: true
+
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      description: Which site is this account on?
+      options:
+        - us (leetcode.com)
+        - cn (leetcode.cn)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: >
+            I've checked that my recent submissions are set to public on
+            LeetCode.
+          required: true
