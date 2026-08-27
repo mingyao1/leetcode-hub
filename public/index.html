@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Class LeetCode Hub</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          paper: '#faf7f0',
+          ink: '#2a231c',
+          muted: '#6b6055',
+          line: '#e7ddd0',
+          card: '#ffffff',
+          amber: { 50: '#fdf6e8', 100: '#f8e9c4', 400: '#d99a2b', 500: '#b97e17', 600: '#93630f' },
+          teal: { 50: '#eef6f4', 100: '#d3e9e3', 400: '#3f8f7d', 500: '#2c6f60', 600: '#1f5548' },
+          rose: { 400: '#c2604f', 500: '#a94a3a' },
+        },
+        fontFamily: {
+          display: ['Fraunces', 'ui-serif', 'Georgia', 'serif'],
+          sans: ['"IBM Plex Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+          mono: ['"IBM Plex Mono"', 'ui-monospace', 'SFMono-Regular', 'monospace'],
+        },
+      },
+    },
+  };
+</script>
+<style>
+  :root { color-scheme: light; }
+  body { background: #faf7f0; }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+  }
+  ::selection { background: #f8e9c4; }
+  .focus-ring:focus-visible { outline: 2px solid #b97e17; outline-offset: 2px; border-radius: 4px; }
+  table { border-collapse: separate; border-spacing: 0; }
+  th[data-sort] { cursor: pointer; user-select: none; }
+  .tab-btn[aria-selected="true"] { background: #2a231c; color: #faf7f0; }
+  .tab-btn[aria-selected="false"] { background: transparent; color: #2a231c; }
+  .badge-easy { background: #eef6f4; color: #1f5548; }
+  .badge-medium { background: #fdf6e8; color: #93630f; }
+  .badge-hard { background: #fbeae6; color: #a94a3a; }
+  .skeleton { background: linear-gradient(90deg, #ece3d4 25%, #f3ebde 37%, #ece3d4 63%); background-size: 400% 100%; animation: shimmer 1.4s ease infinite; }
+  @keyframes shimmer { 0% { background-position: 100% 0; } 100% { background-position: 0 0; } }
+</style>
+</head>
+<body class="min-h-screen bg-paper text-ink font-sans antialiased">
+
+<div class="max-w-5xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+
+  <header class="mb-8 sm:mb-10">
+    <div class="flex items-baseline justify-between gap-4 flex-wrap">
+      <h1 class="font-display text-3xl sm:text-4xl font-semibold tracking-tight">Class LeetCode Hub</h1>
+      <p id="generated-at" class="text-sm text-muted font-mono"></p>
+    </div>
+    <p class="mt-2 text-muted max-w-2xl">A shared workbench, not a leaderboard — see what everyone's working through and jump in.</p>
+  </header>
+
+  <section id="daily-card" class="mb-8 rounded-2xl border border-line bg-card p-5 sm:p-6 hidden">
+    <div class="flex items-start justify-between gap-4 flex-wrap">
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-wide text-amber-600">Today's challenge</p>
+        <h2 class="font-display text-xl sm:text-2xl font-semibold mt-1">
+          <a id="daily-title" href="#" target="_blank" rel="noopener" class="hover:underline focus-ring">—</a>
+        </h2>
+      </div>
+      <div class="flex items-center gap-3">
+        <span id="daily-difficulty" class="text-xs font-medium px-2.5 py-1 rounded-full"></span>
+        <a id="daily-link" href="#" target="_blank" rel="noopener" class="text-sm font-medium text-amber-600 hover:text-amber-500 focus-ring rounded px-2 py-1">Solve it →</a>
+      </div>
+    </div>
+  </section>
+
+  <nav class="flex gap-1 mb-6 border border-line rounded-full p-1 w-fit bg-card" role="tablist" aria-label="Views">
+    <button class="tab-btn focus-ring px-4 py-2 rounded-full text-sm font-medium transition-colors" role="tab" data-tab="board" aria-selected="true">Board</button>
+    <button class="tab-btn focus-ring px-4 py-2 rounded-full text-sm font-medium transition-colors" role="tab" data-tab="feed" aria-selected="false">Feed</button>
+    <button class="tab-btn focus-ring px-4 py-2 rounded-full text-sm font-medium transition-colors" role="tab" data-tab="problems" aria-selected="false">Problems</button>
+  </nav>
+
+  <!-- BOARD -->
+  <section id="panel-board" role="tabpanel">
+    <div class="flex flex-wrap gap-3 mb-4">
+      <input id="board-search" type="search" placeholder="Search names…"
+        class="focus-ring flex-1 min-w-[10rem] px-3 py-2 rounded-lg border border-line bg-card text-sm placeholder:text-muted/70" />
+      <select id="board-region" class="focus-ring px-3 py-2 rounded-lg border border-line bg-card text-sm">
+        <option value="all">All regions</option>
+        <option value="us">leetcode.com</option>
+        <option value="cn">leetcode.cn</option>
+      </select>
+      <label class="focus-ring flex items-center gap-2 px-3 py-2 rounded-lg border border-line bg-card text-sm cursor-pointer">
+        <input id="board-active-only" type="checkbox" class="rounded border-line" />
+        Active today
+      </label>
+    </div>
+
+    <div class="overflow-x-auto rounded-2xl border border-line bg-card">
+      <table class="w-full text-sm">
+        <thead>
+          <tr class="border-b border-line text-left text-xs uppercase tracking-wide text-muted">
+            <th class="px-4 py-3 font-medium">Name</th>
+            <th class="px-4 py-3 font-medium">Region</th>
+            <th class="px-4 py-3 font-medium text-right" data-sort="streak">Streak ↕</th>
+            <th class="px-4 py-3 font-medium text-right" data-sort="solved_last_7d">Last 7d ↕</th>
+            <th class="px-4 py-3 font-medium text-right" data-sort="total">Total ↕</th>
+            <th class="px-4 py-3 font-medium text-center">Today</th>
+          </tr>
+        </thead>
+        <tbody id="board-body" class="divide-y divide-line"></tbody>
+      </table>
+    </div>
+    <p id="board-empty" class="hidden text-center text-muted py-10">No one matches that search. Try clearing the filters.</p>
+  </section>
+
+  <!-- FEED -->
+  <section id="panel-feed" role="tabpanel" class="hidden">
+    <div id="feed-list" class="space-y-2"></div>
+    <div id="feed-empty" class="hidden text-center py-14 border border-dashed border-line rounded-2xl">
+      <p class="font-display text-lg mb-1">Nothing solved in the last 30 days yet</p>
+      <p class="text-muted text-sm">Open the daily challenge above and be the first entry in the feed.</p>
+    </div>
+  </section>
+
+  <!-- PROBLEMS -->
+  <section id="panel-problems" role="tabpanel" class="hidden">
+    <div id="problems-list" class="grid gap-3 sm:grid-cols-2"></div>
+    <div id="problems-empty" class="hidden text-center py-14 border border-dashed border-line rounded-2xl">
+      <p class="font-display text-lg mb-1">No problems to group yet</p>
+      <p class="text-muted text-sm">Once people start solving, they'll show up here grouped by problem.</p>
+    </div>
+  </section>
+
+  <footer class="mt-14 pt-6 border-t border-line text-sm text-muted">
+    <p>Want on the board? Open a "Join the board" issue on the repo with your name and LeetCode handle.</p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  const state = { data: null, sortKey: 'streak', sortDir: 'desc' };
+
+  const $ = (sel, root = document) => root.querySelector(sel);
+  const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
+
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+
+  function regionBadge(region) {
+    const label = region === 'cn' ? 'leetcode.cn' : 'leetcode.com';
+    return `<span class="text-xs font-mono px-2 py-0.5 rounded-full border border-line text-muted">${label}</span>`;
+  }
+
+  function difficultyBadge(difficulty) {
+    if (!difficulty) return '';
+    const cls = difficulty === 'Easy' ? 'badge-easy' : difficulty === 'Medium' ? 'badge-medium' : 'badge-hard';
+    return `<span class="text-xs font-medium px-2 py-0.5 rounded-full ${cls}">${difficulty}</span>`;
+  }
+
+  function paidBadge() {
+    return `<span class="text-xs font-medium px-2 py-0.5 rounded-full bg-line/60 text-muted" title="Requires LeetCode Premium">Premium</span>`;
+  }
+
+  function cnOnlyBadge() {
+    return `<span class="text-xs font-medium px-2 py-0.5 rounded-full bg-line/60 text-muted" title="Only available on leetcode.cn">CN only</span>`;
+  }
+
+  function relativeTime(unixSeconds) {
+    const diffMs = Date.now() - unixSeconds * 1000;
+    const mins = Math.round(diffMs / 60000);
+    if (mins < 1) return 'just now';
+    if (mins < 60) return `${mins}m ago`;
+    const hours = Math.round(mins / 60);
+    if (hours < 24) return `${hours}h ago`;
+    const days = Math.round(hours / 24);
+    if (days < 30) return `${days}d ago`;
+    return new Date(unixSeconds * 1000).toLocaleDateString();
+  }
+
+  function problemUrl(region, slug) {
+    const host = region === 'cn' ? 'leetcode.cn' : 'leetcode.com';
+    return `https://${host}/problems/${slug}/`;
+  }
+
+  function renderDaily(daily) {
+    const card = $('#daily-card');
+    if (!daily) { card.classList.add('hidden'); return; }
+    card.classList.remove('hidden');
+    $('#daily-title').textContent = daily.title;
+    $('#daily-title').href = daily.url;
+    $('#daily-link').href = daily.url;
+    const diffEl = $('#daily-difficulty');
+    diffEl.textContent = daily.difficulty;
+    diffEl.className = 'text-xs font-medium px-2.5 py-1 rounded-full ' +
+      (daily.difficulty === 'Easy' ? 'badge-easy' : daily.difficulty === 'Medium' ? 'badge-medium' : 'badge-hard');
+  }
+
+  function sortedUsers() {
+    const users = [...state.data.users];
+    const search = $('#board-search').value.trim().toLowerCase();
+    const region = $('#board-region').value;
+    const activeOnly = $('#board-active-only').checked;
+
+    let filtered = users.filter((u) => {
+      if (search && !u.display_name.toLowerCase().includes(search)) return false;
+      if (region !== 'all' && u.region !== region) return false;
+      if (activeOnly && !u.active_today) return false;
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      const key = state.sortKey;
+      const av = key === 'total' ? a.solved.total : a[key];
+      const bv = key === 'total' ? b.solved.total : b[key];
+      return state.sortDir === 'desc' ? bv - av : av - bv;
+    });
+    return filtered;
+  }
+
+  function renderBoard() {
+    const rows = sortedUsers();
+    const tbody = $('#board-body');
+    $('#board-empty').classList.toggle('hidden', rows.length > 0);
+    tbody.innerHTML = rows.map((u) => {
+      const staleAttr = u.stale ? `title="Last updated ${u.last_fetched ? new Date(u.last_fetched).toLocaleString() : 'never'}"` : '';
+      const staleDot = u.stale ? `<span ${staleAttr} class="inline-block w-1.5 h-1.5 rounded-full bg-rose-400 ml-1.5 align-middle"></span>` : '';
+      return `
+        <tr class="hover:bg-paper/60 transition-colors">
+          <td class="px-4 py-3 font-medium">
+            ${escapeHtml(u.display_name)}${staleDot}
+            ${u.error ? `<div class="text-xs text-rose-500 font-mono mt-0.5">${escapeHtml(u.error).slice(0, 60)}</div>` : ''}
+          </td>
+          <td class="px-4 py-3">${regionBadge(u.region)}</td>
+          <td class="px-4 py-3 text-right font-mono">${u.streak}${u.streak > 0 ? ' 🔥' : ''}</td>
+          <td class="px-4 py-3 text-right font-mono">${u.solved_last_7d}</td>
+          <td class="px-4 py-3 text-right font-mono text-muted">${u.solved.total}</td>
+          <td class="px-4 py-3 text-center">${u.active_today ? '<span class="inline-block w-2 h-2 rounded-full bg-teal-500" title="Active today"></span>' : ''}</td>
+        </tr>
+      `;
+    }).join('');
+  }
+
+  function renderFeed() {
+    const feed = state.data.feed;
+    const list = $('#feed-list');
+    $('#feed-empty').classList.toggle('hidden', feed.length > 0);
+    list.innerHTML = feed.map((item) => `
+      <a href="${item.url}" target="_blank" rel="noopener" class="focus-ring flex items-center justify-between gap-3 flex-wrap px-4 py-3 rounded-xl border border-line bg-card hover:border-amber-400 transition-colors">
+        <div class="min-w-0">
+          <p class="font-medium truncate">
+            <span class="text-amber-600">${escapeHtml(item.display_name)}</span> solved
+            <span class="underline decoration-line">${escapeHtml(item.title)}</span>
+          </p>
+          <p class="text-xs text-muted mt-0.5 font-mono">${relativeTime(item.timestamp)} · ${item.region === 'cn' ? 'leetcode.cn' : 'leetcode.com'}</p>
+        </div>
+        <div class="flex items-center gap-2 shrink-0">
+          ${difficultyBadge(item.difficulty)}
+          ${item.paid_only ? paidBadge() : ''}
+          ${item.cn_only ? cnOnlyBadge() : ''}
+        </div>
+      </a>
+    `).join('');
+  }
+
+  function renderProblems() {
+    const grouped = new Map();
+    for (const item of state.data.feed) {
+      if (!grouped.has(item.slug)) {
+        grouped.set(item.slug, {
+          slug: item.slug, title: item.title, difficulty: item.difficulty,
+          paid_only: item.paid_only, cn_only: item.cn_only, solvers: new Map(),
+        });
+      }
+      const g = grouped.get(item.slug);
+      const existing = g.solvers.get(item.handle);
+      if (!existing || existing.timestamp < item.timestamp) {
+        g.solvers.set(item.handle, { display_name: item.display_name, region: item.region, timestamp: item.timestamp });
+      }
+    }
+
+    const problems = [...grouped.values()].sort((a, b) => b.solvers.size - a.solvers.size);
+    const list = $('#problems-list');
+    $('#problems-empty').classList.toggle('hidden', problems.length > 0);
+    list.innerHTML = problems.map((p) => {
+      const names = [...p.solvers.values()].map((s) => escapeHtml(s.display_name)).join(', ');
+      return `
+        <div class="px-4 py-4 rounded-xl border border-line bg-card">
+          <div class="flex items-start justify-between gap-2">
+            <p class="font-medium">${escapeHtml(p.title)}</p>
+            <span class="shrink-0 text-xs font-mono px-2 py-0.5 rounded-full bg-paper border border-line">${p.solvers.size} solved</span>
+          </div>
+          <div class="flex items-center gap-2 mt-2">
+            ${difficultyBadge(p.difficulty)}
+            ${p.paid_only ? paidBadge() : ''}
+            ${p.cn_only ? cnOnlyBadge() : ''}
+          </div>
+          <p class="text-sm text-muted mt-2">${names}</p>
+        </div>
+      `;
+    }).join('');
+  }
+
+  function renderAll() {
+    renderBoard();
+    renderFeed();
+    renderProblems();
+  }
+
+  function setupTabs() {
+    $$('.tab-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        $$('.tab-btn').forEach((b) => b.setAttribute('aria-selected', 'false'));
+        btn.setAttribute('aria-selected', 'true');
+        $$('[role="tabpanel"]').forEach((p) => p.classList.add('hidden'));
+        $(`#panel-${btn.dataset.tab}`).classList.remove('hidden');
+      });
+    });
+  }
+
+  function setupSort() {
+    $$('th[data-sort]').forEach((th) => {
+      th.addEventListener('click', () => {
+        const key = th.dataset.sort;
+        if (state.sortKey === key) {
+          state.sortDir = state.sortDir === 'desc' ? 'asc' : 'desc';
+        } else {
+          state.sortKey = key;
+          state.sortDir = 'desc';
+        }
+        renderBoard();
+      });
+    });
+  }
+
+  function setupFilters() {
+    $('#board-search').addEventListener('input', renderBoard);
+    $('#board-region').addEventListener('change', renderBoard);
+    $('#board-active-only').addEventListener('change', renderBoard);
+  }
+
+  async function load() {
+    try {
+      const res = await fetch(`./data.json?t=${Date.now()}`);
+      state.data = await res.json();
+    } catch (err) {
+      $('#board-body').innerHTML = `<tr><td colspan="6" class="px-4 py-8 text-center text-rose-500">Couldn't load data.json — ${escapeHtml(String(err))}</td></tr>`;
+      return;
+    }
+    $('#generated-at').textContent = `updated ${new Date(state.data.generated_at).toLocaleString()} (${state.data.timezone})`;
+    renderDaily(state.data.daily);
+    setupTabs();
+    setupSort();
+    setupFilters();
+    renderAll();
+  }
+
+  load();
+})();
+</script>
+</body>
+</html>
