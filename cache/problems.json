@@ -118,5 +118,89 @@
     "difficulty": "Medium",
     "paid_only": false,
     "cn_only": false
+  },
+  "minimum-size-subarray-sum": {
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "container-with-most-water": {
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "two-sum-ii-input-array-is-sorted": {
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "is-subsequence": {
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "find-the-index-of-the-first-occurrence-in-a-string": {
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "reverse-words-in-a-string": {
+    "title": "Reverse Words in a String",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "longest-common-prefix": {
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "length-of-last-word": {
+    "title": "Length of Last Word",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "candy": {
+    "title": "Candy",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "gas-station": {
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "product-of-array-except-self": {
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "insert-delete-getrandom-o1": {
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "h-index": {
+    "title": "H-Index",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "jump-game-ii": {
+    "title": "Jump Game II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
   }
 }
