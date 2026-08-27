@@ -129,10 +129,29 @@
 
   <!-- PROBLEMS -->
   <section id="panel-problems" role="tabpanel" class="hidden">
+    <div class="flex flex-wrap gap-3 mb-4">
+      <input id="problems-search" type="search" placeholder="Search problems…"
+        class="focus-ring flex-1 min-w-[10rem] px-3 py-2 rounded-lg border border-line bg-card text-sm placeholder:text-muted/70" />
+      <select id="problems-sort" class="focus-ring px-3 py-2 rounded-lg border border-line bg-card text-sm">
+        <option value="recent">Most recent</option>
+        <option value="solved">Most solved</option>
+        <option value="difficulty">Difficulty</option>
+      </select>
+      <select id="problems-difficulty" class="focus-ring px-3 py-2 rounded-lg border border-line bg-card text-sm">
+        <option value="all">All difficulties</option>
+        <option value="Easy">Easy</option>
+        <option value="Medium">Medium</option>
+        <option value="Hard">Hard</option>
+      </select>
+      <label class="focus-ring flex items-center gap-2 px-3 py-2 rounded-lg border border-line bg-card text-sm cursor-pointer">
+        <input id="problems-paid-only" type="checkbox" class="rounded border-line" />
+        Premium only
+      </label>
+    </div>
     <div id="problems-list" class="grid gap-3 sm:grid-cols-2"></div>
     <div id="problems-empty" class="hidden text-center py-14 border border-dashed border-line rounded-2xl">
-      <p class="font-display text-lg mb-1">No problems to group yet</p>
-      <p class="text-muted text-sm">Once people start solving, they'll show up here grouped by problem.</p>
+      <p id="problems-empty-title" class="font-display text-lg mb-1">No problems to group yet</p>
+      <p id="problems-empty-sub" class="text-muted text-sm">Once people start solving, they'll show up here grouped by problem.</p>
     </div>
   </section>
 
@@ -271,6 +290,8 @@
     `).join('');
   }
 
+  const DIFFICULTY_ORDER = { Easy: 0, Medium: 1, Hard: 2 };
+
   function renderProblems() {
     const grouped = new Map();
     for (const item of state.data.feed) {
@@ -278,7 +299,7 @@
         grouped.set(item.slug, {
           slug: item.slug, title: item.title, difficulty: item.difficulty,
           url_us: item.url_us, url_cn: item.url_cn,
-          paid_only: item.paid_only, solvers: new Map(),
+          paid_only: item.paid_only, solvers: new Map(), mostRecent: 0,
         });
       }
       const g = grouped.get(item.slug);
@@ -286,11 +307,49 @@
       if (!existing || existing.timestamp < item.timestamp) {
         g.solvers.set(item.handle, { display_name: item.display_name, region: item.region, timestamp: item.timestamp });
       }
+      if (item.timestamp > g.mostRecent) g.mostRecent = item.timestamp;
     }
 
-    const problems = [...grouped.values()].sort((a, b) => b.solvers.size - a.solvers.size);
+    const allProblems = [...grouped.values()];
+    const search = $('#problems-search').value.trim().toLowerCase();
+    const difficultyFilter = $('#problems-difficulty').value;
+    const paidOnly = $('#problems-paid-only').checked;
+    const sortKey = $('#problems-sort').value;
+
+    const problems = allProblems.filter((p) => {
+      if (search && !p.title.toLowerCase().includes(search)) return false;
+      if (difficultyFilter !== 'all' && p.difficulty !== difficultyFilter) return false;
+      if (paidOnly && !p.paid_only) return false;
+      return true;
+    });
+
+    problems.sort((a, b) => {
+      if (sortKey === 'difficulty') {
+        const av = DIFFICULTY_ORDER[a.difficulty] ?? 99;
+        const bv = DIFFICULTY_ORDER[b.difficulty] ?? 99;
+        if (av !== bv) return av - bv;
+        return b.mostRecent - a.mostRecent;
+      }
+      if (sortKey === 'solved') {
+        if (b.solvers.size !== a.solvers.size) return b.solvers.size - a.solvers.size;
+        return b.mostRecent - a.mostRecent;
+      }
+      return b.mostRecent - a.mostRecent; // 'recent', the default
+    });
+
     const list = $('#problems-list');
-    $('#problems-empty').classList.toggle('hidden', problems.length > 0);
+    const emptyEl = $('#problems-empty');
+    if (allProblems.length === 0) {
+      emptyEl.classList.remove('hidden');
+      $('#problems-empty-title').textContent = 'No problems to group yet';
+      $('#problems-empty-sub').textContent = "Once people start solving, they'll show up here grouped by problem.";
+    } else if (problems.length === 0) {
+      emptyEl.classList.remove('hidden');
+      $('#problems-empty-title').textContent = 'No problems match your filters';
+      $('#problems-empty-sub').textContent = 'Try clearing the search or filters.';
+    } else {
+      emptyEl.classList.add('hidden');
+    }
     list.innerHTML = problems.map((p) => {
       const names = [...p.solvers.values()].map((s) => escapeHtml(s.display_name)).join(', ');
       return `
@@ -347,6 +406,11 @@
     $('#board-search').addEventListener('input', renderBoard);
     $('#board-region').addEventListener('change', renderBoard);
     $('#board-active-only').addEventListener('change', renderBoard);
+
+    $('#problems-search').addEventListener('input', renderProblems);
+    $('#problems-sort').addEventListener('change', renderProblems);
+    $('#problems-difficulty').addEventListener('change', renderProblems);
+    $('#problems-paid-only').addEventListener('change', renderProblems);
   }
 
   async function load() {
