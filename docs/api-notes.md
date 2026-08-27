@@ -46,17 +46,18 @@ This also means the single highest-risk unknown Phase 0 exists to answer —
 **whether `leetcode.cn` responds to requests from a GitHub Actions runner
 IP at all** — is still open. It has not failed; it has simply not been run.
 
-**Status: blocked, not resolved.** Per BUILD.md §2 rule 5, this is flagged
-rather than worked around. Do not proceed to build CN support in Phase 1
-until one of the following happens:
+**Decision (2026-08-27, human call per BUILD.md §2 rule 5):** proceed to
+Phase 1 building the **US client only** for now. CN support is deferred,
+not dropped — when a real `leetcode.cn` handle becomes available, come
+back to this file, run `scripts/probe.py --us-handle mingyaol --cn-handle
+<slug>` both locally and via `probe.yml`, fill in this section with real
+results, then build `CNClient` in `scripts/lib/leetcode.py`. Until then:
 
-1. A real `leetcode.cn` handle (yours or a classmate's) becomes available,
-   `scripts/probe.py --us-handle mingyaol --cn-handle <slug>` is run both
-   locally and via `probe.yml`, and this file is updated with real results, or
-2. A human decision is made to drop CN support entirely for v1 (BUILD.md §2
-   rule states this is explicitly a human call, options being: classmates
-   with `.cn` accounts use a `.com` account instead, drop CN, or run the
-   fetcher from a non-US-IP host).
+- `users.json` should only contain `region: "us"` entries.
+- Do not write a `CNClient` class or guess at its query shapes from the
+  table above — those queries are still unverified.
+- The daily challenge, streak math, and frontend can all be built and
+  demoed fully on US-only data; nothing else in the spec depends on CN.
 
 ## Phase 0 acceptance status
 
