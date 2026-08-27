@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T03:48:35.776958Z",
+  "generated_at": "2026-08-27T04:01:23.509229Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-27",
@@ -19,10 +19,10 @@
         "hard": 11,
         "total": 105
       },
-      "streak": 1,
+      "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-08-27T03:48:35.776958Z",
+      "last_fetched": "2026-08-27T04:01:23.509229Z",
       "stale": false,
       "error": null
     }
