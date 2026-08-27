@@ -2,10 +2,13 @@ name: Update and deploy
 
 on:
   schedule:
-    # Offset from :00 -- GitHub documents the top of every hour as its
-    # highest-congestion window for scheduled workflows, where runs are
-    # most likely to be delayed or dropped entirely.
-    - cron: "17 */6 * * *"
+    # Both offset from :00 -- GitHub documents the top of every hour as
+    # its highest-congestion window for scheduled workflows, where runs
+    # are most likely to be delayed or dropped entirely.
+    - cron: "17 */2 * * *"  # routine: every 2 hours
+    - cron: "5 4 * * *"     # guaranteed run just after US Eastern midnight
+                             # (04:05 UTC ~ 12:05am EDT; drifts to ~11:05pm
+                             # EST across the DST changeover, which is fine)
   workflow_dispatch:
   push:
     branches: [main]
