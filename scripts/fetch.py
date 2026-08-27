@@ -39,37 +39,56 @@ def save_json(path, data):
 
 
 def is_cn_only_slug(slug):
-    return slug.startswith(CN_ONLY_PREFIXES)
+    # Case-insensitive: real slugs are lowercase-hyphenated (e.g.
+    # "lcp-01-..."), not the uppercase form the prefixes are written in.
+    # This is only an optimization to skip a doomed US lookup -- actual
+    # availability is always verified against both APIs regardless.
+    lowered = slug.lower()
+    return lowered.startswith(tuple(p.lower() for p in CN_ONLY_PREFIXES))
 
 
-def enrich_problem(slug, client, cache):
-    """Look up slug in cache; on miss, fetch and write back. Returns the
-    cache entry (title/difficulty/paid_only/cn_only)."""
+def enrich_problem(slug, us_client, cn_client, cache):
+    """Look up slug in cache; on miss, check availability on BOTH regions
+    and write back. Returns the cache entry: title/difficulty/paid_only
+    plus available_on, a list of "us"/"cn" -- whichever regions the slug
+    actually resolves on, checked independently of which region's user
+    solved it. This is what lets the frontend show both leetcode.com and
+    leetcode.cn links for a shared problem, not just the solver's own
+    region's link.
+
+    Only ever hits the network on a cache miss -- once per slug ever,
+    same as before, just up to two lookups instead of one.
+    """
     if slug in cache:
         return cache[slug]
 
-    if is_cn_only_slug(slug):
-        entry = {"title": slug, "difficulty": None, "paid_only": False, "cn_only": True}
-        cache[slug] = entry
-        return entry
+    us_question = None
+    if not is_cn_only_slug(slug):
+        us_question = us_client.fetch_question(slug)
 
-    question = client.fetch_question(slug)
-    if question is None:
-        # US metadata lookup returned null for this slug -> no leetcode.com
-        # equivalent, treat as CN-only per BUILD.md Phase 1.
-        entry = {"title": slug, "difficulty": None, "paid_only": False, "cn_only": True}
-    else:
-        entry = {
-            "title": question["title"],
-            "difficulty": question["difficulty"],
-            "paid_only": question["paid_only"],
-            "cn_only": False,
-        }
+    cn_question = cn_client.fetch_question(slug)
+
+    available_on = []
+    if us_question is not None:
+        available_on.append("us")
+    if cn_question is not None:
+        available_on.append("cn")
+
+    # Prefer US metadata when both exist -- title/difficulty/paid_only are
+    # treated as effectively shared across regions for a common slug; this
+    # is a simplification, not something we've verified can differ.
+    source = us_question or cn_question
+    entry = {
+        "title": source["title"] if source else slug,
+        "difficulty": source["difficulty"] if source else None,
+        "paid_only": source["paid_only"] if source else False,
+        "available_on": available_on,
+    }
     cache[slug] = entry
     return entry
 
 
-def fetch_one_user(user, client, problems_cache):
+def fetch_one_user(user, client, us_client, cn_client, problems_cache):
     result = client.fetch_user_and_recent(user["handle"])
     by_date = streaks.parse_calendar(result["submission_calendar"])
     by_date = streaks.apply_precise_recent(by_date, result["recent"])
@@ -83,7 +102,7 @@ def fetch_one_user(user, client, problems_cache):
 
     feed_items = []
     for sub in result["recent"]:
-        meta = enrich_problem(sub["slug"], client, problems_cache)
+        meta = enrich_problem(sub["slug"], us_client, cn_client, problems_cache)
         feed_items.append(
             {
                 "handle": user["handle"],
@@ -93,8 +112,8 @@ def fetch_one_user(user, client, problems_cache):
                 "title": meta["title"] or sub["title"],
                 "difficulty": meta["difficulty"],
                 "paid_only": meta["paid_only"],
-                "cn_only": meta["cn_only"],
-                "url": client.problem_url(sub["slug"]),
+                "url_us": us_client.problem_url(sub["slug"]) if "us" in meta["available_on"] else None,
+                "url_cn": cn_client.problem_url(sub["slug"]) if "cn" in meta["available_on"] else None,
                 "timestamp": sub["timestamp"],
             }
         )
@@ -109,6 +128,13 @@ def main():
 
     now = datetime.now(tz=timezone.utc)
 
+    # Instantiated once regardless of which regions users.json actually
+    # contains -- problem-availability checks in enrich_problem() need
+    # both, independent of which region solved a given problem.
+    us_client = get_client("us")
+    cn_client = get_client("cn")
+    clients = {"us": us_client, "cn": cn_client}
+
     user_entries = []
     new_feed_items = []
 
@@ -121,8 +147,8 @@ def main():
         display_name = user["display_name"]
 
         try:
-            client = get_client(region)
-            fresh, feed_items = fetch_one_user(user, client, problems_cache)
+            client = clients[region]
+            fresh, feed_items = fetch_one_user(user, client, us_client, cn_client, problems_cache)
             user_entries.append(merge.build_user_entry(display_name, handle, region, fresh, now))
             new_feed_items.extend(feed_items)
             print(f"OK   {region}/{handle}: total={fresh['solved']['total']} streak={fresh['streak']}")
@@ -139,7 +165,7 @@ def main():
     us_users = [u for u in users if u["region"] == "us"]
     if us_users:
         try:
-            daily = get_client("us").fetch_daily_challenge()
+            daily = us_client.fetch_daily_challenge()
         except LeetCodeAPIError as exc:
             print(f"FAIL daily challenge: {exc}")
             if previous_data:

@@ -3,204 +3,306 @@
     "title": "Task Scheduler",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "partition-array-according-to-given-pivot": {
     "title": "Partition Array According to Given Pivot",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "create-binary-tree-from-descriptions": {
     "title": "Create Binary Tree From Descriptions",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "remove-duplicates-from-sorted-list": {
     "title": "Remove Duplicates from Sorted List",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "valid-parentheses": {
     "title": "Valid Parentheses",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "compare-version-numbers": {
     "title": "Compare Version Numbers",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "longest-zigzag-path-in-a-binary-tree": {
     "title": "Longest ZigZag Path in a Binary Tree",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "longest-valid-parentheses": {
     "title": "Longest Valid Parentheses",
     "difficulty": "Hard",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "finding-pairs-with-a-certain-sum": {
     "title": "Finding Pairs With a Certain Sum",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "trapping-rain-water": {
     "title": "Trapping Rain Water",
     "difficulty": "Hard",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "remove-element": {
     "title": "Remove Element",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "valid-palindrome": {
     "title": "Valid Palindrome",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "longest-mountain-in-array": {
     "title": "Longest Mountain in Array",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "making-a-large-island": {
     "title": "Making A Large Island",
     "difficulty": "Hard",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "lru-cache": {
     "title": "LRU Cache",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "maximum-subarray": {
     "title": "Maximum Subarray",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "minimum-swaps-to-arrange-a-binary-grid": {
     "title": "Minimum Swaps to Arrange a Binary Grid",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "largest-positive-integer-that-exists-with-its-negative": {
     "title": "Largest Positive Integer That Exists With Its Negative",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "minimum-operations-to-halve-array-sum": {
     "title": "Minimum Operations to Halve Array Sum",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "group-anagrams": {
     "title": "Group Anagrams",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "minimum-size-subarray-sum": {
     "title": "Minimum Size Subarray Sum",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "container-with-most-water": {
     "title": "Container With Most Water",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "two-sum-ii-input-array-is-sorted": {
     "title": "Two Sum II - Input Array Is Sorted",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "is-subsequence": {
     "title": "Is Subsequence",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "find-the-index-of-the-first-occurrence-in-a-string": {
     "title": "Find the Index of the First Occurrence in a String",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "reverse-words-in-a-string": {
     "title": "Reverse Words in a String",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "longest-common-prefix": {
     "title": "Longest Common Prefix",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "length-of-last-word": {
     "title": "Length of Last Word",
     "difficulty": "Easy",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "candy": {
     "title": "Candy",
     "difficulty": "Hard",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "gas-station": {
     "title": "Gas Station",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "product-of-array-except-self": {
     "title": "Product of Array Except Self",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "insert-delete-getrandom-o1": {
     "title": "Insert Delete GetRandom O(1)",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "h-index": {
     "title": "H-Index",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   },
   "jump-game-ii": {
     "title": "Jump Game II",
     "difficulty": "Medium",
     "paid_only": false,
-    "cn_only": false
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
