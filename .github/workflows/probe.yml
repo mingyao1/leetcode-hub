@@ -1,0 +1,33 @@
+name: Probe LeetCode APIs
+
+on:
+  workflow_dispatch:
+    inputs:
+      us_handle:
+        description: "leetcode.com username"
+        required: true
+        type: string
+      cn_handle:
+        description: "leetcode.cn userSlug (leave blank to skip CN probing)"
+        required: false
+        type: string
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run probe
+        run: |
+          if [ -n "${{ inputs.cn_handle }}" ]; then
+            python scripts/probe.py --us-handle "${{ inputs.us_handle }}" --cn-handle "${{ inputs.cn_handle }}"
+          else
+            python scripts/probe.py --us-handle "${{ inputs.us_handle }}"
+          fi
