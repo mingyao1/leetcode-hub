@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:49:53.711911Z",
+  "generated_at": "2026-08-27T17:11:37.048490Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-27",
@@ -22,7 +22,7 @@
       "streak": 2,
       "solved_last_7d": 2,
       "active_today": true,
-      "last_fetched": "2026-08-27T16:49:53.711911Z",
+      "last_fetched": "2026-08-27T17:11:37.048490Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 15,
       "active_today": true,
-      "last_fetched": "2026-08-27T16:49:53.711911Z",
+      "last_fetched": "2026-08-27T17:11:37.048490Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": true,
-      "last_fetched": "2026-08-27T16:49:53.711911Z",
+      "last_fetched": "2026-08-27T17:11:37.048490Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,24 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-27T16:49:53.711911Z",
+      "last_fetched": "2026-08-27T17:11:37.048490Z",
+      "stale": false,
+      "error": null
+    },
+    {
+      "display_name": "Justin",
+      "handle": "justin6liu",
+      "region": "us",
+      "solved": {
+        "easy": 67,
+        "medium": 111,
+        "hard": 23,
+        "total": 201
+      },
+      "streak": 2,
+      "solved_last_7d": 11,
+      "active_today": false,
+      "last_fetched": "2026-08-27T17:11:37.048490Z",
       "stale": false,
       "error": null
     }
@@ -152,6 +169,30 @@
       "timestamp": 1787840046
     },
     {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "group-anagrams",
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/group-anagrams/",
+      "url_cn": "https://leetcode.cn/problems/group-anagrams/",
+      "timestamp": 1787774978
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "flood-fill",
+      "title": "Flood Fill",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/flood-fill/",
+      "url_cn": "https://leetcode.cn/problems/flood-fill/",
+      "timestamp": 1787767306
+    },
+    {
       "handle": "eddiehuang",
       "display_name": "Eddie",
       "region": "cn",
@@ -186,6 +227,18 @@
       "url_us": "https://leetcode.com/problems/is-subsequence/",
       "url_cn": "https://leetcode.cn/problems/is-subsequence/",
       "timestamp": 1787764792
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "maximum-depth-of-binary-tree",
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "url_cn": "https://leetcode.cn/problems/maximum-depth-of-binary-tree/",
+      "timestamp": 1787763791
     },
     {
       "handle": "eddiehuang",
@@ -284,6 +337,66 @@
       "timestamp": 1787753983
     },
     {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "reverse-linked-list",
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/reverse-linked-list/",
+      "url_cn": "https://leetcode.cn/problems/reverse-linked-list/",
+      "timestamp": 1787715042
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "valid-parentheses",
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/valid-parentheses/",
+      "url_cn": "https://leetcode.cn/problems/valid-parentheses/",
+      "timestamp": 1787714355
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "url_cn": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/",
+      "timestamp": 1787713389
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "binary-search",
+      "title": "Binary Search",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/binary-search/",
+      "url_cn": "https://leetcode.cn/problems/binary-search/",
+      "timestamp": 1787712646
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/valid-palindrome/",
+      "url_cn": "https://leetcode.cn/problems/valid-palindrome/",
+      "timestamp": 1787711978
+    },
+    {
       "handle": "eddiehuang",
       "display_name": "Eddie",
       "region": "cn",
@@ -294,6 +407,42 @@
       "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
       "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
       "timestamp": 1787703872
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "valid-anagram",
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/valid-anagram/",
+      "url_cn": "https://leetcode.cn/problems/valid-anagram/",
+      "timestamp": 1787696350
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "contains-duplicate",
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/contains-duplicate/",
+      "url_cn": "https://leetcode.cn/problems/contains-duplicate/",
+      "timestamp": 1787695781
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "two-sum",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/two-sum/",
+      "url_cn": "https://leetcode.cn/problems/two-sum/",
+      "timestamp": 1787695153
     },
     {
       "handle": "eddiehuang",
@@ -330,6 +479,18 @@
       "url_us": "https://leetcode.com/problems/jump-game-ii/",
       "url_cn": "https://leetcode.cn/problems/jump-game-ii/",
       "timestamp": 1787678866
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "surrounded-regions",
+      "title": "Surrounded Regions",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/surrounded-regions/",
+      "url_cn": "https://leetcode.cn/problems/surrounded-regions/",
+      "timestamp": 1786456170
     }
   ]
 }

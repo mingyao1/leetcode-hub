@@ -421,5 +421,122 @@
       "us",
       "cn"
     ]
+  },
+  "flood-fill": {
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "maximum-depth-of-binary-tree": {
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "reverse-linked-list": {
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "contains-duplicate": {
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "two-sum": {
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "surrounded-regions": {
+    "title": "Surrounded Regions",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "largest-rectangle-in-histogram": {
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "edit-distance": {
+    "title": "Edit Distance",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "kth-largest-element-in-a-stream": {
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "powx-n": {
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "valid-parenthesis-string": {
+    "title": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "n-queens": {
+    "title": "N-Queens",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "multiply-strings": {
+    "title": "Multiply Strings",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
