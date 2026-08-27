@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T15:15:28.612101Z",
+  "generated_at": "2026-08-27T16:48:43.448857Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-27",
@@ -22,7 +22,7 @@
       "streak": 2,
       "solved_last_7d": 2,
       "active_today": true,
-      "last_fetched": "2026-08-27T15:15:28.612101Z",
+      "last_fetched": "2026-08-27T16:48:43.448857Z",
       "stale": false,
       "error": null
     },
@@ -33,13 +33,13 @@
       "solved": {
         "easy": 69,
         "medium": 138,
-        "hard": 14,
-        "total": 221
+        "hard": 15,
+        "total": 222
       },
       "streak": 3,
       "solved_last_7d": 15,
       "active_today": true,
-      "last_fetched": "2026-08-27T15:15:28.612101Z",
+      "last_fetched": "2026-08-27T16:48:43.448857Z",
       "stale": false,
       "error": null
     },
@@ -56,12 +56,41 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": true,
-      "last_fetched": "2026-08-27T15:15:28.612101Z",
+      "last_fetched": "2026-08-27T16:48:43.448857Z",
+      "stale": false,
+      "error": null
+    },
+    {
+      "display_name": "Chu",
+      "handle": "chuchu4708",
+      "region": "us",
+      "solved": {
+        "easy": 18,
+        "medium": 41,
+        "hard": 4,
+        "total": 63
+      },
+      "streak": 0,
+      "solved_last_7d": 0,
+      "active_today": false,
+      "last_fetched": "2026-08-27T16:48:43.448857Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "substring-with-concatenation-of-all-words",
+      "title": "Substring with Concatenation of All Words",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+      "url_cn": "https://leetcode.cn/problems/substring-with-concatenation-of-all-words/",
+      "timestamp": 1787843977
+    },
     {
       "handle": "keyjia",
       "display_name": "keyjia",

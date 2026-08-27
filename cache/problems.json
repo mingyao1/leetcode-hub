@@ -313,5 +313,113 @@
       "us",
       "cn"
     ]
+  },
+  "substring-with-concatenation-of-all-words": {
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-window-substring": {
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "3sum": {
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "valid-anagram": {
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "binary-search": {
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "jump-game": {
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "best-time-to-buy-and-sell-stock-ii": {
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "best-time-to-buy-and-sell-stock": {
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "rotate-array": {
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "majority-element": {
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "merge-sorted-array": {
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "remove-duplicates-from-sorted-array": {
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
