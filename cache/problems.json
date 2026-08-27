@@ -1,0 +1,122 @@
+{
+  "task-scheduler": {
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "partition-array-according-to-given-pivot": {
+    "title": "Partition Array According to Given Pivot",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "create-binary-tree-from-descriptions": {
+    "title": "Create Binary Tree From Descriptions",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "remove-duplicates-from-sorted-list": {
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "valid-parentheses": {
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "compare-version-numbers": {
+    "title": "Compare Version Numbers",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "longest-zigzag-path-in-a-binary-tree": {
+    "title": "Longest ZigZag Path in a Binary Tree",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "longest-valid-parentheses": {
+    "title": "Longest Valid Parentheses",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "finding-pairs-with-a-certain-sum": {
+    "title": "Finding Pairs With a Certain Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "trapping-rain-water": {
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "remove-element": {
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "valid-palindrome": {
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "longest-mountain-in-array": {
+    "title": "Longest Mountain in Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "making-a-large-island": {
+    "title": "Making A Large Island",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "lru-cache": {
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "maximum-subarray": {
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "minimum-swaps-to-arrange-a-binary-grid": {
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "largest-positive-integer-that-exists-with-its-negative": {
+    "title": "Largest Positive Integer That Exists With Its Negative",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "minimum-operations-to-halve-array-sum": {
+    "title": "Minimum Operations to Halve Array Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  },
+  "group-anagrams": {
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "cn_only": false
+  }
+}
