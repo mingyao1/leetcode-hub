@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:47:33.223086Z",
+  "generated_at": "2026-08-27T14:57:32.551689Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-27",
@@ -19,10 +19,10 @@
         "hard": 11,
         "total": 105
       },
-      "streak": 1,
-      "solved_last_7d": 1,
-      "active_today": false,
-      "last_fetched": "2026-08-27T14:47:33.223086Z",
+      "streak": 2,
+      "solved_last_7d": 2,
+      "active_today": true,
+      "last_fetched": "2026-08-27T14:57:32.551689Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 15,
       "active_today": true,
-      "last_fetched": "2026-08-27T14:47:33.223086Z",
+      "last_fetched": "2026-08-27T14:57:32.551689Z",
       "stale": false,
       "error": null
     },
@@ -49,19 +49,55 @@
       "region": "us",
       "solved": {
         "easy": 0,
-        "medium": 0,
+        "medium": 1,
         "hard": 0,
-        "total": 0
+        "total": 1
       },
-      "streak": 0,
-      "solved_last_7d": 0,
-      "active_today": false,
-      "last_fetched": "2026-08-27T14:47:33.223086Z",
+      "streak": 1,
+      "solved_last_7d": 1,
+      "active_today": true,
+      "last_fetched": "2026-08-27T14:57:32.551689Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "is-subsequence",
+      "title": "Is Subsequence",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/is-subsequence/",
+      "url_cn": "https://leetcode.cn/problems/is-subsequence/",
+      "timestamp": 1787842617
+    },
+    {
+      "handle": "keyjia",
+      "display_name": "keyjia",
+      "region": "us",
+      "slug": "task-scheduler",
+      "title": "Task Scheduler",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/task-scheduler/",
+      "url_cn": "https://leetcode.cn/problems/task-scheduler/",
+      "timestamp": 1787842581
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "longest-substring-without-repeating-characters",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "url_cn": "https://leetcode.cn/problems/longest-substring-without-repeating-characters/",
+      "timestamp": 1787842212
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",

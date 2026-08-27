@@ -304,5 +304,14 @@
       "us",
       "cn"
     ]
+  },
+  "longest-substring-without-repeating-characters": {
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
