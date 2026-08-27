@@ -273,7 +273,7 @@
     for (const item of state.data.feed) {
       if (!grouped.has(item.slug)) {
         grouped.set(item.slug, {
-          slug: item.slug, title: item.title, difficulty: item.difficulty,
+          slug: item.slug, title: item.title, difficulty: item.difficulty, url: item.url,
           paid_only: item.paid_only, cn_only: item.cn_only, solvers: new Map(),
         });
       }
@@ -290,9 +290,9 @@
     list.innerHTML = problems.map((p) => {
       const names = [...p.solvers.values()].map((s) => escapeHtml(s.display_name)).join(', ');
       return `
-        <div class="px-4 py-4 rounded-xl border border-line bg-card">
+        <div class="px-4 py-4 rounded-xl border border-line bg-card hover:border-amber-400 transition-colors">
           <div class="flex items-start justify-between gap-2">
-            <p class="font-medium">${escapeHtml(p.title)}</p>
+            <a href="${p.url}" target="_blank" rel="noopener" class="focus-ring font-medium hover:underline decoration-line">${escapeHtml(p.title)}</a>
             <span class="shrink-0 text-xs font-mono px-2 py-0.5 rounded-full bg-paper border border-line">${p.solvers.size} solved</span>
           </div>
           <div class="flex items-center gap-2 mt-2">
