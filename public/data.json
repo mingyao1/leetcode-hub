@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T00:58:22.715687Z",
+  "generated_at": "2026-08-28T04:56:06.076913Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-28",
@@ -15,14 +15,14 @@
       "region": "us",
       "solved": {
         "easy": 35,
-        "medium": 60,
+        "medium": 61,
         "hard": 12,
-        "total": 107
+        "total": 108
       },
-      "streak": 2,
-      "solved_last_7d": 4,
+      "streak": 3,
+      "solved_last_7d": 5,
       "active_today": true,
-      "last_fetched": "2026-08-28T00:58:22.715687Z",
+      "last_fetched": "2026-08-28T04:56:06.076913Z",
       "stale": false,
       "error": null
     },
@@ -38,8 +38,8 @@
       },
       "streak": 2,
       "solved_last_7d": 15,
-      "active_today": true,
-      "last_fetched": "2026-08-28T00:58:22.715687Z",
+      "active_today": false,
+      "last_fetched": "2026-08-28T04:56:06.076913Z",
       "stale": false,
       "error": null
     },
@@ -55,8 +55,8 @@
       },
       "streak": 1,
       "solved_last_7d": 1,
-      "active_today": true,
-      "last_fetched": "2026-08-28T00:58:22.715687Z",
+      "active_today": false,
+      "last_fetched": "2026-08-28T04:56:06.076913Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-28T00:58:22.715687Z",
+      "last_fetched": "2026-08-28T04:56:06.076913Z",
       "stale": false,
       "error": null
     },
@@ -88,9 +88,9 @@
         "total": 201
       },
       "streak": 3,
-      "solved_last_7d": 13,
-      "active_today": true,
-      "last_fetched": "2026-08-28T00:58:22.715687Z",
+      "solved_last_7d": 15,
+      "active_today": false,
+      "last_fetched": "2026-08-28T04:56:06.076913Z",
       "stale": false,
       "error": null
     },
@@ -104,15 +104,63 @@
         "hard": 11,
         "total": 87
       },
-      "streak": 2,
+      "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-08-28T00:58:22.715687Z",
+      "last_fetched": "2026-08-28T04:56:06.076913Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "non-overlapping-intervals",
+      "title": "Non-overlapping Intervals",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "url_cn": "https://leetcode.cn/problems/non-overlapping-intervals/",
+      "timestamp": 1787892598
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "binary-tree-level-order-traversal",
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "url_cn": "https://leetcode.cn/problems/binary-tree-level-order-traversal/",
+      "timestamp": 1787883006
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "merge-intervals",
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/merge-intervals/",
+      "url_cn": "https://leetcode.cn/problems/merge-intervals/",
+      "timestamp": 1787881733
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "top-k-frequent-elements",
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "url_cn": "https://leetcode.cn/problems/top-k-frequent-elements/",
+      "timestamp": 1787880084
+    },
     {
       "handle": "justin6liu",
       "display_name": "Justin",
@@ -796,18 +844,6 @@
       "url_us": "https://leetcode.com/problems/minimum-path-sum/",
       "url_cn": "https://leetcode.cn/problems/minimum-path-sum/",
       "timestamp": 1785374689
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "find-peak-element",
-      "title": "Find Peak Element",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/find-peak-element/",
-      "url_cn": "https://leetcode.cn/problems/find-peak-element/",
-      "timestamp": 1785289744
     }
   ]
 }

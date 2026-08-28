@@ -727,5 +727,32 @@
       "us",
       "cn"
     ]
+  },
+  "non-overlapping-intervals": {
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "binary-tree-level-order-traversal": {
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "merge-intervals": {
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
