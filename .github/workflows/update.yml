@@ -1,6 +1,14 @@
 name: Update and deploy
 
 on:
+  schedule:
+    # Every 30 minutes, offset from :00/:30 to avoid GitHub's documented
+    # top-of-hour congestion window. Re-added after briefly removing it
+    # in the previous commit -- the schedule had gone completely silent
+    # (zero fires in ~10hrs while workflow_dispatch/push kept working),
+    # which community reports say removing-then-readding fixes by
+    # forcing GitHub to re-register the trigger from scratch.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
