@@ -709,5 +709,23 @@
       "us",
       "cn"
     ]
+  },
+  "insert-interval": {
+    "title": "Insert Interval",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "top-k-frequent-elements": {
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
