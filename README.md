@@ -14,6 +14,8 @@ Your display name is public and gets indexed by search engines — it doesn't ha
 
 ## How it works
 
-No server, no database, no auth. A GitHub Actions cron job fetches from LeetCode's public GraphQL APIs every 2 hours (plus a guaranteed run just after midnight Eastern), writes `public/data.json`, and deploys to GitHub Pages. See `BUILD.md` for the full spec.
+No server, no database, no auth. A GitHub Actions cron job fetches from LeetCode's public GraphQL APIs every 30 minutes, writes `public/data.json`, and deploys to GitHub Pages. See `BUILD.md` for the full spec.
+
+Note: GitHub doesn't guarantee scheduled workflows fire exactly on time — it occasionally delays or even drops a scheduled run under platform load. Running every 30 minutes means a missed slot self-heals quickly rather than the board going stale for hours; `workflow_dispatch` (the "Run workflow" button on the Actions tab) and pushes that touch `users.json`/`public/index.html` both trigger immediately and haven't missed yet.
 
 ⚠️ **Scheduled workflows are automatically disabled after 60 days of repo inactivity.** Over a long break (e.g. between semesters) the board will quietly stop updating — any push or manual run from the Actions tab re-enables it.
