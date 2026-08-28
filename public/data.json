@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:13:43.583442Z",
+  "generated_at": "2026-08-28T22:14:59.516716Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-28",
@@ -22,7 +22,7 @@
       "streak": 3,
       "solved_last_7d": 5,
       "active_today": true,
-      "last_fetched": "2026-08-28T17:13:43.583442Z",
+      "last_fetched": "2026-08-28T22:14:59.516716Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 15,
       "active_today": false,
-      "last_fetched": "2026-08-28T17:13:43.583442Z",
+      "last_fetched": "2026-08-28T22:14:59.516716Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-08-28T17:13:43.583442Z",
+      "last_fetched": "2026-08-28T22:14:59.516716Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-28T17:13:43.583442Z",
+      "last_fetched": "2026-08-28T22:14:59.516716Z",
       "stale": false,
       "error": null
     },
@@ -87,10 +87,10 @@
         "hard": 23,
         "total": 201
       },
-      "streak": 3,
-      "solved_last_7d": 15,
-      "active_today": false,
-      "last_fetched": "2026-08-28T17:13:43.583442Z",
+      "streak": 4,
+      "solved_last_7d": 20,
+      "active_today": true,
+      "last_fetched": "2026-08-28T22:14:59.516716Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,72 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-08-28T17:13:43.583442Z",
+      "last_fetched": "2026-08-28T22:14:59.516716Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "kth-largest-element-in-an-array",
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "url_cn": "https://leetcode.cn/problems/kth-largest-element-in-an-array/",
+      "timestamp": 1787954159
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "url_cn": "https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/",
+      "timestamp": 1787953505
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "product-of-array-except-self",
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
+      "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
+      "timestamp": 1787941856
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "course-schedule",
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/course-schedule/",
+      "url_cn": "https://leetcode.cn/problems/course-schedule/",
+      "timestamp": 1787940334
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "number-of-islands",
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/number-of-islands/",
+      "url_cn": "https://leetcode.cn/problems/number-of-islands/",
+      "timestamp": 1787938354
+    },
     {
       "handle": "mingyaol",
       "display_name": "Mingyao",

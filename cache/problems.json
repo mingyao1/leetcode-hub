@@ -754,5 +754,41 @@
       "us",
       "cn"
     ]
+  },
+  "kth-largest-element-in-an-array": {
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "find-minimum-in-rotated-sorted-array": {
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "course-schedule": {
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "number-of-islands": {
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
