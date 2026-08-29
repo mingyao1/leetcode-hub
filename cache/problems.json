@@ -835,5 +835,50 @@
       "us",
       "cn"
     ]
+  },
+  "linked-list-cycle": {
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "evaluate-reverse-polish-notation": {
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "min-stack": {
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-number-of-arrows-to-burst-balloons": {
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "subsets": {
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
