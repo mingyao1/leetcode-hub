@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-28T22:14:59.516716Z",
+  "generated_at": "2026-08-29T01:08:40.259834Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-08-28",
-    "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
-    "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
-    "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/"
+    "date": "2026-08-29",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 3,
       "solved_last_7d": 5,
       "active_today": true,
-      "last_fetched": "2026-08-28T22:14:59.516716Z",
+      "last_fetched": "2026-08-29T01:08:40.259834Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 15,
       "active_today": false,
-      "last_fetched": "2026-08-28T22:14:59.516716Z",
+      "last_fetched": "2026-08-29T01:08:40.259834Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-08-28T22:14:59.516716Z",
+      "last_fetched": "2026-08-29T01:08:40.259834Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-28T22:14:59.516716Z",
+      "last_fetched": "2026-08-29T01:08:40.259834Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 4,
       "solved_last_7d": 20,
       "active_today": true,
-      "last_fetched": "2026-08-28T22:14:59.516716Z",
+      "last_fetched": "2026-08-29T01:08:40.259834Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-08-28T22:14:59.516716Z",
+      "last_fetched": "2026-08-29T01:08:40.259834Z",
       "stale": false,
       "error": null
     }
