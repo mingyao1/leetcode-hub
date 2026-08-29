@@ -790,5 +790,50 @@
       "us",
       "cn"
     ]
+  },
+  "longest-consecutive-sequence": {
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "contains-duplicate-ii": {
+    "title": "Contains Duplicate II",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "happy-number": {
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "design-twitter": {
+    "title": "Design Twitter",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "search-in-rotated-sorted-array": {
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

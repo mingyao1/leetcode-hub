@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:08:40.259834Z",
+  "generated_at": "2026-08-29T08:17:48.332143Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-08-29",
@@ -21,8 +21,8 @@
       },
       "streak": 3,
       "solved_last_7d": 5,
-      "active_today": true,
-      "last_fetched": "2026-08-29T01:08:40.259834Z",
+      "active_today": false,
+      "last_fetched": "2026-08-29T08:17:48.332143Z",
       "stale": false,
       "error": null
     },
@@ -31,15 +31,15 @@
       "handle": "eddiehuang",
       "region": "cn",
       "solved": {
-        "easy": 70,
+        "easy": 72,
         "medium": 138,
         "hard": 15,
-        "total": 223
+        "total": 225
       },
       "streak": 2,
-      "solved_last_7d": 15,
+      "solved_last_7d": 22,
       "active_today": false,
-      "last_fetched": "2026-08-29T01:08:40.259834Z",
+      "last_fetched": "2026-08-29T08:17:48.332143Z",
       "stale": false,
       "error": null
     },
@@ -53,10 +53,10 @@
         "hard": 0,
         "total": 1
       },
-      "streak": 1,
+      "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-08-29T01:08:40.259834Z",
+      "last_fetched": "2026-08-29T08:17:48.332143Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-08-29T01:08:40.259834Z",
+      "last_fetched": "2026-08-29T08:17:48.332143Z",
       "stale": false,
       "error": null
     },
@@ -83,14 +83,14 @@
       "region": "us",
       "solved": {
         "easy": 67,
-        "medium": 111,
+        "medium": 112,
         "hard": 23,
-        "total": 201
+        "total": 202
       },
       "streak": 4,
       "solved_last_7d": 20,
-      "active_today": true,
-      "last_fetched": "2026-08-29T01:08:40.259834Z",
+      "active_today": false,
+      "last_fetched": "2026-08-29T08:17:48.332143Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,108 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-08-29T01:08:40.259834Z",
+      "last_fetched": "2026-08-29T08:17:48.332143Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "merge-intervals",
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/merge-intervals/",
+      "url_cn": "https://leetcode.cn/problems/merge-intervals/",
+      "timestamp": 1787971915
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "design-twitter",
+      "title": "Design Twitter",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/design-twitter/",
+      "url_cn": "https://leetcode.cn/problems/design-twitter/",
+      "timestamp": 1787971239
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "summary-ranges",
+      "title": "Summary Ranges",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/summary-ranges/",
+      "url_cn": "https://leetcode.cn/problems/summary-ranges/",
+      "timestamp": 1787969858
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "longest-consecutive-sequence",
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "url_cn": "https://leetcode.cn/problems/longest-consecutive-sequence/",
+      "timestamp": 1787969300
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "contains-duplicate-ii",
+      "title": "Contains Duplicate II",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "url_cn": "https://leetcode.cn/problems/contains-duplicate-ii/",
+      "timestamp": 1787968419
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "search-in-rotated-sorted-array",
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "url_cn": "https://leetcode.cn/problems/search-in-rotated-sorted-array/",
+      "timestamp": 1787968242
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "happy-number",
+      "title": "Happy Number",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/happy-number/",
+      "url_cn": "https://leetcode.cn/problems/happy-number/",
+      "timestamp": 1787967457
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "3sum",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/3sum/",
+      "url_cn": "https://leetcode.cn/problems/3sum/",
+      "timestamp": 1787966843
+    },
     {
       "handle": "justin6liu",
       "display_name": "Justin",
@@ -892,18 +988,6 @@
       "url_us": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
       "url_cn": "https://leetcode.cn/problems/bitwise-and-of-numbers-range/",
       "timestamp": 1785461494
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "minimum-path-sum",
-      "title": "Minimum Path Sum",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/minimum-path-sum/",
-      "url_cn": "https://leetcode.cn/problems/minimum-path-sum/",
-      "timestamp": 1785374689
     }
   ]
 }
