@@ -880,5 +880,59 @@
       "us",
       "cn"
     ]
+  },
+  "reverse-linked-list-ii": {
+    "title": "Reverse Linked List II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "copy-list-with-random-pointer": {
+    "title": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "merge-two-sorted-lists": {
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "add-two-numbers": {
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "range-sum-query-immutable": {
+    "title": "Range Sum Query - Immutable",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "rotate-image": {
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
