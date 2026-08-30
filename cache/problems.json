@@ -997,5 +997,23 @@
       "us",
       "cn"
     ]
+  },
+  "car-pooling": {
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "corporate-flight-bookings": {
+    "title": "Corporate Flight Bookings",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
