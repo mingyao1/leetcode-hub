@@ -943,5 +943,23 @@
       "us",
       "cn"
     ]
+  },
+  "coin-change": {
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "house-robber": {
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
