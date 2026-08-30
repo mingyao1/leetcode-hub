@@ -934,5 +934,14 @@
       "us",
       "cn"
     ]
+  },
+  "range-sum-query-2d-immutable": {
+    "title": "Range Sum Query 2D - Immutable",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
