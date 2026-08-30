@@ -1015,5 +1015,41 @@
       "us",
       "cn"
     ]
+  },
+  "symmetric-tree": {
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "invert-binary-tree": {
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "same-tree": {
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "spiral-matrix": {
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
