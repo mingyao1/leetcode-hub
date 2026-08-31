@@ -1078,5 +1078,41 @@
       "us",
       "cn"
     ]
+  },
+  "binary-tree-right-side-view": {
+    "title": "Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "balanced-binary-tree": {
+    "title": "Balanced Binary Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "diameter-of-binary-tree": {
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "path-sum": {
+    "title": "Path Sum",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
