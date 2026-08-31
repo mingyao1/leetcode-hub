@@ -1051,5 +1051,32 @@
       "us",
       "cn"
     ]
+  },
+  "flatten-binary-tree-to-linked-list": {
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "populating-next-right-pointers-in-each-node-ii": {
+    "title": "Populating Next Right Pointers in Each Node II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "construct-binary-tree-from-inorder-and-postorder-traversal": {
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
