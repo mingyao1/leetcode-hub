@@ -1114,5 +1114,14 @@
       "us",
       "cn"
     ]
+  },
+  "sum-root-to-leaf-numbers": {
+    "title": "Sum Root to Leaf Numbers",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
