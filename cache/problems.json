@@ -1123,5 +1123,104 @@
       "us",
       "cn"
     ]
+  },
+  "combinations": {
+    "title": "Combinations",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "letter-combinations-of-a-phone-number": {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "validate-binary-search-tree": {
+    "title": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "kth-smallest-element-in-a-bst": {
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-absolute-difference-in-bst": {
+    "title": "Minimum Absolute Difference in BST",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "binary-tree-zigzag-level-order-traversal": {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "average-of-levels-in-binary-tree": {
+    "title": "Average of Levels in Binary Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "lowest-common-ancestor-of-a-binary-tree": {
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "count-complete-tree-nodes": {
+    "title": "Count Complete Tree Nodes",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "binary-search-tree-iterator": {
+    "title": "Binary Search Tree Iterator",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "detect-squares": {
+    "title": "Detect Squares",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
