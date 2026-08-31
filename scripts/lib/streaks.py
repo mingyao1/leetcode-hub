@@ -34,29 +34,27 @@ def parse_calendar(submission_calendar_json):
 
 
 def apply_precise_recent(by_date, recent):
-    """Overlay by_date with exact per-submission timestamps from
-    recentAcSubmissionList, bucketed by TIMEZONE day boundaries.
+    """Fill in days the coarse calendar shows as empty, using exact
+    per-submission timestamps from recentAcSubmissionList (bucketed by
+    TIMEZONE day boundaries) -- additive only, never overwrites a day
+    the calendar already has data for.
 
     The calendar only gives UTC-day granularity, which can put a
     submission on the wrong side of "today" near the UTC/TIMEZONE
     boundary (BUILD.md's 'evening solve lands on the next UTC day'
-    gotcha). recentAcSubmissionList carries exact instants for the ~20
-    most recent submissions -- precise enough to fix the near-term days
-    that streak, active_today, and solved_last_7d depend on.
+    gotcha); recentAcSubmissionList carries exact instants that let us
+    recover the correct day for that case. But recentAcSubmissionList is
+    capped at ~20 items, while the calendar is not -- for anyone solving
+    more than ~20 problems in a week, replacing a day's calendar count
+    with the (incomplete) precise count silently undercounts. A day the
+    calendar already reports nonzero for is left untouched; only days
+    the calendar reports as zero get filled in from precise data.
     """
-    if not recent:
-        return dict(by_date)
-
-    precise = {}
+    merged = dict(by_date)
     for sub in recent:
         date = datetime.fromtimestamp(sub["timestamp"], tz=_TZ).date()
-        precise[date] = precise.get(date, 0) + 1
-
-    lo = min(precise) - timedelta(days=1)
-    hi = max(precise) + timedelta(days=1)
-
-    merged = {d: c for d, c in by_date.items() if not (lo <= d <= hi)}
-    merged.update(precise)
+        if merged.get(date, 0) == 0:
+            merged[date] = merged.get(date, 0) + 1
     return merged
 
 
