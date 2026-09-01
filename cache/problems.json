@@ -1285,5 +1285,14 @@
       "us",
       "cn"
     ]
+  },
+  "maximum-sum-circular-subarray": {
+    "title": "Maximum Sum Circular Subarray",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
