@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:35:29.589323Z",
+  "generated_at": "2026-09-01T22:02:21.992831Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-01",
@@ -22,7 +22,7 @@
       "streak": 7,
       "solved_last_7d": 22,
       "active_today": true,
-      "last_fetched": "2026-09-01T19:35:29.589323Z",
+      "last_fetched": "2026-09-01T22:02:21.992831Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 8,
       "solved_last_7d": 124,
       "active_today": true,
-      "last_fetched": "2026-09-01T19:35:29.589323Z",
+      "last_fetched": "2026-09-01T22:02:21.992831Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-09-01T19:35:29.589323Z",
+      "last_fetched": "2026-09-01T22:02:21.992831Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-01T19:35:29.589323Z",
+      "last_fetched": "2026-09-01T22:02:21.992831Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 7,
       "solved_last_7d": 63,
       "active_today": false,
-      "last_fetched": "2026-09-01T19:35:29.589323Z",
+      "last_fetched": "2026-09-01T22:02:21.992831Z",
       "stale": false,
       "error": null
     },
@@ -100,19 +100,55 @@
       "region": "us",
       "solved": {
         "easy": 9,
-        "medium": 73,
+        "medium": 74,
         "hard": 11,
-        "total": 93
+        "total": 94
       },
       "streak": 1,
-      "solved_last_7d": 18,
+      "solved_last_7d": 19,
       "active_today": true,
-      "last_fetched": "2026-09-01T19:35:29.589323Z",
+      "last_fetched": "2026-09-01T22:02:21.992831Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "product-of-array-except-self",
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
+      "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
+      "timestamp": 1788295236
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "house-robber",
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/house-robber/",
+      "url_cn": "https://leetcode.cn/problems/house-robber/",
+      "timestamp": 1788293448
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "climbing-stairs",
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/climbing-stairs/",
+      "url_cn": "https://leetcode.cn/problems/climbing-stairs/",
+      "timestamp": 1788292658
+    },
     {
       "handle": "ConnieXuuu",
       "display_name": "CX_Real",

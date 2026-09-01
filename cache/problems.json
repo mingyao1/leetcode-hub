@@ -1348,5 +1348,14 @@
       "us",
       "cn"
     ]
+  },
+  "climbing-stairs": {
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
