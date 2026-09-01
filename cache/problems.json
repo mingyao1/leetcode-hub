@@ -1339,5 +1339,14 @@
       "us",
       "cn"
     ]
+  },
+  "median-of-two-sorted-arrays": {
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
