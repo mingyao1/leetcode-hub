@@ -1222,5 +1222,68 @@
       "us",
       "cn"
     ]
+  },
+  "binary-tree-maximum-path-sum": {
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "convert-sorted-array-to-binary-search-tree": {
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "word-search": {
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "generate-parentheses": {
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "n-queens-ii": {
+    "title": "N-Queens II",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "combination-sum": {
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "permutations": {
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
