@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:59:52.777088Z",
+  "generated_at": "2026-09-01T16:34:33.010598Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-01",
@@ -15,14 +15,14 @@
       "region": "us",
       "solved": {
         "easy": 37,
-        "medium": 63,
+        "medium": 64,
         "hard": 13,
-        "total": 113
+        "total": 114
       },
-      "streak": 6,
-      "solved_last_7d": 21,
-      "active_today": false,
-      "last_fetched": "2026-09-01T11:59:52.777088Z",
+      "streak": 7,
+      "solved_last_7d": 22,
+      "active_today": true,
+      "last_fetched": "2026-09-01T16:34:33.010598Z",
       "stale": false,
       "error": null
     },
@@ -37,9 +37,9 @@
         "total": 234
       },
       "streak": 8,
-      "solved_last_7d": 117,
+      "solved_last_7d": 124,
       "active_today": true,
-      "last_fetched": "2026-09-01T11:59:52.777088Z",
+      "last_fetched": "2026-09-01T16:34:33.010598Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-09-01T11:59:52.777088Z",
+      "last_fetched": "2026-09-01T16:34:33.010598Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-01T11:59:52.777088Z",
+      "last_fetched": "2026-09-01T16:34:33.010598Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 7,
       "solved_last_7d": 63,
       "active_today": false,
-      "last_fetched": "2026-09-01T11:59:52.777088Z",
+      "last_fetched": "2026-09-01T16:34:33.010598Z",
       "stale": false,
       "error": null
     },
@@ -99,20 +99,116 @@
       "handle": "ConnieXuuu",
       "region": "us",
       "solved": {
-        "easy": 7,
-        "medium": 69,
+        "easy": 8,
+        "medium": 70,
         "hard": 11,
-        "total": 87
+        "total": 89
       },
-      "streak": 0,
-      "solved_last_7d": 6,
-      "active_today": false,
-      "last_fetched": "2026-09-01T11:59:52.777088Z",
+      "streak": 1,
+      "solved_last_7d": 8,
+      "active_today": true,
+      "last_fetched": "2026-09-01T16:34:33.010598Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "url_cn": "https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "timestamp": 1788280251
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "title": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+      "url_cn": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/",
+      "timestamp": 1788279967
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "remove-duplicates-from-sorted-array",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "url_cn": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array/",
+      "timestamp": 1788279398
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "search-in-rotated-sorted-array",
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "url_cn": "https://leetcode.cn/problems/search-in-rotated-sorted-array/",
+      "timestamp": 1788274521
+    },
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "pacific-atlantic-water-flow",
+      "title": "Pacific Atlantic Water Flow",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+      "url_cn": "https://leetcode.cn/problems/pacific-atlantic-water-flow/",
+      "timestamp": 1788273954
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "find-peak-element",
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-peak-element/",
+      "url_cn": "https://leetcode.cn/problems/find-peak-element/",
+      "timestamp": 1788272746
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "search-a-2d-matrix",
+      "title": "Search a 2D Matrix",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "url_cn": "https://leetcode.cn/problems/search-a-2d-matrix/",
+      "timestamp": 1788272730
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "search-insert-position",
+      "title": "Search Insert Position",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/search-insert-position/",
+      "url_cn": "https://leetcode.cn/problems/search-insert-position/",
+      "timestamp": 1788271815
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",

@@ -1294,5 +1294,50 @@
       "us",
       "cn"
     ]
+  },
+  "pacific-atlantic-water-flow": {
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "find-first-and-last-position-of-element-in-sorted-array": {
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "search-a-2d-matrix": {
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "search-insert-position": {
+    "title": "Search Insert Position",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "remove-duplicates-from-sorted-array-ii": {
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
