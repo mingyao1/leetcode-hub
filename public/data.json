@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T00:06:05.806470Z",
+  "generated_at": "2026-09-02T04:31:36.813921Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-02",
@@ -20,9 +20,9 @@
         "total": 114
       },
       "streak": 7,
-      "solved_last_7d": 22,
-      "active_today": true,
-      "last_fetched": "2026-09-02T00:06:05.806470Z",
+      "solved_last_7d": 21,
+      "active_today": false,
+      "last_fetched": "2026-09-02T04:31:36.813921Z",
       "stale": false,
       "error": null
     },
@@ -36,10 +36,10 @@
         "hard": 15,
         "total": 234
       },
-      "streak": 8,
-      "solved_last_7d": 124,
+      "streak": 9,
+      "solved_last_7d": 112,
       "active_today": true,
-      "last_fetched": "2026-09-02T00:06:05.806470Z",
+      "last_fetched": "2026-09-02T04:31:36.813921Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-09-02T00:06:05.806470Z",
+      "last_fetched": "2026-09-02T04:31:36.813921Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-02T00:06:05.806470Z",
+      "last_fetched": "2026-09-02T04:31:36.813921Z",
       "stale": false,
       "error": null
     },
@@ -87,10 +87,10 @@
         "hard": 23,
         "total": 203
       },
-      "streak": 7,
-      "solved_last_7d": 63,
-      "active_today": false,
-      "last_fetched": "2026-09-02T00:06:05.806470Z",
+      "streak": 9,
+      "solved_last_7d": 50,
+      "active_today": true,
+      "last_fetched": "2026-09-02T04:31:36.813921Z",
       "stale": false,
       "error": null
     },
@@ -105,14 +105,62 @@
         "total": 94
       },
       "streak": 1,
-      "solved_last_7d": 19,
-      "active_today": true,
-      "last_fetched": "2026-09-02T00:06:05.806470Z",
+      "solved_last_7d": 13,
+      "active_today": false,
+      "last_fetched": "2026-09-02T04:31:36.813921Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "longest-increasing-subsequence",
+      "title": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "url_cn": "https://leetcode.cn/problems/longest-increasing-subsequence/",
+      "timestamp": 1788317916
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "coin-change",
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/coin-change/",
+      "url_cn": "https://leetcode.cn/problems/coin-change/",
+      "timestamp": 1788317894
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "word-break",
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/word-break/",
+      "url_cn": "https://leetcode.cn/problems/word-break/",
+      "timestamp": 1788314342
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "word-break",
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/word-break/",
+      "url_cn": "https://leetcode.cn/problems/word-break/",
+      "timestamp": 1788313324
+    },
     {
       "handle": "ConnieXuuu",
       "display_name": "CX_Real",
@@ -2020,18 +2068,6 @@
       "url_us": "https://leetcode.com/problems/construct-quad-tree/",
       "url_cn": "https://leetcode.cn/problems/construct-quad-tree/",
       "timestamp": 1785807512
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "maximal-square",
-      "title": "Maximal Square",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/maximal-square/",
-      "url_cn": "https://leetcode.cn/problems/maximal-square/",
-      "timestamp": 1785720749
     }
   ]
 }
