@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T22:02:21.992831Z",
+  "generated_at": "2026-09-02T00:06:05.806470Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-09-01",
-    "title": "Minimum Moves to Clean the Classroom",
-    "slug": "minimum-moves-to-clean-the-classroom",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/"
+    "date": "2026-09-02",
+    "title": "Construct Uniform Parity Array I",
+    "slug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/construct-uniform-parity-array-i/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 7,
       "solved_last_7d": 22,
       "active_today": true,
-      "last_fetched": "2026-09-01T22:02:21.992831Z",
+      "last_fetched": "2026-09-02T00:06:05.806470Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 8,
       "solved_last_7d": 124,
       "active_today": true,
-      "last_fetched": "2026-09-01T22:02:21.992831Z",
+      "last_fetched": "2026-09-02T00:06:05.806470Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-09-01T22:02:21.992831Z",
+      "last_fetched": "2026-09-02T00:06:05.806470Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-01T22:02:21.992831Z",
+      "last_fetched": "2026-09-02T00:06:05.806470Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 7,
       "solved_last_7d": 63,
       "active_today": false,
-      "last_fetched": "2026-09-01T22:02:21.992831Z",
+      "last_fetched": "2026-09-02T00:06:05.806470Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 19,
       "active_today": true,
-      "last_fetched": "2026-09-01T22:02:21.992831Z",
+      "last_fetched": "2026-09-02T00:06:05.806470Z",
       "stale": false,
       "error": null
     }
