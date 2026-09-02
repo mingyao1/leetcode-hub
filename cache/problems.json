@@ -1375,5 +1375,14 @@
       "us",
       "cn"
     ]
+  },
+  "longest-palindromic-substring": {
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
