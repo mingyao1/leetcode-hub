@@ -1384,5 +1384,41 @@
       "us",
       "cn"
     ]
+  },
+  "best-time-to-buy-and-sell-stock-iv": {
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "best-time-to-buy-and-sell-stock-iii": {
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "interleaving-string": {
+    "title": "Interleaving String",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "integer-to-roman": {
+    "title": "Integer to Roman",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

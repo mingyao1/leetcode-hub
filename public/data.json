@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:05:37.107927Z",
+  "generated_at": "2026-09-02T22:38:24.622325Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-02",
@@ -15,14 +15,14 @@
       "region": "us",
       "solved": {
         "easy": 37,
-        "medium": 64,
+        "medium": 65,
         "hard": 13,
-        "total": 114
+        "total": 115
       },
-      "streak": 7,
-      "solved_last_7d": 21,
-      "active_today": false,
-      "last_fetched": "2026-09-02T20:05:37.107927Z",
+      "streak": 8,
+      "solved_last_7d": 22,
+      "active_today": true,
+      "last_fetched": "2026-09-02T22:38:24.622325Z",
       "stale": false,
       "error": null
     },
@@ -32,14 +32,14 @@
       "region": "cn",
       "solved": {
         "easy": 75,
-        "medium": 145,
+        "medium": 146,
         "hard": 15,
-        "total": 235
+        "total": 236
       },
       "streak": 9,
       "solved_last_7d": 112,
       "active_today": true,
-      "last_fetched": "2026-09-02T20:05:37.107927Z",
+      "last_fetched": "2026-09-02T22:38:24.622325Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-09-02T20:05:37.107927Z",
+      "last_fetched": "2026-09-02T22:38:24.622325Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-02T20:05:37.107927Z",
+      "last_fetched": "2026-09-02T22:38:24.622325Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 9,
       "solved_last_7d": 51,
       "active_today": true,
-      "last_fetched": "2026-09-02T20:05:37.107927Z",
+      "last_fetched": "2026-09-02T22:38:24.622325Z",
       "stale": false,
       "error": null
     },
@@ -99,20 +99,152 @@
       "handle": "ConnieXuuu",
       "region": "us",
       "solved": {
-        "easy": 9,
+        "easy": 11,
         "medium": 74,
-        "hard": 11,
-        "total": 94
+        "hard": 13,
+        "total": 98
       },
-      "streak": 1,
-      "solved_last_7d": 13,
-      "active_today": false,
-      "last_fetched": "2026-09-02T20:05:37.107927Z",
+      "streak": 2,
+      "solved_last_7d": 21,
+      "active_today": true,
+      "last_fetched": "2026-09-02T22:38:24.622325Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/valid-palindrome/",
+      "url_cn": "https://leetcode.cn/problems/valid-palindrome/",
+      "timestamp": 1788388507
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "url_cn": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/",
+      "timestamp": 1788388444
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "best-time-to-buy-and-sell-stock-iii",
+      "title": "Best Time to Buy and Sell Stock III",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+      "url_cn": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/",
+      "timestamp": 1788388312
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "longest-common-prefix",
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/longest-common-prefix/",
+      "url_cn": "https://leetcode.cn/problems/longest-common-prefix/",
+      "timestamp": 1788385944
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "length-of-last-word",
+      "title": "Length of Last Word",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/length-of-last-word/",
+      "url_cn": "https://leetcode.cn/problems/length-of-last-word/",
+      "timestamp": 1788385446
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "integer-to-roman",
+      "title": "Integer to Roman",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/integer-to-roman/",
+      "url_cn": "https://leetcode.cn/problems/integer-to-roman/",
+      "timestamp": 1788385068
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "trapping-rain-water",
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/trapping-rain-water/",
+      "url_cn": "https://leetcode.cn/problems/trapping-rain-water/",
+      "timestamp": 1788384299
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "candy",
+      "title": "Candy",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/candy/",
+      "url_cn": "https://leetcode.cn/problems/candy/",
+      "timestamp": 1788383018
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "edit-distance",
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/edit-distance/",
+      "url_cn": "https://leetcode.cn/problems/edit-distance/",
+      "timestamp": 1788381391
+    },
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "surrounded-regions",
+      "title": "Surrounded Regions",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/surrounded-regions/",
+      "url_cn": "https://leetcode.cn/problems/surrounded-regions/",
+      "timestamp": 1788380910
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "interleaving-string",
+      "title": "Interleaving String",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/interleaving-string/",
+      "url_cn": "https://leetcode.cn/problems/interleaving-string/",
+      "timestamp": 1788380187
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
