@@ -1366,5 +1366,14 @@
       "us",
       "cn"
     ]
+  },
+  "triangle": {
+    "title": "Triangle",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
