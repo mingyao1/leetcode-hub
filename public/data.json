@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:05:47.358811Z",
+  "generated_at": "2026-09-03T05:46:31.714749Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-03",
@@ -20,9 +20,9 @@
         "total": 115
       },
       "streak": 8,
-      "solved_last_7d": 22,
-      "active_today": true,
-      "last_fetched": "2026-09-03T01:05:47.358811Z",
+      "solved_last_7d": 14,
+      "active_today": false,
+      "last_fetched": "2026-09-03T05:46:31.714749Z",
       "stale": false,
       "error": null
     },
@@ -31,15 +31,15 @@
       "handle": "eddiehuang",
       "region": "cn",
       "solved": {
-        "easy": 76,
-        "medium": 146,
+        "easy": 77,
+        "medium": 148,
         "hard": 15,
-        "total": 237
+        "total": 240
       },
-      "streak": 9,
-      "solved_last_7d": 112,
+      "streak": 10,
+      "solved_last_7d": 120,
       "active_today": true,
-      "last_fetched": "2026-09-03T01:05:47.358811Z",
+      "last_fetched": "2026-09-03T05:46:31.714749Z",
       "stale": false,
       "error": null
     },
@@ -54,9 +54,9 @@
         "total": 1
       },
       "streak": 0,
-      "solved_last_7d": 2,
+      "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-03T01:05:47.358811Z",
+      "last_fetched": "2026-09-03T05:46:31.714749Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-03T01:05:47.358811Z",
+      "last_fetched": "2026-09-03T05:46:31.714749Z",
       "stale": false,
       "error": null
     },
@@ -88,9 +88,9 @@
         "total": 203
       },
       "streak": 9,
-      "solved_last_7d": 51,
-      "active_today": true,
-      "last_fetched": "2026-09-03T01:05:47.358811Z",
+      "solved_last_7d": 45,
+      "active_today": false,
+      "last_fetched": "2026-09-03T05:46:31.714749Z",
       "stale": false,
       "error": null
     },
@@ -106,13 +106,61 @@
       },
       "streak": 2,
       "solved_last_7d": 21,
-      "active_today": true,
-      "last_fetched": "2026-09-03T01:05:47.358811Z",
+      "active_today": false,
+      "last_fetched": "2026-09-03T05:46:31.714749Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "bitwise-and-of-numbers-range",
+      "title": "Bitwise AND of Numbers Range",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+      "url_cn": "https://leetcode.cn/problems/bitwise-and-of-numbers-range/",
+      "timestamp": 1788404049
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "single-number-ii",
+      "title": "Single Number II",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/single-number-ii/",
+      "url_cn": "https://leetcode.cn/problems/single-number-ii/",
+      "timestamp": 1788403371
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "single-number",
+      "title": "Single Number",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/single-number/",
+      "url_cn": "https://leetcode.cn/problems/single-number/",
+      "timestamp": 1788402579
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "number-of-1-bits",
+      "title": "Number of 1 Bits",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/number-of-1-bits/",
+      "url_cn": "https://leetcode.cn/problems/number-of-1-bits/",
+      "timestamp": 1788401915
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
@@ -2272,18 +2320,6 @@
       "url_us": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
       "url_cn": "https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
       "timestamp": 1785895462
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "construct-quad-tree",
-      "title": "Construct Quad Tree",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/construct-quad-tree/",
-      "url_cn": "https://leetcode.cn/problems/construct-quad-tree/",
-      "timestamp": 1785807512
     }
   ]
 }

@@ -1438,5 +1438,23 @@
       "us",
       "cn"
     ]
+  },
+  "single-number": {
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "number-of-1-bits": {
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
