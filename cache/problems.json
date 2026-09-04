@@ -1483,5 +1483,41 @@
       "us",
       "cn"
     ]
+  },
+  "sqrtx": {
+    "title": "Sqrt(x)",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "factorial-trailing-zeroes": {
+    "title": "Factorial Trailing Zeroes",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "plus-one": {
+    "title": "Plus One",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "palindrome-number": {
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

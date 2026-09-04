@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:32:44.212870Z",
+  "generated_at": "2026-09-04T21:47:13.434891Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-04",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 12,
       "active_today": false,
-      "last_fetched": "2026-09-04T19:32:44.212870Z",
+      "last_fetched": "2026-09-04T21:47:13.434891Z",
       "stale": false,
       "error": null
     },
@@ -31,15 +31,15 @@
       "handle": "eddiehuang",
       "region": "cn",
       "solved": {
-        "easy": 77,
-        "medium": 148,
+        "easy": 78,
+        "medium": 150,
         "hard": 15,
-        "total": 240
+        "total": 243
       },
-      "streak": 10,
-      "solved_last_7d": 110,
-      "active_today": false,
-      "last_fetched": "2026-09-04T19:32:44.212870Z",
+      "streak": 11,
+      "solved_last_7d": 111,
+      "active_today": true,
+      "last_fetched": "2026-09-04T21:47:13.434891Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-04T19:32:44.212870Z",
+      "last_fetched": "2026-09-04T21:47:13.434891Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-04T19:32:44.212870Z",
+      "last_fetched": "2026-09-04T21:47:13.434891Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 11,
       "solved_last_7d": 40,
       "active_today": true,
-      "last_fetched": "2026-09-04T19:32:44.212870Z",
+      "last_fetched": "2026-09-04T21:47:13.434891Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,96 @@
       "streak": 1,
       "solved_last_7d": 23,
       "active_today": true,
-      "last_fetched": "2026-09-04T19:32:44.212870Z",
+      "last_fetched": "2026-09-04T21:47:13.434891Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "powx-n",
+      "title": "Pow(x, n)",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/powx-n/",
+      "url_cn": "https://leetcode.cn/problems/powx-n/",
+      "timestamp": 1788555756
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "sqrtx",
+      "title": "Sqrt(x)",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/sqrtx/",
+      "url_cn": "https://leetcode.cn/problems/sqrtx/",
+      "timestamp": 1788555335
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "sqrtx",
+      "title": "Sqrt(x)",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/sqrtx/",
+      "url_cn": "https://leetcode.cn/problems/sqrtx/",
+      "timestamp": 1788555271
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "factorial-trailing-zeroes",
+      "title": "Factorial Trailing Zeroes",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "url_cn": "https://leetcode.cn/problems/factorial-trailing-zeroes/",
+      "timestamp": 1788554683
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "factorial-trailing-zeroes",
+      "title": "Factorial Trailing Zeroes",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "url_cn": "https://leetcode.cn/problems/factorial-trailing-zeroes/",
+      "timestamp": 1788554594
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "plus-one",
+      "title": "Plus One",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/plus-one/",
+      "url_cn": "https://leetcode.cn/problems/plus-one/",
+      "timestamp": 1788551634
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "palindrome-number",
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/palindrome-number/",
+      "url_cn": "https://leetcode.cn/problems/palindrome-number/",
+      "timestamp": 1788551098
+    },
     {
       "handle": "justin6liu",
       "display_name": "Justin",
