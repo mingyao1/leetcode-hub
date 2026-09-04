@@ -1456,5 +1456,23 @@
       "us",
       "cn"
     ]
+  },
+  "clone-graph": {
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "rotting-oranges": {
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
