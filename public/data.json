@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:00:01.259893Z",
+  "generated_at": "2026-09-05T04:19:42.747336Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-05",
@@ -20,9 +20,9 @@
         "total": 115
       },
       "streak": 0,
-      "solved_last_7d": 12,
+      "solved_last_7d": 11,
       "active_today": false,
-      "last_fetched": "2026-09-05T00:00:01.259893Z",
+      "last_fetched": "2026-09-05T04:19:42.747336Z",
       "stale": false,
       "error": null
     },
@@ -36,10 +36,10 @@
         "hard": 15,
         "total": 243
       },
-      "streak": 11,
-      "solved_last_7d": 111,
+      "streak": 12,
+      "solved_last_7d": 105,
       "active_today": true,
-      "last_fetched": "2026-09-05T00:00:01.259893Z",
+      "last_fetched": "2026-09-05T04:19:42.747336Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-05T00:00:01.259893Z",
+      "last_fetched": "2026-09-05T04:19:42.747336Z",
       "stale": false,
       "error": null
     },
@@ -71,9 +71,9 @@
         "total": 67
       },
       "streak": 0,
-      "solved_last_7d": 6,
+      "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-05T00:00:01.259893Z",
+      "last_fetched": "2026-09-05T04:19:42.747336Z",
       "stale": false,
       "error": null
     },
@@ -82,15 +82,15 @@
       "handle": "justin6liu",
       "region": "us",
       "solved": {
-        "easy": 67,
-        "medium": 114,
+        "easy": 68,
+        "medium": 115,
         "hard": 23,
-        "total": 204
+        "total": 206
       },
-      "streak": 11,
-      "solved_last_7d": 40,
+      "streak": 12,
+      "solved_last_7d": 30,
       "active_today": true,
-      "last_fetched": "2026-09-05T00:00:01.259893Z",
+      "last_fetched": "2026-09-05T04:19:42.747336Z",
       "stale": false,
       "error": null
     },
@@ -106,13 +106,37 @@
       },
       "streak": 1,
       "solved_last_7d": 23,
-      "active_today": true,
-      "last_fetched": "2026-09-05T00:00:01.259893Z",
+      "active_today": false,
+      "last_fetched": "2026-09-05T04:19:42.747336Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "rotate-array",
+      "title": "Rotate Array",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/rotate-array/",
+      "url_cn": "https://leetcode.cn/problems/rotate-array/",
+      "timestamp": 1788575048
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "palindrome-number",
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/palindrome-number/",
+      "url_cn": "https://leetcode.cn/problems/palindrome-number/",
+      "timestamp": 1788573571
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
@@ -2464,18 +2488,6 @@
       "url_us": "https://leetcode.com/problems/simplify-path/",
       "url_cn": "https://leetcode.cn/problems/simplify-path/",
       "timestamp": 1786066256
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "word-search-ii",
-      "title": "Word Search II",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/word-search-ii/",
-      "url_cn": "https://leetcode.cn/problems/word-search-ii/",
-      "timestamp": 1785980408
     }
   ]
 }
