@@ -1519,5 +1519,14 @@
       "us",
       "cn"
     ]
+  },
+  "implement-trie-prefix-tree": {
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
