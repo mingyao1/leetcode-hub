@@ -1564,5 +1564,14 @@
       "us",
       "cn"
     ]
+  },
+  "parallel-courses": {
+    "title": "Parallel Courses",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
