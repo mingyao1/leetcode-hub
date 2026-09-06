@@ -1573,5 +1573,14 @@
       "us",
       "cn"
     ]
+  },
+  "subarray-sum-equals-k": {
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

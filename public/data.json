@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T23:50:57.040656Z",
+  "generated_at": "2026-09-06T04:30:51.305889Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-09-05",
-    "title": "Smallest Stable Index II",
-    "slug": "smallest-stable-index-ii",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/smallest-stable-index-ii/"
+    "date": "2026-09-06",
+    "title": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/distinct-subsequences/"
   },
   "users": [
     {
@@ -20,9 +20,9 @@
         "total": 115
       },
       "streak": 0,
-      "solved_last_7d": 11,
+      "solved_last_7d": 10,
       "active_today": false,
-      "last_fetched": "2026-09-05T23:50:57.040656Z",
+      "last_fetched": "2026-09-06T04:30:51.305889Z",
       "stale": false,
       "error": null
     },
@@ -31,15 +31,15 @@
       "handle": "eddiehuang",
       "region": "cn",
       "solved": {
-        "easy": 78,
+        "easy": 79,
         "medium": 153,
         "hard": 15,
-        "total": 246
+        "total": 247
       },
-      "streak": 12,
-      "solved_last_7d": 105,
+      "streak": 13,
+      "solved_last_7d": 100,
       "active_today": true,
-      "last_fetched": "2026-09-05T23:50:57.040656Z",
+      "last_fetched": "2026-09-06T04:30:51.305889Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-05T23:50:57.040656Z",
+      "last_fetched": "2026-09-06T04:30:51.305889Z",
       "stale": false,
       "error": null
     },
@@ -71,9 +71,9 @@
         "total": 67
       },
       "streak": 0,
-      "solved_last_7d": 5,
+      "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-05T23:50:57.040656Z",
+      "last_fetched": "2026-09-06T04:30:51.305889Z",
       "stale": false,
       "error": null
     },
@@ -83,14 +83,14 @@
       "region": "us",
       "solved": {
         "easy": 68,
-        "medium": 116,
+        "medium": 117,
         "hard": 23,
-        "total": 207
+        "total": 208
       },
-      "streak": 12,
-      "solved_last_7d": 33,
+      "streak": 13,
+      "solved_last_7d": 36,
       "active_today": true,
-      "last_fetched": "2026-09-05T23:50:57.040656Z",
+      "last_fetched": "2026-09-06T04:30:51.305889Z",
       "stale": false,
       "error": null
     },
@@ -104,15 +104,51 @@
         "hard": 13,
         "total": 98
       },
-      "streak": 1,
+      "streak": 0,
       "solved_last_7d": 23,
       "active_today": false,
-      "last_fetched": "2026-09-05T23:50:57.040656Z",
+      "last_fetched": "2026-09-06T04:30:51.305889Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "minimum-window-substring",
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/minimum-window-substring/",
+      "url_cn": "https://leetcode.cn/problems/minimum-window-substring/",
+      "timestamp": 1788662326
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "subarray-sum-equals-k",
+      "title": "Subarray Sum Equals K",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "url_cn": "https://leetcode.cn/problems/subarray-sum-equals-k/",
+      "timestamp": 1788659543
+    },
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "combination-sum",
+      "title": "Combination Sum",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/combination-sum/",
+      "url_cn": "https://leetcode.cn/problems/combination-sum/",
+      "timestamp": 1788658083
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
@@ -2536,18 +2572,6 @@
       "url_us": "https://leetcode.com/problems/surrounded-regions/",
       "url_cn": "https://leetcode.cn/problems/surrounded-regions/",
       "timestamp": 1786456170
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "simplify-path",
-      "title": "Simplify Path",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/simplify-path/",
-      "url_cn": "https://leetcode.cn/problems/simplify-path/",
-      "timestamp": 1786066256
     }
   ]
 }
