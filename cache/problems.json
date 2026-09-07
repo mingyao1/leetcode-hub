@@ -1609,5 +1609,23 @@
       "us",
       "cn"
     ]
+  },
+  "alien-dictionary": {
+    "title": "Alien Dictionary",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "shortest-distance-from-all-buildings": {
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
