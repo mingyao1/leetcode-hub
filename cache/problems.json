@@ -1591,5 +1591,23 @@
       "us",
       "cn"
     ]
+  },
+  "walls-and-gates": {
+    "title": "Walls and Gates",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "the-maze-ii": {
+    "title": "The Maze II",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
