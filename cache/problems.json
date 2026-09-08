@@ -1654,5 +1654,23 @@
       "us",
       "cn"
     ]
+  },
+  "palindrome-partitioning": {
+    "title": "Palindrome Partitioning",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "distinct-subsequences": {
+    "title": "Distinct Subsequences",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
