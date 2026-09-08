@@ -1627,5 +1627,32 @@
       "us",
       "cn"
     ]
+  },
+  "one-edit-distance": {
+    "title": "One Edit Distance",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "largest-unique-number": {
+    "title": "Largest Unique Number",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "group-shifted-strings": {
+    "title": "Group Shifted Strings",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
