@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:18:38.650880Z",
+  "generated_at": "2026-09-09T16:52:45.842219Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-09",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-09T12:18:38.650880Z",
+      "last_fetched": "2026-09-09T16:52:45.842219Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 16,
       "solved_last_7d": 52,
       "active_today": true,
-      "last_fetched": "2026-09-09T12:18:38.650880Z",
+      "last_fetched": "2026-09-09T16:52:45.842219Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-09T12:18:38.650880Z",
+      "last_fetched": "2026-09-09T16:52:45.842219Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-09T12:18:38.650880Z",
+      "last_fetched": "2026-09-09T16:52:45.842219Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 15,
       "solved_last_7d": 36,
       "active_today": false,
-      "last_fetched": "2026-09-09T12:18:38.650880Z",
+      "last_fetched": "2026-09-09T16:52:45.842219Z",
       "stale": false,
       "error": null
     },
@@ -99,20 +99,32 @@
       "handle": "ConnieXuuu",
       "region": "us",
       "solved": {
-        "easy": 11,
+        "easy": 12,
         "medium": 74,
         "hard": 13,
-        "total": 98
+        "total": 99
       },
-      "streak": 0,
-      "solved_last_7d": 2,
-      "active_today": false,
-      "last_fetched": "2026-09-09T12:18:38.650880Z",
+      "streak": 1,
+      "solved_last_7d": 3,
+      "active_today": true,
+      "last_fetched": "2026-09-09T16:52:45.842219Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "title": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "url_cn": "https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "timestamp": 1788970458
+    },
     {
       "handle": "justin6liu",
       "display_name": "Justin",
