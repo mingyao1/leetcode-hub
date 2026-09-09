@@ -1690,5 +1690,41 @@
       "us",
       "cn"
     ]
+  },
+  "word-ladder": {
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "confusing-number": {
+    "title": "Confusing Number",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "wiggle-sort": {
+    "title": "Wiggle Sort",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "valid-sudoku": {
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
