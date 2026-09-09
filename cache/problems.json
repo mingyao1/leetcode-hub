@@ -1672,5 +1672,23 @@
       "us",
       "cn"
     ]
+  },
+  "4sum": {
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "3sum-closest": {
+    "title": "3Sum Closest",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
