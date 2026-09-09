@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T22:57:29.011174Z",
+  "generated_at": "2026-09-09T01:13:13.366712Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-09-08",
-    "title": "Count Commas in Range",
-    "slug": "count-commas-in-range",
-    "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/count-commas-in-range/"
+    "date": "2026-09-09",
+    "title": "Count Commas in Range II",
+    "slug": "count-commas-in-range-ii",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/count-commas-in-range-ii/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-09-08T22:57:29.011174Z",
+      "last_fetched": "2026-09-09T01:13:13.366712Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 15,
       "solved_last_7d": 57,
       "active_today": true,
-      "last_fetched": "2026-09-08T22:57:29.011174Z",
+      "last_fetched": "2026-09-09T01:13:13.366712Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-08T22:57:29.011174Z",
+      "last_fetched": "2026-09-09T01:13:13.366712Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-08T22:57:29.011174Z",
+      "last_fetched": "2026-09-09T01:13:13.366712Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 15,
       "solved_last_7d": 40,
       "active_today": true,
-      "last_fetched": "2026-09-08T22:57:29.011174Z",
+      "last_fetched": "2026-09-09T01:13:13.366712Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 10,
       "active_today": false,
-      "last_fetched": "2026-09-08T22:57:29.011174Z",
+      "last_fetched": "2026-09-09T01:13:13.366712Z",
       "stale": false,
       "error": null
     }
