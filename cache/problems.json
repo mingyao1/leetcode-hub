@@ -1762,5 +1762,32 @@
       "us",
       "cn"
     ]
+  },
+  "add-bold-tag-in-string": {
+    "title": "Add Bold Tag in String",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "lonely-pixel-i": {
+    "title": "Lonely Pixel I",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "sparse-matrix-multiplication": {
+    "title": "Sparse Matrix Multiplication",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
