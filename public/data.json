@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:01:32.093340Z",
+  "generated_at": "2026-09-10T14:23:04.534834Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-10",
@@ -22,7 +22,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-09-10T10:01:32.093340Z",
+      "last_fetched": "2026-09-10T14:23:04.534834Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 6,
       "solved_last_7d": 37,
       "active_today": true,
-      "last_fetched": "2026-09-10T10:01:32.093340Z",
+      "last_fetched": "2026-09-10T14:23:04.534834Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-10T10:01:32.093340Z",
+      "last_fetched": "2026-09-10T14:23:04.534834Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-10T10:01:32.093340Z",
+      "last_fetched": "2026-09-10T14:23:04.534834Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 16,
       "solved_last_7d": 36,
       "active_today": false,
-      "last_fetched": "2026-09-10T10:01:32.093340Z",
+      "last_fetched": "2026-09-10T14:23:04.534834Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 15,
       "active_today": false,
-      "last_fetched": "2026-09-10T10:01:32.093340Z",
+      "last_fetched": "2026-09-10T14:23:04.534834Z",
       "stale": false,
       "error": null
     }
@@ -2884,18 +2884,6 @@
       "url_us": "https://leetcode.com/problems/jump-game-ii/",
       "url_cn": "https://leetcode.cn/problems/jump-game-ii/",
       "timestamp": 1787678866
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "surrounded-regions",
-      "title": "Surrounded Regions",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/surrounded-regions/",
-      "url_cn": "https://leetcode.cn/problems/surrounded-regions/",
-      "timestamp": 1786456170
     }
   ]
 }
