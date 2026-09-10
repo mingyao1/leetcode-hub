@@ -1744,5 +1744,23 @@
       "us",
       "cn"
     ]
+  },
+  "find-smallest-common-element-in-all-rows": {
+    "title": "Find Smallest Common Element in All Rows",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "max-area-of-island": {
+    "title": "Max Area of Island",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
