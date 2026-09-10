@@ -1726,5 +1726,23 @@
       "us",
       "cn"
     ]
+  },
+  "longest-substring-with-at-most-k-distinct-characters": {
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "reverse-words-in-a-string-ii": {
+    "title": "Reverse Words in a String II",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
