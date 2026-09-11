@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:10:45.815649Z",
+  "generated_at": "2026-09-11T18:44:14.437882Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-11",
@@ -22,7 +22,7 @@
       "streak": 2,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-11T15:10:45.815649Z",
+      "last_fetched": "2026-09-11T18:44:14.437882Z",
       "stale": false,
       "error": null
     },
@@ -32,14 +32,14 @@
       "region": "cn",
       "solved": {
         "easy": 80,
-        "medium": 158,
+        "medium": 160,
         "hard": 17,
-        "total": 255
+        "total": 257
       },
       "streak": 7,
       "solved_last_7d": 42,
       "active_today": true,
-      "last_fetched": "2026-09-11T15:10:45.815649Z",
+      "last_fetched": "2026-09-11T18:44:14.437882Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-11T15:10:45.815649Z",
+      "last_fetched": "2026-09-11T18:44:14.437882Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-11T15:10:45.815649Z",
+      "last_fetched": "2026-09-11T18:44:14.437882Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 10,
       "solved_last_7d": 36,
       "active_today": true,
-      "last_fetched": "2026-09-11T15:10:45.815649Z",
+      "last_fetched": "2026-09-11T18:44:14.437882Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,48 @@
       "streak": 0,
       "solved_last_7d": 13,
       "active_today": false,
-      "last_fetched": "2026-09-11T15:10:45.815649Z",
+      "last_fetched": "2026-09-11T18:44:14.437882Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "find-permutation",
+      "title": "Find Permutation",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/find-permutation/",
+      "url_cn": "https://leetcode.cn/problems/find-permutation/",
+      "timestamp": 1789150887
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "ternary-expression-parser",
+      "title": "Ternary Expression Parser",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/ternary-expression-parser/",
+      "url_cn": "https://leetcode.cn/problems/ternary-expression-parser/",
+      "timestamp": 1789150553
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "remove-interval",
+      "title": "Remove Interval",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/remove-interval/",
+      "url_cn": "https://leetcode.cn/problems/remove-interval/",
+      "timestamp": 1789149380
+    },
     {
       "handle": "justin6liu",
       "display_name": "Justin",
