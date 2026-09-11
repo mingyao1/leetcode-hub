@@ -1798,5 +1798,32 @@
       "us",
       "cn"
     ]
+  },
+  "time-based-key-value-store": {
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-interval-to-include-each-query": {
+    "title": "Minimum Interval to Include Each Query",
+    "difficulty": "Hard",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "partition-labels": {
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
