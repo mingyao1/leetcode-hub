@@ -1852,5 +1852,32 @@
       "us",
       "cn"
     ]
+  },
+  "unique-paths": {
+    "title": "Unique Paths",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "sum-of-two-integers": {
+    "title": "Sum of Two Integers",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "basic-calculator-iii": {
+    "title": "Basic Calculator III",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
