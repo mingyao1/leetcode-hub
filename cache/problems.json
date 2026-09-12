@@ -1888,5 +1888,23 @@
       "us",
       "cn"
     ]
+  },
+  "target-sum": {
+    "title": "Target Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "longest-common-subsequence": {
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
