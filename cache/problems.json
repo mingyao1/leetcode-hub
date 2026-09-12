@@ -1879,5 +1879,14 @@
       "us",
       "cn"
     ]
+  },
+  "longest-repeating-character-replacement": {
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
