@@ -1906,5 +1906,14 @@
       "us",
       "cn"
     ]
+  },
+  "koko-eating-bananas": {
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
