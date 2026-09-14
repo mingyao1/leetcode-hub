@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:57:47.949306Z",
+  "generated_at": "2026-09-14T16:56:41.671152Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-14",
@@ -15,14 +15,14 @@
       "region": "us",
       "solved": {
         "easy": 37,
-        "medium": 71,
+        "medium": 72,
         "hard": 14,
-        "total": 122
+        "total": 123
       },
-      "streak": 0,
-      "solved_last_7d": 13,
-      "active_today": false,
-      "last_fetched": "2026-09-14T10:57:47.949306Z",
+      "streak": 1,
+      "solved_last_7d": 16,
+      "active_today": true,
+      "last_fetched": "2026-09-14T16:56:41.671152Z",
       "stale": false,
       "error": null
     },
@@ -39,9 +39,9 @@
       "streak": 0,
       "solved_last_7d": 26,
       "active_today": false,
-      "last_fetched": "2026-09-14T05:25:32.065615Z",
+      "last_fetched": "2026-09-14T16:56:41.671152Z",
       "stale": false,
-      "error": "HTTP 403: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-yqHUxemoLUvduHdBtxRF2B&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-s"
+      "error": null
     },
     {
       "display_name": "keyjia",
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-14T10:57:47.949306Z",
+      "last_fetched": "2026-09-14T16:56:41.671152Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-14T10:57:47.949306Z",
+      "last_fetched": "2026-09-14T16:56:41.671152Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 1,
       "solved_last_7d": 22,
       "active_today": false,
-      "last_fetched": "2026-09-14T10:57:47.949306Z",
+      "last_fetched": "2026-09-14T16:56:41.671152Z",
       "stale": false,
       "error": null
     },
@@ -100,19 +100,55 @@
       "region": "us",
       "solved": {
         "easy": 14,
-        "medium": 80,
+        "medium": 81,
         "hard": 13,
-        "total": 107
+        "total": 108
       },
-      "streak": 1,
-      "solved_last_7d": 19,
-      "active_today": false,
-      "last_fetched": "2026-09-14T10:57:47.949306Z",
+      "streak": 2,
+      "solved_last_7d": 22,
+      "active_today": true,
+      "last_fetched": "2026-09-14T16:56:41.671152Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "interleaving-string",
+      "title": "Interleaving String",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/interleaving-string/",
+      "url_cn": "https://leetcode.cn/problems/interleaving-string/",
+      "timestamp": 1789401668
+    },
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "target-sum",
+      "title": "Target Sum",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/target-sum/",
+      "url_cn": "https://leetcode.cn/problems/target-sum/",
+      "timestamp": 1789400650
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "count-complete-tree-nodes",
+      "title": "Count Complete Tree Nodes",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "url_cn": "https://leetcode.cn/problems/count-complete-tree-nodes/",
+      "timestamp": 1789397528
+    },
     {
       "handle": "justin6liu",
       "display_name": "Justin",
