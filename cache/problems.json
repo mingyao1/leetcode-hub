@@ -1933,5 +1933,23 @@
       "us",
       "cn"
     ]
+  },
+  "plus-one-linked-list": {
+    "title": "Plus One Linked List",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "meeting-rooms-ii": {
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
