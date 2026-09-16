@@ -1951,5 +1951,14 @@
       "us",
       "cn"
     ]
+  },
+  "verify-preorder-sequence-in-binary-search-tree": {
+    "title": "Verify Preorder Sequence in Binary Search Tree",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
