@@ -1960,5 +1960,32 @@
       "us",
       "cn"
     ]
+  },
+  "closest-binary-search-tree-value": {
+    "title": "Closest Binary Search Tree Value",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "find-leaves-of-binary-tree": {
+    "title": "Find Leaves of Binary Tree",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "two-sum-bsts": {
+    "title": "Two Sum BSTs",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

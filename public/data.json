@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T22:07:47.112122Z",
+  "generated_at": "2026-09-17T00:52:24.403459Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-09-16",
-    "title": "Number of Sets of K Non-Overlapping Line Segments",
-    "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+    "date": "2026-09-17",
+    "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/"
+    "url": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/"
   },
   "users": [
     {
@@ -19,10 +19,10 @@
         "hard": 14,
         "total": 123
       },
-      "streak": 0,
-      "solved_last_7d": 15,
-      "active_today": false,
-      "last_fetched": "2026-09-16T22:07:47.112122Z",
+      "streak": 1,
+      "solved_last_7d": 16,
+      "active_today": true,
+      "last_fetched": "2026-09-17T00:52:24.403459Z",
       "stale": false,
       "error": null
     },
@@ -32,14 +32,14 @@
       "region": "cn",
       "solved": {
         "easy": 80,
-        "medium": 162,
+        "medium": 164,
         "hard": 18,
-        "total": 260
+        "total": 262
       },
       "streak": 2,
       "solved_last_7d": 19,
       "active_today": true,
-      "last_fetched": "2026-09-16T22:07:47.112122Z",
+      "last_fetched": "2026-09-17T00:52:24.403459Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-16T22:07:47.112122Z",
+      "last_fetched": "2026-09-17T00:52:24.403459Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-16T22:07:47.112122Z",
+      "last_fetched": "2026-09-17T00:52:24.403459Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 4,
       "solved_last_7d": 20,
       "active_today": true,
-      "last_fetched": "2026-09-16T22:07:47.112122Z",
+      "last_fetched": "2026-09-17T00:52:24.403459Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,60 @@
       "streak": 0,
       "solved_last_7d": 9,
       "active_today": false,
-      "last_fetched": "2026-09-16T22:07:47.112122Z",
+      "last_fetched": "2026-09-17T00:52:24.403459Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "closest-binary-search-tree-value",
+      "title": "Closest Binary Search Tree Value",
+      "difficulty": "Easy",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/closest-binary-search-tree-value/",
+      "url_cn": "https://leetcode.cn/problems/closest-binary-search-tree-value/",
+      "timestamp": 1789599379
+    },
+    {
+      "handle": "mingyaol",
+      "display_name": "Mingyao",
+      "region": "us",
+      "slug": "coin-change",
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/coin-change/",
+      "url_cn": "https://leetcode.cn/problems/coin-change/",
+      "timestamp": 1789599185
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "find-leaves-of-binary-tree",
+      "title": "Find Leaves of Binary Tree",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/find-leaves-of-binary-tree/",
+      "url_cn": "https://leetcode.cn/problems/find-leaves-of-binary-tree/",
+      "timestamp": 1789598862
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "two-sum-bsts",
+      "title": "Two Sum BSTs",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/two-sum-bsts/",
+      "url_cn": "https://leetcode.cn/problems/two-sum-bsts/",
+      "timestamp": 1789598335
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
