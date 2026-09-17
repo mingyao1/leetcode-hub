@@ -1987,5 +1987,32 @@
       "us",
       "cn"
     ]
+  },
+  "binary-tree-vertical-order-traversal": {
+    "title": "Binary Tree Vertical Order Traversal",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "largest-bst-subtree": {
+    "title": "Largest BST Subtree",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "merge-triplets-to-form-target-triplet": {
+    "title": "Merge Triplets to Form Target Triplet",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
