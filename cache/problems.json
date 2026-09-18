@@ -2014,5 +2014,32 @@
       "us",
       "cn"
     ]
+  },
+  "number-of-distinct-islands": {
+    "title": "Number of Distinct Islands",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "counting-elements": {
+    "title": "Counting Elements",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "car-fleet": {
+    "title": "Car Fleet",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
