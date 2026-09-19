@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:18:11.240380Z",
+  "generated_at": "2026-09-19T21:43:24.979270Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-19",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-09-19T19:18:11.240380Z",
+      "last_fetched": "2026-09-19T21:43:24.979270Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 5,
       "solved_last_7d": 17,
       "active_today": true,
-      "last_fetched": "2026-09-19T19:18:11.240380Z",
+      "last_fetched": "2026-09-19T21:43:24.979270Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-19T19:18:11.240380Z",
+      "last_fetched": "2026-09-19T21:43:24.979270Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-19T19:18:11.240380Z",
+      "last_fetched": "2026-09-19T21:43:24.979270Z",
       "stale": false,
       "error": null
     },
@@ -83,14 +83,14 @@
       "region": "us",
       "solved": {
         "easy": 69,
-        "medium": 131,
+        "medium": 132,
         "hard": 26,
-        "total": 226
+        "total": 227
       },
-      "streak": 6,
-      "solved_last_7d": 13,
-      "active_today": false,
-      "last_fetched": "2026-09-19T19:18:11.240380Z",
+      "streak": 7,
+      "solved_last_7d": 14,
+      "active_today": true,
+      "last_fetched": "2026-09-19T21:43:24.979270Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,24 @@
       "streak": 0,
       "solved_last_7d": 11,
       "active_today": false,
-      "last_fetched": "2026-09-19T19:18:11.240380Z",
+      "last_fetched": "2026-09-19T21:43:24.979270Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "justin6liu",
+      "display_name": "Justin",
+      "region": "us",
+      "slug": "hand-of-straights",
+      "title": "Hand of Straights",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/hand-of-straights/",
+      "url_cn": "https://leetcode.cn/problems/hand-of-straights/",
+      "timestamp": 1789852126
+    },
     {
       "handle": "justin6liu",
       "display_name": "Justin",

@@ -2041,5 +2041,14 @@
       "us",
       "cn"
     ]
+  },
+  "hand-of-straights": {
+    "title": "Hand of Straights",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
