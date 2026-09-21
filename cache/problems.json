@@ -2059,5 +2059,23 @@
       "us",
       "cn"
     ]
+  },
+  "strobogrammatic-number-ii": {
+    "title": "Strobogrammatic Number II",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-cost-to-connect-sticks": {
+    "title": "Minimum Cost to Connect Sticks",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

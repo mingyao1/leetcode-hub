@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:38:03.778038Z",
+  "generated_at": "2026-09-21T07:55:07.140195Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-21",
@@ -20,9 +20,9 @@
         "total": 124
       },
       "streak": 1,
-      "solved_last_7d": 6,
-      "active_today": true,
-      "last_fetched": "2026-09-21T01:38:03.778038Z",
+      "solved_last_7d": 3,
+      "active_today": false,
+      "last_fetched": "2026-09-21T07:55:07.140195Z",
       "stale": false,
       "error": null
     },
@@ -32,14 +32,14 @@
       "region": "cn",
       "solved": {
         "easy": 81,
-        "medium": 167,
+        "medium": 168,
         "hard": 18,
-        "total": 266
+        "total": 267
       },
-      "streak": 5,
-      "solved_last_7d": 17,
-      "active_today": false,
-      "last_fetched": "2026-09-21T01:38:03.778038Z",
+      "streak": 1,
+      "solved_last_7d": 20,
+      "active_today": true,
+      "last_fetched": "2026-09-21T07:55:07.140195Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-21T01:38:03.778038Z",
+      "last_fetched": "2026-09-21T07:55:07.140195Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-21T01:38:03.778038Z",
+      "last_fetched": "2026-09-21T07:55:07.140195Z",
       "stale": false,
       "error": null
     },
@@ -87,10 +87,10 @@
         "hard": 26,
         "total": 227
       },
-      "streak": 7,
-      "solved_last_7d": 13,
+      "streak": 0,
+      "solved_last_7d": 12,
       "active_today": false,
-      "last_fetched": "2026-09-21T01:38:03.778038Z",
+      "last_fetched": "2026-09-21T07:55:07.140195Z",
       "stale": false,
       "error": null
     },
@@ -105,14 +105,38 @@
         "total": 109
       },
       "streak": 0,
-      "solved_last_7d": 5,
+      "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-09-21T01:38:03.778038Z",
+      "last_fetched": "2026-09-21T07:55:07.140195Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "strobogrammatic-number-ii",
+      "title": "Strobogrammatic Number II",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/strobogrammatic-number-ii/",
+      "url_cn": "https://leetcode.cn/problems/strobogrammatic-number-ii/",
+      "timestamp": 1789966483
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "minimum-cost-to-connect-sticks",
+      "title": "Minimum Cost to Connect Sticks",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+      "url_cn": "https://leetcode.cn/problems/minimum-cost-to-connect-sticks/",
+      "timestamp": 1789963655
+    },
     {
       "handle": "mingyaol",
       "display_name": "Mingyao",
