@@ -2077,5 +2077,23 @@
       "us",
       "cn"
     ]
+  },
+  "candy-crush": {
+    "title": "Candy Crush",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "insert-into-a-sorted-circular-linked-list": {
+    "title": "Insert into a Sorted Circular Linked List",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
