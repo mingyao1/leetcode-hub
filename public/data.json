@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T13:22:39.349134Z",
+  "generated_at": "2026-09-22T17:45:04.660140Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-22",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-22T13:22:39.349134Z",
+      "last_fetched": "2026-09-22T17:45:04.660140Z",
       "stale": false,
       "error": null
     },
@@ -31,15 +31,15 @@
       "handle": "eddiehuang",
       "region": "cn",
       "solved": {
-        "easy": 81,
-        "medium": 169,
+        "easy": 82,
+        "medium": 170,
         "hard": 19,
-        "total": 269
+        "total": 271
       },
       "streak": 2,
-      "solved_last_7d": 24,
+      "solved_last_7d": 26,
       "active_today": true,
-      "last_fetched": "2026-09-22T13:22:39.349134Z",
+      "last_fetched": "2026-09-22T17:45:04.660140Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-22T13:22:39.349134Z",
+      "last_fetched": "2026-09-22T17:45:04.660140Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-22T13:22:39.349134Z",
+      "last_fetched": "2026-09-22T17:45:04.660140Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 9,
       "active_today": false,
-      "last_fetched": "2026-09-22T13:22:39.349134Z",
+      "last_fetched": "2026-09-22T17:45:04.660140Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,36 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-09-22T13:22:39.349134Z",
+      "last_fetched": "2026-09-22T17:45:04.660140Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "find-k-length-substrings-with-no-repeated-characters",
+      "title": "Find K-Length Substrings With No Repeated Characters",
+      "difficulty": "Medium",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/",
+      "url_cn": "https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/",
+      "timestamp": 1790090077
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "moving-average-from-data-stream",
+      "title": "Moving Average from Data Stream",
+      "difficulty": "Easy",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/moving-average-from-data-stream/",
+      "url_cn": "https://leetcode.cn/problems/moving-average-from-data-stream/",
+      "timestamp": 1790088902
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
