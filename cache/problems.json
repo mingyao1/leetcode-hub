@@ -2095,5 +2095,14 @@
       "us",
       "cn"
     ]
+  },
+  "design-search-autocomplete-system": {
+    "title": "Design Search Autocomplete System",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
