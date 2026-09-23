@@ -2122,5 +2122,14 @@
       "us",
       "cn"
     ]
+  },
+  "network-delay-time": {
+    "title": "Network Delay Time",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
