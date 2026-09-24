@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T22:15:20.804971Z",
+  "generated_at": "2026-09-24T00:52:07.632287Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-09-23",
-    "title": "Minimum Operations to Reduce X to Zero",
-    "slug": "minimum-operations-to-reduce-x-to-zero",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/"
+    "date": "2026-09-24",
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "slug": "smallest-index-with-digit-sum-equal-to-index",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 1,
       "solved_last_7d": 3,
       "active_today": true,
-      "last_fetched": "2026-09-23T22:15:20.804971Z",
+      "last_fetched": "2026-09-24T00:52:07.632287Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 23,
       "active_today": false,
-      "last_fetched": "2026-09-23T22:15:20.804971Z",
+      "last_fetched": "2026-09-24T00:52:07.632287Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-23T22:15:20.804971Z",
+      "last_fetched": "2026-09-24T00:52:07.632287Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-23T22:15:20.804971Z",
+      "last_fetched": "2026-09-24T00:52:07.632287Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-09-23T22:15:20.804971Z",
+      "last_fetched": "2026-09-24T00:52:07.632287Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 7,
       "active_today": true,
-      "last_fetched": "2026-09-23T22:15:20.804971Z",
+      "last_fetched": "2026-09-24T00:52:07.632287Z",
       "stale": false,
       "error": null
     }
