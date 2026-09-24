@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:45:52.215992Z",
+  "generated_at": "2026-09-24T23:51:53.801071Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-24",
@@ -22,7 +22,7 @@
       "streak": 1,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-24T20:45:52.215992Z",
+      "last_fetched": "2026-09-24T23:51:53.801071Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 1,
       "solved_last_7d": 18,
       "active_today": true,
-      "last_fetched": "2026-09-24T20:45:52.215992Z",
+      "last_fetched": "2026-09-24T23:51:53.801071Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-24T20:45:52.215992Z",
+      "last_fetched": "2026-09-24T23:51:53.801071Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-24T20:45:52.215992Z",
+      "last_fetched": "2026-09-24T23:51:53.801071Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-09-24T20:45:52.215992Z",
+      "last_fetched": "2026-09-24T23:51:53.801071Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-24T20:45:52.215992Z",
+      "last_fetched": "2026-09-24T23:51:53.801071Z",
       "stale": false,
       "error": null
     }
@@ -3592,42 +3592,6 @@
       "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
       "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
       "timestamp": 1787703872
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "valid-anagram",
-      "title": "Valid Anagram",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/valid-anagram/",
-      "url_cn": "https://leetcode.cn/problems/valid-anagram/",
-      "timestamp": 1787696350
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "contains-duplicate",
-      "title": "Contains Duplicate",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/contains-duplicate/",
-      "url_cn": "https://leetcode.cn/problems/contains-duplicate/",
-      "timestamp": 1787695781
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "two-sum",
-      "title": "Two Sum",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/two-sum/",
-      "url_cn": "https://leetcode.cn/problems/two-sum/",
-      "timestamp": 1787695153
     }
   ]
 }
