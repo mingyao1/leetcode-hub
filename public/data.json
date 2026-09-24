@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:31:54.426755Z",
+  "generated_at": "2026-09-24T20:45:52.215992Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-24",
@@ -22,7 +22,7 @@
       "streak": 1,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-24T17:31:54.426755Z",
+      "last_fetched": "2026-09-24T20:45:52.215992Z",
       "stale": false,
       "error": null
     },
@@ -31,15 +31,15 @@
       "handle": "eddiehuang",
       "region": "cn",
       "solved": {
-        "easy": 82,
+        "easy": 84,
         "medium": 170,
-        "hard": 19,
-        "total": 271
+        "hard": 20,
+        "total": 274
       },
-      "streak": 0,
-      "solved_last_7d": 17,
-      "active_today": false,
-      "last_fetched": "2026-09-24T17:31:54.426755Z",
+      "streak": 1,
+      "solved_last_7d": 18,
+      "active_today": true,
+      "last_fetched": "2026-09-24T20:45:52.215992Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-24T17:31:54.426755Z",
+      "last_fetched": "2026-09-24T20:45:52.215992Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-24T17:31:54.426755Z",
+      "last_fetched": "2026-09-24T20:45:52.215992Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-09-24T17:31:54.426755Z",
+      "last_fetched": "2026-09-24T20:45:52.215992Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,48 @@
       "streak": 1,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-24T17:31:54.426755Z",
+      "last_fetched": "2026-09-24T20:45:52.215992Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "closest-binary-search-tree-value-ii",
+      "title": "Closest Binary Search Tree Value II",
+      "difficulty": "Hard",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/",
+      "url_cn": "https://leetcode.cn/problems/closest-binary-search-tree-value-ii/",
+      "timestamp": 1790281013
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "valid-word-square",
+      "title": "Valid Word Square",
+      "difficulty": "Easy",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/valid-word-square/",
+      "url_cn": "https://leetcode.cn/problems/valid-word-square/",
+      "timestamp": 1790278525
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "perform-string-shifts",
+      "title": "Perform String Shifts",
+      "difficulty": "Easy",
+      "paid_only": true,
+      "url_us": "https://leetcode.com/problems/perform-string-shifts/",
+      "url_cn": "https://leetcode.cn/problems/perform-string-shifts/",
+      "timestamp": 1790277802
+    },
     {
       "handle": "mingyaol",
       "display_name": "Mingyao",
@@ -3592,30 +3628,6 @@
       "url_us": "https://leetcode.com/problems/two-sum/",
       "url_cn": "https://leetcode.cn/problems/two-sum/",
       "timestamp": 1787695153
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "insert-delete-getrandom-o1",
-      "title": "Insert Delete GetRandom O(1)",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
-      "url_cn": "https://leetcode.cn/problems/insert-delete-getrandom-o1/",
-      "timestamp": 1787682038
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "h-index",
-      "title": "H-Index",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/h-index/",
-      "url_cn": "https://leetcode.cn/problems/h-index/",
-      "timestamp": 1787680014
     }
   ]
 }

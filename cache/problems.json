@@ -2131,5 +2131,32 @@
       "us",
       "cn"
     ]
+  },
+  "closest-binary-search-tree-value-ii": {
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "valid-word-square": {
+    "title": "Valid Word Square",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "perform-string-shifts": {
+    "title": "Perform String Shifts",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
