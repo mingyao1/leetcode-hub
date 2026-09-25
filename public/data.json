@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:09:23.872546Z",
+  "generated_at": "2026-09-25T15:32:17.104733Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-25",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-25T10:09:23.872546Z",
+      "last_fetched": "2026-09-25T15:32:17.104733Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 19,
       "active_today": true,
-      "last_fetched": "2026-09-25T10:09:23.872546Z",
+      "last_fetched": "2026-09-25T15:32:17.104733Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-25T10:09:23.872546Z",
+      "last_fetched": "2026-09-25T15:32:17.104733Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-25T10:09:23.872546Z",
+      "last_fetched": "2026-09-25T15:32:17.104733Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-09-25T10:09:23.872546Z",
+      "last_fetched": "2026-09-25T15:32:17.104733Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-25T10:09:23.872546Z",
+      "last_fetched": "2026-09-25T15:32:17.104733Z",
       "stale": false,
       "error": null
     }
@@ -3484,30 +3484,6 @@
       "url_us": "https://leetcode.com/problems/trapping-rain-water/",
       "url_cn": "https://leetcode.cn/problems/trapping-rain-water/",
       "timestamp": 1787758791
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "candy",
-      "title": "Candy",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/candy/",
-      "url_cn": "https://leetcode.cn/problems/candy/",
-      "timestamp": 1787755595
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "gas-station",
-      "title": "Gas Station",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/gas-station/",
-      "url_cn": "https://leetcode.cn/problems/gas-station/",
-      "timestamp": 1787753983
     }
   ]
 }
