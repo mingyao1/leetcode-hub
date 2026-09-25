@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:32:17.104733Z",
+  "generated_at": "2026-09-25T19:32:03.378522Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-25",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-25T15:32:17.104733Z",
+      "last_fetched": "2026-09-25T19:32:03.378522Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 19,
       "active_today": true,
-      "last_fetched": "2026-09-25T15:32:17.104733Z",
+      "last_fetched": "2026-09-25T19:32:03.378522Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-25T15:32:17.104733Z",
+      "last_fetched": "2026-09-25T19:32:03.378522Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-25T15:32:17.104733Z",
+      "last_fetched": "2026-09-25T19:32:03.378522Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-09-25T15:32:17.104733Z",
+      "last_fetched": "2026-09-25T19:32:03.378522Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-25T15:32:17.104733Z",
+      "last_fetched": "2026-09-25T19:32:03.378522Z",
       "stale": false,
       "error": null
     }
@@ -3340,150 +3340,6 @@
       "url_us": "https://leetcode.com/problems/group-anagrams/",
       "url_cn": "https://leetcode.cn/problems/group-anagrams/",
       "timestamp": 1787774978
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "summary-ranges",
-      "title": "Summary Ranges",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/summary-ranges/",
-      "url_cn": "https://leetcode.cn/problems/summary-ranges/",
-      "timestamp": 1787771691
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "flood-fill",
-      "title": "Flood Fill",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/flood-fill/",
-      "url_cn": "https://leetcode.cn/problems/flood-fill/",
-      "timestamp": 1787767306
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "container-with-most-water",
-      "title": "Container With Most Water",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/container-with-most-water/",
-      "url_cn": "https://leetcode.cn/problems/container-with-most-water/",
-      "timestamp": 1787765165
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "two-sum-ii-input-array-is-sorted",
-      "title": "Two Sum II - Input Array Is Sorted",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-      "url_cn": "https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/",
-      "timestamp": 1787765118
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "is-subsequence",
-      "title": "Is Subsequence",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/is-subsequence/",
-      "url_cn": "https://leetcode.cn/problems/is-subsequence/",
-      "timestamp": 1787764792
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "maximum-depth-of-binary-tree",
-      "title": "Maximum Depth of Binary Tree",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-      "url_cn": "https://leetcode.cn/problems/maximum-depth-of-binary-tree/",
-      "timestamp": 1787763791
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
-      "title": "Find the Index of the First Occurrence in a String",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
-      "url_cn": "https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/",
-      "timestamp": 1787761567
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "reverse-words-in-a-string",
-      "title": "Reverse Words in a String",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/reverse-words-in-a-string/",
-      "url_cn": "https://leetcode.cn/problems/reverse-words-in-a-string/",
-      "timestamp": 1787760589
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "task-scheduler",
-      "title": "Task Scheduler",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/task-scheduler/",
-      "url_cn": "https://leetcode.cn/problems/task-scheduler/",
-      "timestamp": 1787760260
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "longest-common-prefix",
-      "title": "Longest Common Prefix",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/longest-common-prefix/",
-      "url_cn": "https://leetcode.cn/problems/longest-common-prefix/",
-      "timestamp": 1787759922
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "length-of-last-word",
-      "title": "Length of Last Word",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/length-of-last-word/",
-      "url_cn": "https://leetcode.cn/problems/length-of-last-word/",
-      "timestamp": 1787759527
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "trapping-rain-water",
-      "title": "Trapping Rain Water",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/trapping-rain-water/",
-      "url_cn": "https://leetcode.cn/problems/trapping-rain-water/",
-      "timestamp": 1787758791
     }
   ]
 }
