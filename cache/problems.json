@@ -2176,5 +2176,14 @@
       "us",
       "cn"
     ]
+  },
+  "all-paths-from-source-lead-to-destination": {
+    "title": "All Paths from Source Lead to Destination",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
