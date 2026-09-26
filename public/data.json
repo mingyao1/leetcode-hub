@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:21:44.904760Z",
+  "generated_at": "2026-09-26T22:11:32.831545Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-26",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-26T19:21:44.904760Z",
+      "last_fetched": "2026-09-26T22:11:32.831545Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 24,
       "active_today": true,
-      "last_fetched": "2026-09-26T19:21:44.904760Z",
+      "last_fetched": "2026-09-26T22:11:32.831545Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-26T19:21:44.904760Z",
+      "last_fetched": "2026-09-26T22:11:32.831545Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-26T19:21:44.904760Z",
+      "last_fetched": "2026-09-26T22:11:32.831545Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-26T19:21:44.904760Z",
+      "last_fetched": "2026-09-26T22:11:32.831545Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-26T19:21:44.904760Z",
+      "last_fetched": "2026-09-26T22:11:32.831545Z",
       "stale": false,
       "error": null
     }
@@ -3148,18 +3148,6 @@
       "url_us": "https://leetcode.com/problems/top-k-frequent-elements/",
       "url_cn": "https://leetcode.cn/problems/top-k-frequent-elements/",
       "timestamp": 1787878428
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "insert-interval",
-      "title": "Insert Interval",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/insert-interval/",
-      "url_cn": "https://leetcode.cn/problems/insert-interval/",
-      "timestamp": 1787863248
     }
   ]
 }
