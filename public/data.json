@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-26T22:11:32.831545Z",
+  "generated_at": "2026-09-27T00:50:55.212627Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-09-26",
-    "title": "Evaluate the Bracket Pairs of a String",
-    "slug": "evaluate-the-bracket-pairs-of-a-string",
+    "date": "2026-09-27",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "slug": "reverse-substrings-between-each-pair-of-parentheses",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/"
+    "url": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-26T22:11:32.831545Z",
+      "last_fetched": "2026-09-27T00:50:55.212627Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 24,
       "active_today": true,
-      "last_fetched": "2026-09-26T22:11:32.831545Z",
+      "last_fetched": "2026-09-27T00:50:55.212627Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-26T22:11:32.831545Z",
+      "last_fetched": "2026-09-27T00:50:55.212627Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-26T22:11:32.831545Z",
+      "last_fetched": "2026-09-27T00:50:55.212627Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-26T22:11:32.831545Z",
+      "last_fetched": "2026-09-27T00:50:55.212627Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-26T22:11:32.831545Z",
+      "last_fetched": "2026-09-27T00:50:55.212627Z",
       "stale": false,
       "error": null
     }
