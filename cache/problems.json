@@ -2185,5 +2185,14 @@
       "us",
       "cn"
     ]
+  },
+  "find-root-of-n-ary-tree": {
+    "title": "Find Root of N-Ary Tree",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
