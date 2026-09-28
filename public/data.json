@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:57:57.475098Z",
+  "generated_at": "2026-09-28T08:38:50.697845Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-28",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-09-28T01:57:57.475098Z",
+      "last_fetched": "2026-09-28T08:38:50.697845Z",
       "stale": false,
       "error": null
     },
@@ -36,10 +36,10 @@
         "hard": 20,
         "total": 277
       },
-      "streak": 3,
-      "solved_last_7d": 24,
+      "streak": 0,
+      "solved_last_7d": 21,
       "active_today": false,
-      "last_fetched": "2026-09-28T01:57:57.475098Z",
+      "last_fetched": "2026-09-28T08:38:50.697845Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-28T01:57:57.475098Z",
+      "last_fetched": "2026-09-28T08:38:50.697845Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-28T01:57:57.475098Z",
+      "last_fetched": "2026-09-28T08:38:50.697845Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-28T01:57:57.475098Z",
+      "last_fetched": "2026-09-28T08:38:50.697845Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-28T01:57:57.475098Z",
+      "last_fetched": "2026-09-28T08:38:50.697845Z",
       "stale": false,
       "error": null
     }
@@ -2932,54 +2932,6 @@
       "url_us": "https://leetcode.com/problems/insert-interval/",
       "url_cn": "https://leetcode.cn/problems/insert-interval/",
       "timestamp": 1788010302
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "merge-intervals",
-      "title": "Merge Intervals",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/merge-intervals/",
-      "url_cn": "https://leetcode.cn/problems/merge-intervals/",
-      "timestamp": 1787971915
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "design-twitter",
-      "title": "Design Twitter",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/design-twitter/",
-      "url_cn": "https://leetcode.cn/problems/design-twitter/",
-      "timestamp": 1787971239
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "summary-ranges",
-      "title": "Summary Ranges",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/summary-ranges/",
-      "url_cn": "https://leetcode.cn/problems/summary-ranges/",
-      "timestamp": 1787969858
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "longest-consecutive-sequence",
-      "title": "Longest Consecutive Sequence",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/longest-consecutive-sequence/",
-      "url_cn": "https://leetcode.cn/problems/longest-consecutive-sequence/",
-      "timestamp": 1787969300
     }
   ]
 }
