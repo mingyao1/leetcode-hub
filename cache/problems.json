@@ -2212,5 +2212,14 @@
       "us",
       "cn"
     ]
+  },
+  "number-of-islands-ii": {
+    "title": "Number of Islands II",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
