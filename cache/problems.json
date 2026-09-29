@@ -2194,5 +2194,23 @@
       "us",
       "cn"
     ]
+  },
+  "web-crawler": {
+    "title": "Web Crawler",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "diameter-of-n-ary-tree": {
+    "title": "Diameter of N-Ary Tree",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
