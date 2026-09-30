@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T20:43:06.271745Z",
+  "generated_at": "2026-09-30T00:22:35.433643Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-09-29",
-    "title": " Check if There Is a Valid Parentheses String Path",
-    "slug": "check-if-there-is-a-valid-parentheses-string-path",
-    "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/"
+    "date": "2026-09-30",
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 2,
       "solved_last_7d": 4,
       "active_today": true,
-      "last_fetched": "2026-09-29T20:43:06.271745Z",
+      "last_fetched": "2026-09-30T00:22:35.433643Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 20,
       "active_today": true,
-      "last_fetched": "2026-09-29T20:43:06.271745Z",
+      "last_fetched": "2026-09-30T00:22:35.433643Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-29T20:43:06.271745Z",
+      "last_fetched": "2026-09-30T00:22:35.433643Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-29T20:43:06.271745Z",
+      "last_fetched": "2026-09-30T00:22:35.433643Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-29T20:43:06.271745Z",
+      "last_fetched": "2026-09-30T00:22:35.433643Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-09-29T20:43:06.271745Z",
+      "last_fetched": "2026-09-30T00:22:35.433643Z",
       "stale": false,
       "error": null
     }
@@ -2632,78 +2632,6 @@
       "url_us": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
       "url_cn": "https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
       "timestamp": 1788136162
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "symmetric-tree",
-      "title": "Symmetric Tree",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/symmetric-tree/",
-      "url_cn": "https://leetcode.cn/problems/symmetric-tree/",
-      "timestamp": 1788128837
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "invert-binary-tree",
-      "title": "Invert Binary Tree",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/invert-binary-tree/",
-      "url_cn": "https://leetcode.cn/problems/invert-binary-tree/",
-      "timestamp": 1788127645
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "same-tree",
-      "title": "Same Tree",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/same-tree/",
-      "url_cn": "https://leetcode.cn/problems/same-tree/",
-      "timestamp": 1788127406
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "maximum-depth-of-binary-tree",
-      "title": "Maximum Depth of Binary Tree",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-      "url_cn": "https://leetcode.cn/problems/maximum-depth-of-binary-tree/",
-      "timestamp": 1788126576
-    },
-    {
-      "handle": "chuchu4708",
-      "display_name": "Chu",
-      "region": "us",
-      "slug": "spiral-matrix",
-      "title": "Spiral Matrix",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/spiral-matrix/",
-      "url_cn": "https://leetcode.cn/problems/spiral-matrix/",
-      "timestamp": 1788124758
-    },
-    {
-      "handle": "chuchu4708",
-      "display_name": "Chu",
-      "region": "us",
-      "slug": "rotate-image",
-      "title": "Rotate Image",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/rotate-image/",
-      "url_cn": "https://leetcode.cn/problems/rotate-image/",
-      "timestamp": 1788124173
     }
   ]
 }
