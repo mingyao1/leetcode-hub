@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:28:10.295147Z",
+  "generated_at": "2026-09-30T18:07:17.222026Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-09-30",
@@ -22,7 +22,7 @@
       "streak": 2,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-09-30T12:28:10.295147Z",
+      "last_fetched": "2026-09-30T18:07:17.222026Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 21,
       "active_today": true,
-      "last_fetched": "2026-09-30T12:28:10.295147Z",
+      "last_fetched": "2026-09-30T18:07:17.222026Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-30T12:28:10.295147Z",
+      "last_fetched": "2026-09-30T18:07:17.222026Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-30T12:28:10.295147Z",
+      "last_fetched": "2026-09-30T18:07:17.222026Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-30T12:28:10.295147Z",
+      "last_fetched": "2026-09-30T18:07:17.222026Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-09-30T12:28:10.295147Z",
+      "last_fetched": "2026-09-30T18:07:17.222026Z",
       "stale": false,
       "error": null
     }
@@ -2440,66 +2440,6 @@
       "url_us": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
       "url_cn": "https://leetcode.cn/problems/average-of-levels-in-binary-tree/",
       "timestamp": 1788200040
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "binary-tree-right-side-view",
-      "title": "Binary Tree Right Side View",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/binary-tree-right-side-view/",
-      "url_cn": "https://leetcode.cn/problems/binary-tree-right-side-view/",
-      "timestamp": 1788199265
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "lowest-common-ancestor-of-a-binary-tree",
-      "title": "Lowest Common Ancestor of a Binary Tree",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-      "url_cn": "https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/",
-      "timestamp": 1788198945
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "count-complete-tree-nodes",
-      "title": "Count Complete Tree Nodes",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/count-complete-tree-nodes/",
-      "url_cn": "https://leetcode.cn/problems/count-complete-tree-nodes/",
-      "timestamp": 1788198233
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "binary-search-tree-iterator",
-      "title": "Binary Search Tree Iterator",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/binary-search-tree-iterator/",
-      "url_cn": "https://leetcode.cn/problems/binary-search-tree-iterator/",
-      "timestamp": 1788195277
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "sum-root-to-leaf-numbers",
-      "title": "Sum Root to Leaf Numbers",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
-      "url_cn": "https://leetcode.cn/problems/sum-root-to-leaf-numbers/",
-      "timestamp": 1788192316
     }
   ]
 }
