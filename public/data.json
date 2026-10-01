@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:32:10.218814Z",
+  "generated_at": "2026-10-01T07:46:09.381499Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-01",
@@ -19,10 +19,10 @@
         "hard": 14,
         "total": 125
       },
-      "streak": 2,
+      "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-01T01:32:10.218814Z",
+      "last_fetched": "2026-10-01T07:46:09.381499Z",
       "stale": false,
       "error": null
     },
@@ -37,9 +37,9 @@
         "total": 282
       },
       "streak": 3,
-      "solved_last_7d": 21,
-      "active_today": true,
-      "last_fetched": "2026-10-01T01:32:10.218814Z",
+      "solved_last_7d": 20,
+      "active_today": false,
+      "last_fetched": "2026-10-01T07:46:09.381499Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T01:32:10.218814Z",
+      "last_fetched": "2026-10-01T07:46:09.381499Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T01:32:10.218814Z",
+      "last_fetched": "2026-10-01T07:46:09.381499Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T01:32:10.218814Z",
+      "last_fetched": "2026-10-01T07:46:09.381499Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T01:32:10.218814Z",
+      "last_fetched": "2026-10-01T07:46:09.381499Z",
       "stale": false,
       "error": null
     }
@@ -2176,30 +2176,6 @@
       "url_us": "https://leetcode.com/problems/search-insert-position/",
       "url_cn": "https://leetcode.cn/problems/search-insert-position/",
       "timestamp": 1788271815
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "maximum-sum-circular-subarray",
-      "title": "Maximum Sum Circular Subarray",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
-      "url_cn": "https://leetcode.cn/problems/maximum-sum-circular-subarray/",
-      "timestamp": 1788229929
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "maximum-subarray",
-      "title": "Maximum Subarray",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/maximum-subarray/",
-      "url_cn": "https://leetcode.cn/problems/maximum-subarray/",
-      "timestamp": 1788229049
     }
   ]
 }
