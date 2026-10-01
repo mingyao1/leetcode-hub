@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:24:53.303014Z",
+  "generated_at": "2026-10-01T20:29:04.143348Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-01",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-01T15:24:53.303014Z",
+      "last_fetched": "2026-10-01T20:29:04.143348Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 20,
       "active_today": false,
-      "last_fetched": "2026-10-01T15:24:53.303014Z",
+      "last_fetched": "2026-10-01T20:29:04.143348Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T15:24:53.303014Z",
+      "last_fetched": "2026-10-01T20:29:04.143348Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T15:24:53.303014Z",
+      "last_fetched": "2026-10-01T20:29:04.143348Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T15:24:53.303014Z",
+      "last_fetched": "2026-10-01T20:29:04.143348Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T15:24:53.303014Z",
+      "last_fetched": "2026-10-01T20:29:04.143348Z",
       "stale": false,
       "error": null
     }
@@ -1960,162 +1960,6 @@
       "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
       "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
       "timestamp": 1788295236
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "house-robber",
-      "title": "House Robber",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/house-robber/",
-      "url_cn": "https://leetcode.cn/problems/house-robber/",
-      "timestamp": 1788293448
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "climbing-stairs",
-      "title": "Climbing Stairs",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/climbing-stairs/",
-      "url_cn": "https://leetcode.cn/problems/climbing-stairs/",
-      "timestamp": 1788292658
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "insert-delete-getrandom-o1",
-      "title": "Insert Delete GetRandom O(1)",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
-      "url_cn": "https://leetcode.cn/problems/insert-delete-getrandom-o1/",
-      "timestamp": 1788288313
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "h-index",
-      "title": "H-Index",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/h-index/",
-      "url_cn": "https://leetcode.cn/problems/h-index/",
-      "timestamp": 1788287865
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "jump-game",
-      "title": "Jump Game",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/jump-game/",
-      "url_cn": "https://leetcode.cn/problems/jump-game/",
-      "timestamp": 1788286773
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "kth-largest-element-in-an-array",
-      "title": "Kth Largest Element in an Array",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
-      "url_cn": "https://leetcode.cn/problems/kth-largest-element-in-an-array/",
-      "timestamp": 1788284683
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "median-of-two-sorted-arrays",
-      "title": "Median of Two Sorted Arrays",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-      "url_cn": "https://leetcode.cn/problems/median-of-two-sorted-arrays/",
-      "timestamp": 1788282895
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "best-time-to-buy-and-sell-stock-ii",
-      "title": "Best Time to Buy and Sell Stock II",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
-      "url_cn": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/",
-      "timestamp": 1788282805
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "find-minimum-in-rotated-sorted-array",
-      "title": "Find Minimum in Rotated Sorted Array",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-      "url_cn": "https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/",
-      "timestamp": 1788280861
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "majority-element",
-      "title": "Majority Element",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/majority-element/",
-      "url_cn": "https://leetcode.cn/problems/majority-element/",
-      "timestamp": 1788280813
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "find-first-and-last-position-of-element-in-sorted-array",
-      "title": "Find First and Last Position of Element in Sorted Array",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
-      "url_cn": "https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/",
-      "timestamp": 1788280251
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "remove-duplicates-from-sorted-array-ii",
-      "title": "Remove Duplicates from Sorted Array II",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
-      "url_cn": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/",
-      "timestamp": 1788279967
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "remove-duplicates-from-sorted-array",
-      "title": "Remove Duplicates from Sorted Array",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-      "url_cn": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array/",
-      "timestamp": 1788279398
     }
   ]
 }
