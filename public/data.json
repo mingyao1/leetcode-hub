@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:46:09.381499Z",
+  "generated_at": "2026-10-01T15:24:53.303014Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-01",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-01T07:46:09.381499Z",
+      "last_fetched": "2026-10-01T15:24:53.303014Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 20,
       "active_today": false,
-      "last_fetched": "2026-10-01T07:46:09.381499Z",
+      "last_fetched": "2026-10-01T15:24:53.303014Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T07:46:09.381499Z",
+      "last_fetched": "2026-10-01T15:24:53.303014Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T07:46:09.381499Z",
+      "last_fetched": "2026-10-01T15:24:53.303014Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T07:46:09.381499Z",
+      "last_fetched": "2026-10-01T15:24:53.303014Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-01T07:46:09.381499Z",
+      "last_fetched": "2026-10-01T15:24:53.303014Z",
       "stale": false,
       "error": null
     }
@@ -2116,66 +2116,6 @@
       "url_us": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
       "url_cn": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array/",
       "timestamp": 1788279398
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "search-in-rotated-sorted-array",
-      "title": "Search in Rotated Sorted Array",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-      "url_cn": "https://leetcode.cn/problems/search-in-rotated-sorted-array/",
-      "timestamp": 1788274521
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "pacific-atlantic-water-flow",
-      "title": "Pacific Atlantic Water Flow",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
-      "url_cn": "https://leetcode.cn/problems/pacific-atlantic-water-flow/",
-      "timestamp": 1788273954
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "find-peak-element",
-      "title": "Find Peak Element",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/find-peak-element/",
-      "url_cn": "https://leetcode.cn/problems/find-peak-element/",
-      "timestamp": 1788272746
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "search-a-2d-matrix",
-      "title": "Search a 2D Matrix",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/search-a-2d-matrix/",
-      "url_cn": "https://leetcode.cn/problems/search-a-2d-matrix/",
-      "timestamp": 1788272730
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "search-insert-position",
-      "title": "Search Insert Position",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/search-insert-position/",
-      "url_cn": "https://leetcode.cn/problems/search-insert-position/",
-      "timestamp": 1788271815
     }
   ]
 }
