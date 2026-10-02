@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:10:53.150237Z",
+  "generated_at": "2026-10-02T06:09:10.163754Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-02",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-02T00:10:53.150237Z",
+      "last_fetched": "2026-10-02T06:09:10.163754Z",
       "stale": false,
       "error": null
     },
@@ -36,10 +36,10 @@
         "hard": 21,
         "total": 282
       },
-      "streak": 3,
-      "solved_last_7d": 20,
+      "streak": 0,
+      "solved_last_7d": 15,
       "active_today": false,
-      "last_fetched": "2026-10-02T00:10:53.150237Z",
+      "last_fetched": "2026-10-02T06:09:10.163754Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T00:10:53.150237Z",
+      "last_fetched": "2026-10-02T06:09:10.163754Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T00:10:53.150237Z",
+      "last_fetched": "2026-10-02T06:09:10.163754Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T00:10:53.150237Z",
+      "last_fetched": "2026-10-02T06:09:10.163754Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T00:10:53.150237Z",
+      "last_fetched": "2026-10-02T06:09:10.163754Z",
       "stale": false,
       "error": null
     }
@@ -1900,54 +1900,6 @@
       "url_us": "https://leetcode.com/problems/triangle/",
       "url_cn": "https://leetcode.cn/problems/triangle/",
       "timestamp": 1788369589
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "longest-increasing-subsequence",
-      "title": "Longest Increasing Subsequence",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/longest-increasing-subsequence/",
-      "url_cn": "https://leetcode.cn/problems/longest-increasing-subsequence/",
-      "timestamp": 1788317916
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "coin-change",
-      "title": "Coin Change",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/coin-change/",
-      "url_cn": "https://leetcode.cn/problems/coin-change/",
-      "timestamp": 1788317894
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "word-break",
-      "title": "Word Break",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/word-break/",
-      "url_cn": "https://leetcode.cn/problems/word-break/",
-      "timestamp": 1788314342
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "word-break",
-      "title": "Word Break",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/word-break/",
-      "url_cn": "https://leetcode.cn/problems/word-break/",
-      "timestamp": 1788313324
     }
   ]
 }
