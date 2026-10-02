@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:08:27.319017Z",
+  "generated_at": "2026-10-02T18:40:25.521533Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-02",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-02T13:08:27.319017Z",
+      "last_fetched": "2026-10-02T18:40:25.521533Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 15,
       "active_today": false,
-      "last_fetched": "2026-10-02T13:08:27.319017Z",
+      "last_fetched": "2026-10-02T18:40:25.521533Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T13:08:27.319017Z",
+      "last_fetched": "2026-10-02T18:40:25.521533Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T13:08:27.319017Z",
+      "last_fetched": "2026-10-02T18:40:25.521533Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T13:08:27.319017Z",
+      "last_fetched": "2026-10-02T18:40:25.521533Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T13:08:27.319017Z",
+      "last_fetched": "2026-10-02T18:40:25.521533Z",
       "stale": false,
       "error": null
     }
@@ -1852,54 +1852,6 @@
       "url_us": "https://leetcode.com/problems/longest-palindromic-substring/",
       "url_cn": "https://leetcode.cn/problems/longest-palindromic-substring/",
       "timestamp": 1788377393
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "unique-paths-ii",
-      "title": "Unique Paths II",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/unique-paths-ii/",
-      "url_cn": "https://leetcode.cn/problems/unique-paths-ii/",
-      "timestamp": 1788371176
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "remove-nth-node-from-end-of-list",
-      "title": "Remove Nth Node From End of List",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-      "url_cn": "https://leetcode.cn/problems/remove-nth-node-from-end-of-list/",
-      "timestamp": 1788371040
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "minimum-path-sum",
-      "title": "Minimum Path Sum",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/minimum-path-sum/",
-      "url_cn": "https://leetcode.cn/problems/minimum-path-sum/",
-      "timestamp": 1788370207
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "triangle",
-      "title": "Triangle",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/triangle/",
-      "url_cn": "https://leetcode.cn/problems/triangle/",
-      "timestamp": 1788369589
     }
   ]
 }
