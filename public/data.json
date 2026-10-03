@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T22:56:49.236607Z",
+  "generated_at": "2026-10-03T01:53:56.636031Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-02",
-    "title": "Generate Parentheses",
-    "slug": "generate-parentheses",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/generate-parentheses/"
+    "date": "2026-10-03",
+    "title": "Longest Valid Parentheses",
+    "slug": "longest-valid-parentheses",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/longest-valid-parentheses/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-02T22:56:49.236607Z",
+      "last_fetched": "2026-10-03T01:53:56.636031Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 15,
       "active_today": false,
-      "last_fetched": "2026-10-02T22:56:49.236607Z",
+      "last_fetched": "2026-10-03T01:53:56.636031Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T22:56:49.236607Z",
+      "last_fetched": "2026-10-03T01:53:56.636031Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T22:56:49.236607Z",
+      "last_fetched": "2026-10-03T01:53:56.636031Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T22:56:49.236607Z",
+      "last_fetched": "2026-10-03T01:53:56.636031Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-02T22:56:49.236607Z",
+      "last_fetched": "2026-10-03T01:53:56.636031Z",
       "stale": false,
       "error": null
     }
@@ -1684,30 +1684,6 @@
       "url_us": "https://leetcode.com/problems/number-of-1-bits/",
       "url_cn": "https://leetcode.cn/problems/number-of-1-bits/",
       "timestamp": 1788401915
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "reverse-bits",
-      "title": "Reverse Bits",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/reverse-bits/",
-      "url_cn": "https://leetcode.cn/problems/reverse-bits/",
-      "timestamp": 1788391226
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "add-binary",
-      "title": "Add Binary",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/add-binary/",
-      "url_cn": "https://leetcode.cn/problems/add-binary/",
-      "timestamp": 1788390205
     }
   ]
 }
