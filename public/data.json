@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:12:14.158566Z",
+  "generated_at": "2026-10-03T23:19:10.442787Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-03",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-03T20:12:14.158566Z",
+      "last_fetched": "2026-10-03T23:19:10.442787Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 7,
       "active_today": false,
-      "last_fetched": "2026-10-03T20:12:14.158566Z",
+      "last_fetched": "2026-10-03T23:19:10.442787Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T20:12:14.158566Z",
+      "last_fetched": "2026-10-03T23:19:10.442787Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T20:12:14.158566Z",
+      "last_fetched": "2026-10-03T23:19:10.442787Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T20:12:14.158566Z",
+      "last_fetched": "2026-10-03T23:19:10.442787Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T20:12:14.158566Z",
+      "last_fetched": "2026-10-03T23:19:10.442787Z",
       "stale": false,
       "error": null
     }
@@ -1624,18 +1624,6 @@
       "url_us": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
       "url_cn": "https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/",
       "timestamp": 1788487398
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "validate-binary-search-tree",
-      "title": "Validate Binary Search Tree",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/validate-binary-search-tree/",
-      "url_cn": "https://leetcode.cn/problems/validate-binary-search-tree/",
-      "timestamp": 1788471868
     }
   ]
 }
