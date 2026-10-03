@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:53:56.636031Z",
+  "generated_at": "2026-10-03T08:01:21.935511Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-03",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-03T01:53:56.636031Z",
+      "last_fetched": "2026-10-03T08:01:21.935511Z",
       "stale": false,
       "error": null
     },
@@ -37,9 +37,9 @@
         "total": 282
       },
       "streak": 0,
-      "solved_last_7d": 15,
+      "solved_last_7d": 7,
       "active_today": false,
-      "last_fetched": "2026-10-03T01:53:56.636031Z",
+      "last_fetched": "2026-10-03T08:01:21.935511Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T01:53:56.636031Z",
+      "last_fetched": "2026-10-03T08:01:21.935511Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T01:53:56.636031Z",
+      "last_fetched": "2026-10-03T08:01:21.935511Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T01:53:56.636031Z",
+      "last_fetched": "2026-10-03T08:01:21.935511Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T01:53:56.636031Z",
+      "last_fetched": "2026-10-03T08:01:21.935511Z",
       "stale": false,
       "error": null
     }
@@ -1636,54 +1636,6 @@
       "url_us": "https://leetcode.com/problems/validate-binary-search-tree/",
       "url_cn": "https://leetcode.cn/problems/validate-binary-search-tree/",
       "timestamp": 1788471868
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "bitwise-and-of-numbers-range",
-      "title": "Bitwise AND of Numbers Range",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
-      "url_cn": "https://leetcode.cn/problems/bitwise-and-of-numbers-range/",
-      "timestamp": 1788404049
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "single-number-ii",
-      "title": "Single Number II",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/single-number-ii/",
-      "url_cn": "https://leetcode.cn/problems/single-number-ii/",
-      "timestamp": 1788403371
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "single-number",
-      "title": "Single Number",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/single-number/",
-      "url_cn": "https://leetcode.cn/problems/single-number/",
-      "timestamp": 1788402579
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "number-of-1-bits",
-      "title": "Number of 1 Bits",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/number-of-1-bits/",
-      "url_cn": "https://leetcode.cn/problems/number-of-1-bits/",
-      "timestamp": 1788401915
     }
   ]
 }
