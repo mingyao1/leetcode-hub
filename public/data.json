@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T23:19:10.442787Z",
+  "generated_at": "2026-10-04T02:51:11.531504Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-03",
-    "title": "Longest Valid Parentheses",
-    "slug": "longest-valid-parentheses",
-    "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/longest-valid-parentheses/"
+    "date": "2026-10-04",
+    "title": "Valid Parenthesis String",
+    "slug": "valid-parenthesis-string",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/valid-parenthesis-string/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-03T23:19:10.442787Z",
+      "last_fetched": "2026-10-04T02:51:11.531504Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 7,
       "active_today": false,
-      "last_fetched": "2026-10-03T23:19:10.442787Z",
+      "last_fetched": "2026-10-04T02:51:11.531504Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T23:19:10.442787Z",
+      "last_fetched": "2026-10-04T02:51:11.531504Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T23:19:10.442787Z",
+      "last_fetched": "2026-10-04T02:51:11.531504Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T23:19:10.442787Z",
+      "last_fetched": "2026-10-04T02:51:11.531504Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-03T23:19:10.442787Z",
+      "last_fetched": "2026-10-04T02:51:11.531504Z",
       "stale": false,
       "error": null
     }
@@ -1600,30 +1600,6 @@
       "url_us": "https://leetcode.com/problems/clone-graph/",
       "url_cn": "https://leetcode.cn/problems/clone-graph/",
       "timestamp": 1788493280
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "rotting-oranges",
-      "title": "Rotting Oranges",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/rotting-oranges/",
-      "url_cn": "https://leetcode.cn/problems/rotting-oranges/",
-      "timestamp": 1788489151
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "lowest-common-ancestor-of-a-binary-tree",
-      "title": "Lowest Common Ancestor of a Binary Tree",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-      "url_cn": "https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/",
-      "timestamp": 1788487398
     }
   ]
 }
