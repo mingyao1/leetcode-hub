@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T22:19:05.036789Z",
+  "generated_at": "2026-10-05T01:15:37.086862Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-04",
-    "title": "Valid Parenthesis String",
-    "slug": "valid-parenthesis-string",
+    "date": "2026-10-05",
+    "title": "Score of Parentheses",
+    "slug": "score-of-parentheses",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/valid-parenthesis-string/"
+    "url": "https://leetcode.com/problems/score-of-parentheses/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-10-04T22:19:05.036789Z",
+      "last_fetched": "2026-10-05T01:15:37.086862Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 7,
       "active_today": false,
-      "last_fetched": "2026-10-04T22:19:05.036789Z",
+      "last_fetched": "2026-10-05T01:15:37.086862Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-04T22:19:05.036789Z",
+      "last_fetched": "2026-10-05T01:15:37.086862Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-04T22:19:05.036789Z",
+      "last_fetched": "2026-10-05T01:15:37.086862Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-04T22:19:05.036789Z",
+      "last_fetched": "2026-10-05T01:15:37.086862Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-04T22:19:05.036789Z",
+      "last_fetched": "2026-10-05T01:15:37.086862Z",
       "stale": false,
       "error": null
     }
@@ -1468,30 +1468,6 @@
       "url_us": "https://leetcode.com/problems/palindrome-number/",
       "url_cn": "https://leetcode.cn/problems/palindrome-number/",
       "timestamp": 1788573571
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "design-add-and-search-words-data-structure",
-      "title": "Design Add and Search Words Data Structure",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
-      "url_cn": "https://leetcode.cn/problems/design-add-and-search-words-data-structure/",
-      "timestamp": 1788566087
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "implement-trie-prefix-tree",
-      "title": "Implement Trie (Prefix Tree)",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/implement-trie-prefix-tree/",
-      "url_cn": "https://leetcode.cn/problems/implement-trie-prefix-tree/",
-      "timestamp": 1788563821
     }
   ]
 }
