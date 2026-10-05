@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:57.047505Z",
+  "generated_at": "2026-10-05T23:09:49.985871Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-05",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-05T17:05:57.047505Z",
+      "last_fetched": "2026-10-05T23:09:49.985871Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 6,
       "active_today": false,
-      "last_fetched": "2026-10-05T17:05:57.047505Z",
+      "last_fetched": "2026-10-05T23:09:49.985871Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-05T17:05:57.047505Z",
+      "last_fetched": "2026-10-05T23:09:49.985871Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-05T17:05:57.047505Z",
+      "last_fetched": "2026-10-05T23:09:49.985871Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-05T17:05:57.047505Z",
+      "last_fetched": "2026-10-05T23:09:49.985871Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-05T17:05:57.047505Z",
+      "last_fetched": "2026-10-05T23:09:49.985871Z",
       "stale": false,
       "error": null
     }
@@ -1384,66 +1384,6 @@
       "url_us": "https://leetcode.com/problems/combination-sum/",
       "url_cn": "https://leetcode.cn/problems/combination-sum/",
       "timestamp": 1788658083
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "parallel-courses",
-      "title": "Parallel Courses",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/parallel-courses/",
-      "url_cn": "https://leetcode.cn/problems/parallel-courses/",
-      "timestamp": 1788648709
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "accounts-merge",
-      "title": "Accounts Merge",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/accounts-merge/",
-      "url_cn": "https://leetcode.cn/problems/accounts-merge/",
-      "timestamp": 1788643603
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "the-maze",
-      "title": "The Maze",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/the-maze/",
-      "url_cn": "https://leetcode.cn/problems/the-maze/",
-      "timestamp": 1788643139
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "count-univalue-subtrees",
-      "title": "Count Univalue Subtrees",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/count-univalue-subtrees/",
-      "url_cn": "https://leetcode.cn/problems/count-univalue-subtrees/",
-      "timestamp": 1788639570
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "longest-substring-with-at-most-two-distinct-characters",
-      "title": "Longest Substring with At Most Two Distinct Characters",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/",
-      "url_cn": "https://leetcode.cn/problems/longest-substring-with-at-most-two-distinct-characters/",
-      "timestamp": 1788639111
     }
   ]
 }
