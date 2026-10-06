@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:45:34.191370Z",
+  "generated_at": "2026-10-06T17:09:52.239168Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-06",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-06T10:45:34.191370Z",
+      "last_fetched": "2026-10-06T17:09:52.239168Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-06T10:45:34.191370Z",
+      "last_fetched": "2026-10-06T17:09:52.239168Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-06T10:45:34.191370Z",
+      "last_fetched": "2026-10-06T17:09:52.239168Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-06T10:45:34.191370Z",
+      "last_fetched": "2026-10-06T17:09:52.239168Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-06T10:45:34.191370Z",
+      "last_fetched": "2026-10-06T17:09:52.239168Z",
       "stale": false,
       "error": null
     },
@@ -101,18 +101,30 @@
       "solved": {
         "easy": 14,
         "medium": 83,
-        "hard": 14,
-        "total": 111
+        "hard": 15,
+        "total": 112
       },
-      "streak": 0,
-      "solved_last_7d": 0,
-      "active_today": false,
-      "last_fetched": "2026-10-06T10:45:34.191370Z",
+      "streak": 1,
+      "solved_last_7d": 2,
+      "active_today": true,
+      "last_fetched": "2026-10-06T17:09:52.239168Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "median-of-two-sorted-arrays",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "url_cn": "https://leetcode.cn/problems/median-of-two-sorted-arrays/",
+      "timestamp": 1791303057
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
