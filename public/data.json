@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:31:17.141665Z",
+  "generated_at": "2026-10-07T20:46:10.017468Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-07",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-07T15:31:17.141665Z",
+      "last_fetched": "2026-10-07T20:46:10.017468Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-07T15:31:17.141665Z",
+      "last_fetched": "2026-10-07T20:46:10.017468Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-07T15:31:17.141665Z",
+      "last_fetched": "2026-10-07T20:46:10.017468Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-07T15:31:17.141665Z",
+      "last_fetched": "2026-10-07T20:46:10.017468Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-07T15:31:17.141665Z",
+      "last_fetched": "2026-10-07T20:46:10.017468Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-07T15:31:17.141665Z",
+      "last_fetched": "2026-10-07T20:46:10.017468Z",
       "stale": false,
       "error": null
     }
@@ -1300,30 +1300,6 @@
       "url_us": "https://leetcode.com/problems/interleaving-string/",
       "url_cn": "https://leetcode.cn/problems/interleaving-string/",
       "timestamp": 1788830843
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "alien-dictionary",
-      "title": "Alien Dictionary",
-      "difficulty": "Hard",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/alien-dictionary/",
-      "url_cn": "https://leetcode.cn/problems/alien-dictionary/",
-      "timestamp": 1788813226
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "shortest-distance-from-all-buildings",
-      "title": "Shortest Distance from All Buildings",
-      "difficulty": "Hard",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/shortest-distance-from-all-buildings/",
-      "url_cn": "https://leetcode.cn/problems/shortest-distance-from-all-buildings/",
-      "timestamp": 1788811058
     }
   ]
 }
