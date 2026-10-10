@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:01:13.376026Z",
+  "generated_at": "2026-10-10T17:48:46.929352Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-10",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T13:01:13.376026Z",
+      "last_fetched": "2026-10-10T17:48:46.929352Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-10T13:01:13.376026Z",
+      "last_fetched": "2026-10-10T17:48:46.929352Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T13:01:13.376026Z",
+      "last_fetched": "2026-10-10T17:48:46.929352Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T13:01:13.376026Z",
+      "last_fetched": "2026-10-10T17:48:46.929352Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T13:01:13.376026Z",
+      "last_fetched": "2026-10-10T17:48:46.929352Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-10T13:01:13.376026Z",
+      "last_fetched": "2026-10-10T17:48:46.929352Z",
       "stale": false,
       "error": null
     }
@@ -1000,54 +1000,6 @@
       "url_us": "https://leetcode.com/problems/sparse-matrix-multiplication/",
       "url_cn": "https://leetcode.cn/problems/sparse-matrix-multiplication/",
       "timestamp": 1789063474
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "find-smallest-common-element-in-all-rows",
-      "title": "Find Smallest Common Element in All Rows",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/find-smallest-common-element-in-all-rows/",
-      "url_cn": "https://leetcode.cn/problems/find-smallest-common-element-in-all-rows/",
-      "timestamp": 1789062508
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "redundant-connection",
-      "title": "Redundant Connection",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/redundant-connection/",
-      "url_cn": "https://leetcode.cn/problems/redundant-connection/",
-      "timestamp": 1789056096
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "binary-tree-right-side-view",
-      "title": "Binary Tree Right Side View",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/binary-tree-right-side-view/",
-      "url_cn": "https://leetcode.cn/problems/binary-tree-right-side-view/",
-      "timestamp": 1789051697
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "max-area-of-island",
-      "title": "Max Area of Island",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/max-area-of-island/",
-      "url_cn": "https://leetcode.cn/problems/max-area-of-island/",
-      "timestamp": 1789050599
     }
   ]
 }
