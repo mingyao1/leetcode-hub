@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:48:46.929352Z",
+  "generated_at": "2026-10-10T21:37:01.660974Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-10",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T17:48:46.929352Z",
+      "last_fetched": "2026-10-10T21:37:01.660974Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-10T17:48:46.929352Z",
+      "last_fetched": "2026-10-10T21:37:01.660974Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T17:48:46.929352Z",
+      "last_fetched": "2026-10-10T21:37:01.660974Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T17:48:46.929352Z",
+      "last_fetched": "2026-10-10T21:37:01.660974Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-10T17:48:46.929352Z",
+      "last_fetched": "2026-10-10T21:37:01.660974Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-10T17:48:46.929352Z",
+      "last_fetched": "2026-10-10T21:37:01.660974Z",
       "stale": false,
       "error": null
     }
@@ -964,42 +964,6 @@
       "url_us": "https://leetcode.com/problems/sliding-window-maximum/",
       "url_cn": "https://leetcode.cn/problems/sliding-window-maximum/",
       "timestamp": 1789088291
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "add-bold-tag-in-string",
-      "title": "Add Bold Tag in String",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/add-bold-tag-in-string/",
-      "url_cn": "https://leetcode.cn/problems/add-bold-tag-in-string/",
-      "timestamp": 1789064884
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "lonely-pixel-i",
-      "title": "Lonely Pixel I",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/lonely-pixel-i/",
-      "url_cn": "https://leetcode.cn/problems/lonely-pixel-i/",
-      "timestamp": 1789063862
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "sparse-matrix-multiplication",
-      "title": "Sparse Matrix Multiplication",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/sparse-matrix-multiplication/",
-      "url_cn": "https://leetcode.cn/problems/sparse-matrix-multiplication/",
-      "timestamp": 1789063474
     }
   ]
 }
