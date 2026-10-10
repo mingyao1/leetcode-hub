@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T20:19:07.277612Z",
+  "generated_at": "2026-10-10T00:18:38.699950Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-09",
-    "title": "Minimum Insertions to Balance a Parentheses String",
-    "slug": "minimum-insertions-to-balance-a-parentheses-string",
+    "date": "2026-10-10",
+    "title": "Minimum Sum of Squared Difference",
+    "slug": "minimum-sum-of-squared-difference",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/"
+    "url": "https://leetcode.com/problems/minimum-sum-of-squared-difference/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-09T20:19:07.277612Z",
+      "last_fetched": "2026-10-10T00:18:38.699950Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 1,
       "solved_last_7d": 1,
       "active_today": true,
-      "last_fetched": "2026-10-09T20:19:07.277612Z",
+      "last_fetched": "2026-10-10T00:18:38.699950Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-09T20:19:07.277612Z",
+      "last_fetched": "2026-10-10T00:18:38.699950Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-09T20:19:07.277612Z",
+      "last_fetched": "2026-10-10T00:18:38.699950Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-09T20:19:07.277612Z",
+      "last_fetched": "2026-10-10T00:18:38.699950Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-09T20:19:07.277612Z",
+      "last_fetched": "2026-10-10T00:18:38.699950Z",
       "stale": false,
       "error": null
     }
@@ -1048,66 +1048,6 @@
       "url_us": "https://leetcode.com/problems/max-area-of-island/",
       "url_cn": "https://leetcode.cn/problems/max-area-of-island/",
       "timestamp": 1789050599
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "longest-substring-with-at-most-k-distinct-characters",
-      "title": "Longest Substring with At Most K Distinct Characters",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
-      "url_cn": "https://leetcode.cn/problems/longest-substring-with-at-most-k-distinct-characters/",
-      "timestamp": 1788995498
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "reverse-words-in-a-string-ii",
-      "title": "Reverse Words in a String II",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/reverse-words-in-a-string-ii/",
-      "url_cn": "https://leetcode.cn/problems/reverse-words-in-a-string-ii/",
-      "timestamp": 1788993833
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "confusing-number",
-      "title": "Confusing Number",
-      "difficulty": "Easy",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/confusing-number/",
-      "url_cn": "https://leetcode.cn/problems/confusing-number/",
-      "timestamp": 1788992807
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "wiggle-sort",
-      "title": "Wiggle Sort",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/wiggle-sort/",
-      "url_cn": "https://leetcode.cn/problems/wiggle-sort/",
-      "timestamp": 1788992776
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "word-ladder",
-      "title": "Word Ladder",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/word-ladder/",
-      "url_cn": "https://leetcode.cn/problems/word-ladder/",
-      "timestamp": 1788988378
     }
   ]
 }
