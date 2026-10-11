@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T00:30:08.032201Z",
+  "generated_at": "2026-10-11T06:24:43.139518Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-11",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T00:30:08.032201Z",
+      "last_fetched": "2026-10-11T06:24:43.139518Z",
       "stale": false,
       "error": null
     },
@@ -36,10 +36,10 @@
         "hard": 21,
         "total": 282
       },
-      "streak": 1,
+      "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-11T00:30:08.032201Z",
+      "last_fetched": "2026-10-11T06:24:43.139518Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T00:30:08.032201Z",
+      "last_fetched": "2026-10-11T06:24:43.139518Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T00:30:08.032201Z",
+      "last_fetched": "2026-10-11T06:24:43.139518Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T00:30:08.032201Z",
+      "last_fetched": "2026-10-11T06:24:43.139518Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-11T00:30:08.032201Z",
+      "last_fetched": "2026-10-11T06:24:43.139518Z",
       "stale": false,
       "error": null
     }
@@ -916,54 +916,6 @@
       "url_us": "https://leetcode.com/problems/remove-interval/",
       "url_cn": "https://leetcode.cn/problems/remove-interval/",
       "timestamp": 1789149380
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "time-based-key-value-store",
-      "title": "Time Based Key-Value Store",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/time-based-key-value-store/",
-      "url_cn": "https://leetcode.cn/problems/time-based-key-value-store/",
-      "timestamp": 1789092673
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "minimum-interval-to-include-each-query",
-      "title": "Minimum Interval to Include Each Query",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
-      "url_cn": "https://leetcode.cn/problems/minimum-interval-to-include-each-query/",
-      "timestamp": 1789091098
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "partition-labels",
-      "title": "Partition Labels",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/partition-labels/",
-      "url_cn": "https://leetcode.cn/problems/partition-labels/",
-      "timestamp": 1789089358
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "sliding-window-maximum",
-      "title": "Sliding Window Maximum",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/sliding-window-maximum/",
-      "url_cn": "https://leetcode.cn/problems/sliding-window-maximum/",
-      "timestamp": 1789088291
     }
   ]
 }
