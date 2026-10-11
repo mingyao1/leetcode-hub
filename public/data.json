@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:26:15.067781Z",
+  "generated_at": "2026-10-11T22:26:41.765307Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-11",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T18:26:15.067781Z",
+      "last_fetched": "2026-10-11T22:26:41.765307Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-11T18:26:15.067781Z",
+      "last_fetched": "2026-10-11T22:26:41.765307Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T18:26:15.067781Z",
+      "last_fetched": "2026-10-11T22:26:41.765307Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T18:26:15.067781Z",
+      "last_fetched": "2026-10-11T22:26:41.765307Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-11T18:26:15.067781Z",
+      "last_fetched": "2026-10-11T22:26:41.765307Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-11T18:26:15.067781Z",
+      "last_fetched": "2026-10-11T22:26:41.765307Z",
       "stale": false,
       "error": null
     }
@@ -832,54 +832,6 @@
       "url_us": "https://leetcode.com/problems/edit-distance/",
       "url_cn": "https://leetcode.cn/problems/edit-distance/",
       "timestamp": 1789236806
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "longest-repeating-character-replacement",
-      "title": "Longest Repeating Character Replacement",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-      "url_cn": "https://leetcode.cn/problems/longest-repeating-character-replacement/",
-      "timestamp": 1789164994
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "unique-paths",
-      "title": "Unique Paths",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/unique-paths/",
-      "url_cn": "https://leetcode.cn/problems/unique-paths/",
-      "timestamp": 1789156593
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "sum-of-two-integers",
-      "title": "Sum of Two Integers",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/sum-of-two-integers/",
-      "url_cn": "https://leetcode.cn/problems/sum-of-two-integers/",
-      "timestamp": 1789155032
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "basic-calculator-iii",
-      "title": "Basic Calculator III",
-      "difficulty": "Hard",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/basic-calculator-iii/",
-      "url_cn": "https://leetcode.cn/problems/basic-calculator-iii/",
-      "timestamp": 1789153817
     }
   ]
 }
