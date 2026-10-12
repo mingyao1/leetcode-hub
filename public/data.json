@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:06:26.368666Z",
+  "generated_at": "2026-10-12T19:01:48.775258Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-12",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-12T09:06:26.368666Z",
+      "last_fetched": "2026-10-12T19:01:48.775258Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-12T09:06:26.368666Z",
+      "last_fetched": "2026-10-12T19:01:48.775258Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-12T09:06:26.368666Z",
+      "last_fetched": "2026-10-12T19:01:48.775258Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-12T09:06:26.368666Z",
+      "last_fetched": "2026-10-12T19:01:48.775258Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-12T09:06:26.368666Z",
+      "last_fetched": "2026-10-12T19:01:48.775258Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 2,
       "active_today": false,
-      "last_fetched": "2026-10-12T09:06:26.368666Z",
+      "last_fetched": "2026-10-12T19:01:48.775258Z",
       "stale": false,
       "error": null
     }
@@ -808,30 +808,6 @@
       "url_us": "https://leetcode.com/problems/longest-common-subsequence/",
       "url_cn": "https://leetcode.cn/problems/longest-common-subsequence/",
       "timestamp": 1789240078
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "longest-consecutive-sequence",
-      "title": "Longest Consecutive Sequence",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/longest-consecutive-sequence/",
-      "url_cn": "https://leetcode.cn/problems/longest-consecutive-sequence/",
-      "timestamp": 1789237334
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "edit-distance",
-      "title": "Edit Distance",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/edit-distance/",
-      "url_cn": "https://leetcode.cn/problems/edit-distance/",
-      "timestamp": 1789236806
     }
   ]
 }
