@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:35:05.429378Z",
+  "generated_at": "2026-10-14T15:28:52.474512Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-14",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T10:35:05.429378Z",
+      "last_fetched": "2026-10-14T15:28:52.474512Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-14T10:35:05.429378Z",
+      "last_fetched": "2026-10-14T15:28:52.474512Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T10:35:05.429378Z",
+      "last_fetched": "2026-10-14T15:28:52.474512Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T10:35:05.429378Z",
+      "last_fetched": "2026-10-14T15:28:52.474512Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T10:35:05.429378Z",
+      "last_fetched": "2026-10-14T15:28:52.474512Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T10:35:05.429378Z",
+      "last_fetched": "2026-10-14T15:28:52.474512Z",
       "stale": false,
       "error": null
     }
@@ -712,18 +712,6 @@
       "url_us": "https://leetcode.com/problems/target-sum/",
       "url_cn": "https://leetcode.cn/problems/target-sum/",
       "timestamp": 1789400650
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "count-complete-tree-nodes",
-      "title": "Count Complete Tree Nodes",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/count-complete-tree-nodes/",
-      "url_cn": "https://leetcode.cn/problems/count-complete-tree-nodes/",
-      "timestamp": 1789397528
     }
   ]
 }
