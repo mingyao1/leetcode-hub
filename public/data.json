@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T21:31:54.233024Z",
+  "generated_at": "2026-10-14T00:35:42.133115Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-13",
-    "title": "Maximum Alternating Sum of Squares",
-    "slug": "maximum-alternating-sum-of-squares",
+    "date": "2026-10-14",
+    "title": "Maximize Sum of Squares of Digits",
+    "slug": "maximize-sum-of-squares-of-digits",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/"
+    "url": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-13T21:31:54.233024Z",
+      "last_fetched": "2026-10-14T00:35:42.133115Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-10-13T21:31:54.233024Z",
+      "last_fetched": "2026-10-14T00:35:42.133115Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-13T21:31:54.233024Z",
+      "last_fetched": "2026-10-14T00:35:42.133115Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-13T21:31:54.233024Z",
+      "last_fetched": "2026-10-14T00:35:42.133115Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-13T21:31:54.233024Z",
+      "last_fetched": "2026-10-14T00:35:42.133115Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-13T21:31:54.233024Z",
+      "last_fetched": "2026-10-14T00:35:42.133115Z",
       "stale": false,
       "error": null
     }
@@ -724,18 +724,6 @@
       "url_us": "https://leetcode.com/problems/count-complete-tree-nodes/",
       "url_cn": "https://leetcode.cn/problems/count-complete-tree-nodes/",
       "timestamp": 1789397528
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "partition-equal-subset-sum",
-      "title": "Partition Equal Subset Sum",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/partition-equal-subset-sum/",
-      "url_cn": "https://leetcode.cn/problems/partition-equal-subset-sum/",
-      "timestamp": 1789339790
     }
   ]
 }
