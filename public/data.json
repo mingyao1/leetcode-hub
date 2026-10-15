@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T23:10:19.681681Z",
+  "generated_at": "2026-10-15T01:48:25.765537Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-14",
-    "title": "Maximize Sum of Squares of Digits",
-    "slug": "maximize-sum-of-squares-of-digits",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/"
+    "date": "2026-10-15",
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "slug": "subarrays-distinct-element-sum-of-squares-i",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T23:10:19.681681Z",
+      "last_fetched": "2026-10-15T01:48:25.765537Z",
       "stale": false,
       "error": null
     },
@@ -41,7 +41,7 @@
       "active_today": false,
       "last_fetched": "2026-10-14T23:10:19.681681Z",
       "stale": false,
-      "error": null
+      "error": "HTTP 403: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-4QvaTyw9pPuIcB2yv7wsDO&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-s"
     },
     {
       "display_name": "keyjia",
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T23:10:19.681681Z",
+      "last_fetched": "2026-10-15T01:48:25.765537Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T23:10:19.681681Z",
+      "last_fetched": "2026-10-15T01:48:25.765537Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T23:10:19.681681Z",
+      "last_fetched": "2026-10-15T01:48:25.765537Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-14T23:10:19.681681Z",
+      "last_fetched": "2026-10-15T01:48:25.765537Z",
       "stale": false,
       "error": null
     }
@@ -676,18 +676,6 @@
       "url_us": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
       "url_cn": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
       "timestamp": 1789494261
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "walls-and-gates",
-      "title": "Walls and Gates",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/walls-and-gates/",
-      "url_cn": "https://leetcode.cn/problems/walls-and-gates/",
-      "timestamp": 1789432172
     }
   ]
 }
