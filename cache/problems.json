@@ -2230,5 +2230,23 @@
       "us",
       "cn"
     ]
+  },
+  "paint-house": {
+    "title": "Paint House",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "missing-element-in-sorted-array": {
+    "title": "Missing Element in Sorted Array",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
