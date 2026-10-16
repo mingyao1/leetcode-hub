@@ -2266,5 +2266,14 @@
       "us",
       "cn"
     ]
+  },
+  "factor-combinations": {
+    "title": "Factor Combinations",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
