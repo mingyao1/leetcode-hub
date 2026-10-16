@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T23:49:34.091914Z",
+  "generated_at": "2026-10-16T04:24:04.632293Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-15",
-    "title": "Subarrays Distinct Element Sum of Squares I",
-    "slug": "subarrays-distinct-element-sum-of-squares-i",
-    "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/"
+    "date": "2026-10-16",
+    "title": "Subarrays Distinct Element Sum of Squares II",
+    "slug": "subarrays-distinct-element-sum-of-squares-ii",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-15T23:49:34.091914Z",
+      "last_fetched": "2026-10-16T04:24:04.632293Z",
       "stale": false,
       "error": null
     },
@@ -37,9 +37,9 @@
         "total": 284
       },
       "streak": 2,
-      "solved_last_7d": 4,
-      "active_today": true,
-      "last_fetched": "2026-10-15T23:49:34.091914Z",
+      "solved_last_7d": 3,
+      "active_today": false,
+      "last_fetched": "2026-10-16T04:24:04.632293Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-15T23:49:34.091914Z",
+      "last_fetched": "2026-10-16T04:24:04.632293Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-15T23:49:34.091914Z",
+      "last_fetched": "2026-10-16T04:24:04.632293Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-15T23:49:34.091914Z",
+      "last_fetched": "2026-10-16T04:24:04.632293Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-15T23:49:34.091914Z",
+      "last_fetched": "2026-10-16T04:24:04.632293Z",
       "stale": false,
       "error": null
     }
