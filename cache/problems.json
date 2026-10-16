@@ -2248,5 +2248,23 @@
       "us",
       "cn"
     ]
+  },
+  "design-snake-game": {
+    "title": "Design Snake Game",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-knight-moves": {
+    "title": "Minimum Knight Moves",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
