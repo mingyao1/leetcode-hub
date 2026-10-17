@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:10:20.314463Z",
+  "generated_at": "2026-10-17T16:38:54.715473Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-17",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-17T13:10:20.314463Z",
+      "last_fetched": "2026-10-17T16:38:54.715473Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 4,
       "solved_last_7d": 11,
       "active_today": true,
-      "last_fetched": "2026-10-17T13:10:20.314463Z",
+      "last_fetched": "2026-10-17T16:38:54.715473Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-17T13:10:20.314463Z",
+      "last_fetched": "2026-10-17T16:38:54.715473Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-17T13:10:20.314463Z",
+      "last_fetched": "2026-10-17T16:38:54.715473Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-17T13:10:20.314463Z",
+      "last_fetched": "2026-10-17T16:38:54.715473Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-17T13:10:20.314463Z",
+      "last_fetched": "2026-10-17T16:38:54.715473Z",
       "stale": false,
       "error": null
     }
@@ -580,42 +580,6 @@
       "url_us": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
       "url_cn": "https://leetcode.cn/problems/binary-tree-vertical-order-traversal/",
       "timestamp": 1789663210
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "largest-bst-subtree",
-      "title": "Largest BST Subtree",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/largest-bst-subtree/",
-      "url_cn": "https://leetcode.cn/problems/largest-bst-subtree/",
-      "timestamp": 1789662627
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "largest-bst-subtree",
-      "title": "Largest BST Subtree",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/largest-bst-subtree/",
-      "url_cn": "https://leetcode.cn/problems/largest-bst-subtree/",
-      "timestamp": 1789662562
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
-      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
-      "url_cn": "https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
-      "timestamp": 1789660244
     }
   ]
 }
