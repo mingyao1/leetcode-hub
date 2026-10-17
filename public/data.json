@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T21:40:51.310540Z",
+  "generated_at": "2026-10-17T00:24:53.285418Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-16",
-    "title": "Subarrays Distinct Element Sum of Squares II",
-    "slug": "subarrays-distinct-element-sum-of-squares-ii",
-    "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/"
+    "date": "2026-10-17",
+    "title": "Minimum Swaps to Sort by Digit Sum",
+    "slug": "minimum-swaps-to-sort-by-digit-sum",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-16T21:40:51.310540Z",
+      "last_fetched": "2026-10-17T00:24:53.285418Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 3,
       "solved_last_7d": 4,
       "active_today": true,
-      "last_fetched": "2026-10-16T21:40:51.310540Z",
+      "last_fetched": "2026-10-17T00:24:53.285418Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-16T21:40:51.310540Z",
+      "last_fetched": "2026-10-17T00:24:53.285418Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-16T21:40:51.310540Z",
+      "last_fetched": "2026-10-17T00:24:53.285418Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-16T21:40:51.310540Z",
+      "last_fetched": "2026-10-17T00:24:53.285418Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-16T21:40:51.310540Z",
+      "last_fetched": "2026-10-17T00:24:53.285418Z",
       "stale": false,
       "error": null
     }
@@ -616,66 +616,6 @@
       "url_us": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
       "url_cn": "https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
       "timestamp": 1789660244
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "closest-binary-search-tree-value",
-      "title": "Closest Binary Search Tree Value",
-      "difficulty": "Easy",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/closest-binary-search-tree-value/",
-      "url_cn": "https://leetcode.cn/problems/closest-binary-search-tree-value/",
-      "timestamp": 1789599379
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "coin-change",
-      "title": "Coin Change",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/coin-change/",
-      "url_cn": "https://leetcode.cn/problems/coin-change/",
-      "timestamp": 1789599185
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "find-leaves-of-binary-tree",
-      "title": "Find Leaves of Binary Tree",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/find-leaves-of-binary-tree/",
-      "url_cn": "https://leetcode.cn/problems/find-leaves-of-binary-tree/",
-      "timestamp": 1789598862
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "two-sum-bsts",
-      "title": "Two Sum BSTs",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/two-sum-bsts/",
-      "url_cn": "https://leetcode.cn/problems/two-sum-bsts/",
-      "timestamp": 1789598335
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "verify-preorder-sequence-in-binary-search-tree",
-      "title": "Verify Preorder Sequence in Binary Search Tree",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/",
-      "url_cn": "https://leetcode.cn/problems/verify-preorder-sequence-in-binary-search-tree/",
-      "timestamp": 1789595381
     }
   ]
 }
