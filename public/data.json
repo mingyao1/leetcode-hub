@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:45:18.618424Z",
+  "generated_at": "2026-10-19T22:18:02.187266Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-19",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T17:45:18.618424Z",
+      "last_fetched": "2026-10-19T22:18:02.187266Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 11,
       "active_today": false,
-      "last_fetched": "2026-10-19T17:45:18.618424Z",
+      "last_fetched": "2026-10-19T22:18:02.187266Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T17:45:18.618424Z",
+      "last_fetched": "2026-10-19T22:18:02.187266Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T17:45:18.618424Z",
+      "last_fetched": "2026-10-19T22:18:02.187266Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T17:45:18.618424Z",
+      "last_fetched": "2026-10-19T22:18:02.187266Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T17:45:18.618424Z",
+      "last_fetched": "2026-10-19T22:18:02.187266Z",
       "stale": false,
       "error": null
     }
@@ -508,18 +508,6 @@
       "url_us": "https://leetcode.com/problems/house-robber/",
       "url_cn": "https://leetcode.cn/problems/house-robber/",
       "timestamp": 1789928633
-    },
-    {
-      "handle": "justin6liu",
-      "display_name": "Justin",
-      "region": "us",
-      "slug": "hand-of-straights",
-      "title": "Hand of Straights",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/hand-of-straights/",
-      "url_cn": "https://leetcode.cn/problems/hand-of-straights/",
-      "timestamp": 1789852126
     }
   ]
 }
