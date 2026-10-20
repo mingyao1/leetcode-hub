@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T22:18:02.187266Z",
+  "generated_at": "2026-10-20T01:14:49.610303Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-19",
-    "title": "Find Target Indices After Sorting Array",
-    "slug": "find-target-indices-after-sorting-array",
-    "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/find-target-indices-after-sorting-array/"
+    "date": "2026-10-20",
+    "title": "Sum of Sortable Integers",
+    "slug": "sum-of-sortable-integers",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/sum-of-sortable-integers/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T22:18:02.187266Z",
+      "last_fetched": "2026-10-20T01:14:49.610303Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 11,
       "active_today": false,
-      "last_fetched": "2026-10-19T22:18:02.187266Z",
+      "last_fetched": "2026-10-20T01:14:49.610303Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T22:18:02.187266Z",
+      "last_fetched": "2026-10-20T01:14:49.610303Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T22:18:02.187266Z",
+      "last_fetched": "2026-10-20T01:14:49.610303Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T22:18:02.187266Z",
+      "last_fetched": "2026-10-20T01:14:49.610303Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-19T22:18:02.187266Z",
+      "last_fetched": "2026-10-20T01:14:49.610303Z",
       "stale": false,
       "error": null
     }
