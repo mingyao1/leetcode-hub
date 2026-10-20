@@ -2275,5 +2275,14 @@
       "us",
       "cn"
     ]
+  },
+  "armstrong-number": {
+    "title": "Armstrong Number",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
