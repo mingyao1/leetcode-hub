@@ -2284,5 +2284,40 @@
       "us",
       "cn"
     ]
+  },
+  "maximum-average-subarray-ii": {
+    "title": "Maximum Average Subarray II",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "paint-house-ii": {
+    "title": "Paint House II",
+    "difficulty": "Hard",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "JEj789": {
+    "title": "粉刷房子",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "cn"
+    ]
+  },
+  "design-compressed-string-iterator": {
+    "title": "Design Compressed String Iterator",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
