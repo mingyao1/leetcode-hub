@@ -2319,5 +2319,23 @@
       "us",
       "cn"
     ]
+  },
+  "strobogrammatic-number": {
+    "title": "Strobogrammatic Number",
+    "difficulty": "Easy",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "encode-and-decode-strings": {
+    "title": "Encode and Decode Strings",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
