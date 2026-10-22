@@ -2337,5 +2337,14 @@
       "us",
       "cn"
     ]
+  },
+  "4-keys-keyboard": {
+    "title": "4 Keys Keyboard",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
