@@ -2346,5 +2346,14 @@
       "us",
       "cn"
     ]
+  },
+  "the-earliest-moment-when-everyone-become-friends": {
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "difficulty": "Medium",
+    "paid_only": true,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
