@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T22:44:19.294886Z",
+  "generated_at": "2026-10-22T01:27:34.316802Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-21",
-    "title": "Minimum Operations to Sort a String",
-    "slug": "minimum-operations-to-sort-a-string",
+    "date": "2026-10-22",
+    "title": "Minimum Operations to Sort a Permutation",
+    "slug": "minimum-operations-to-sort-a-permutation",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/"
+    "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-21T22:44:19.294886Z",
+      "last_fetched": "2026-10-22T01:27:34.316802Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 13,
       "active_today": true,
-      "last_fetched": "2026-10-21T22:44:19.294886Z",
+      "last_fetched": "2026-10-22T01:27:34.316802Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-21T22:44:19.294886Z",
+      "last_fetched": "2026-10-22T01:27:34.316802Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-21T22:44:19.294886Z",
+      "last_fetched": "2026-10-22T01:27:34.316802Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-21T22:44:19.294886Z",
+      "last_fetched": "2026-10-22T01:27:34.316802Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-21T22:44:19.294886Z",
+      "last_fetched": "2026-10-22T01:27:34.316802Z",
       "stale": false,
       "error": null
     }
@@ -508,30 +508,6 @@
       "url_us": "https://leetcode.com/problems/moving-average-from-data-stream/",
       "url_cn": "https://leetcode.cn/problems/moving-average-from-data-stream/",
       "timestamp": 1790088902
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "design-search-autocomplete-system",
-      "title": "Design Search Autocomplete System",
-      "difficulty": "Hard",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/design-search-autocomplete-system/",
-      "url_cn": "https://leetcode.cn/problems/design-search-autocomplete-system/",
-      "timestamp": 1790038370
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "candy-crush",
-      "title": "Candy Crush",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/candy-crush/",
-      "url_cn": "https://leetcode.cn/problems/candy-crush/",
-      "timestamp": 1790032088
     }
   ]
 }
