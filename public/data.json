@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T22:36:35.042377Z",
+  "generated_at": "2026-10-24T01:07:06.818472Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-23",
-    "title": "Maximum K to Sort a Permutation",
-    "slug": "maximum-k-to-sort-a-permutation",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/"
+    "date": "2026-10-24",
+    "title": "Count Days Spent Together",
+    "slug": "count-days-spent-together",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/count-days-spent-together/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-23T22:36:35.042377Z",
+      "last_fetched": "2026-10-24T01:07:06.818472Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 4,
       "solved_last_7d": 23,
       "active_today": true,
-      "last_fetched": "2026-10-23T22:36:35.042377Z",
+      "last_fetched": "2026-10-24T01:07:06.818472Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-23T22:36:35.042377Z",
+      "last_fetched": "2026-10-24T01:07:06.818472Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-23T22:36:35.042377Z",
+      "last_fetched": "2026-10-24T01:07:06.818472Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-23T22:36:35.042377Z",
+      "last_fetched": "2026-10-24T01:07:06.818472Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-23T22:36:35.042377Z",
+      "last_fetched": "2026-10-24T01:07:06.818472Z",
       "stale": false,
       "error": null
     }
