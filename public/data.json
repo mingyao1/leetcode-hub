@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:40:16.167468Z",
+  "generated_at": "2026-10-26T07:43:58.637317Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-26",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-26T01:40:16.167468Z",
+      "last_fetched": "2026-10-26T07:43:58.637317Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 16,
       "active_today": false,
-      "last_fetched": "2026-10-26T01:40:16.167468Z",
+      "last_fetched": "2026-10-26T07:43:58.637317Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-26T01:40:16.167468Z",
+      "last_fetched": "2026-10-26T07:43:58.637317Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-26T01:40:16.167468Z",
+      "last_fetched": "2026-10-26T07:43:58.637317Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-26T01:40:16.167468Z",
+      "last_fetched": "2026-10-26T07:43:58.637317Z",
       "stale": false,
       "error": null
     },
@@ -104,15 +104,27 @@
         "hard": 15,
         "total": 112
       },
-      "streak": 1,
-      "solved_last_7d": 2,
+      "streak": 2,
+      "solved_last_7d": 3,
       "active_today": true,
-      "last_fetched": "2026-10-26T01:40:16.167468Z",
+      "last_fetched": "2026-10-26T07:43:58.637317Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "merge-intervals",
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/merge-intervals/",
+      "url_cn": "https://leetcode.cn/problems/merge-intervals/",
+      "timestamp": 1792981565
+    },
     {
       "handle": "ConnieXuuu",
       "display_name": "CX_Real",
@@ -412,42 +424,6 @@
       "url_us": "https://leetcode.com/problems/find-root-of-n-ary-tree/",
       "url_cn": "https://leetcode.cn/problems/find-root-of-n-ary-tree/",
       "timestamp": 1790631871
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "all-paths-from-source-lead-to-destination",
-      "title": "All Paths from Source Lead to Destination",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/",
-      "url_cn": "https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/",
-      "timestamp": 1790398676
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "all-paths-from-source-lead-to-destination",
-      "title": "All Paths from Source Lead to Destination",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/",
-      "url_cn": "https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/",
-      "timestamp": 1790398653
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "all-paths-from-source-lead-to-destination",
-      "title": "All Paths from Source Lead to Destination",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/",
-      "url_cn": "https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/",
-      "timestamp": 1790398590
     }
   ]
 }
