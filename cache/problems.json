@@ -2400,5 +2400,32 @@
       "us",
       "cn"
     ]
+  },
+  "ones-and-zeroes": {
+    "title": "Ones and Zeroes",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "coin-change-ii": {
+    "title": "Coin Change II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "daily-temperatures": {
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
