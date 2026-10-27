@@ -2382,5 +2382,23 @@
       "us",
       "cn"
     ]
+  },
+  "continuous-subarray-sum": {
+    "title": "Continuous Subarray Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "contiguous-array": {
+    "title": "Contiguous Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
