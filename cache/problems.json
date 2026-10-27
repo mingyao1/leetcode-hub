@@ -2364,5 +2364,23 @@
       "us",
       "cn"
     ]
+  },
+  "find-pivot-index": {
+    "title": "Find Pivot Index",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "matrix-block-sum": {
+    "title": "Matrix Block Sum",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

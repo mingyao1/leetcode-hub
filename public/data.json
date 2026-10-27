@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T00:23:15.385478Z",
+  "generated_at": "2026-10-27T05:33:32.108901Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-27",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-27T00:23:15.385478Z",
+      "last_fetched": "2026-10-27T05:33:32.108901Z",
       "stale": false,
       "error": null
     },
@@ -37,9 +37,9 @@
         "total": 297
       },
       "streak": 0,
-      "solved_last_7d": 16,
+      "solved_last_7d": 15,
       "active_today": false,
-      "last_fetched": "2026-10-27T00:23:15.385478Z",
+      "last_fetched": "2026-10-27T05:33:32.108901Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-27T00:23:15.385478Z",
+      "last_fetched": "2026-10-27T05:33:32.108901Z",
       "stale": false,
       "error": null
     },
@@ -65,15 +65,15 @@
       "handle": "chuchu4708",
       "region": "us",
       "solved": {
-        "easy": 19,
-        "medium": 44,
+        "easy": 20,
+        "medium": 45,
         "hard": 4,
-        "total": 67
+        "total": 69
       },
-      "streak": 0,
-      "solved_last_7d": 0,
-      "active_today": false,
-      "last_fetched": "2026-10-27T00:23:15.385478Z",
+      "streak": 2,
+      "solved_last_7d": 9,
+      "active_today": true,
+      "last_fetched": "2026-10-27T05:33:32.108901Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-27T00:23:15.385478Z",
+      "last_fetched": "2026-10-27T05:33:32.108901Z",
       "stale": false,
       "error": null
     },
@@ -106,13 +106,61 @@
       },
       "streak": 2,
       "solved_last_7d": 4,
-      "active_today": true,
-      "last_fetched": "2026-10-27T00:23:15.385478Z",
+      "active_today": false,
+      "last_fetched": "2026-10-27T05:33:32.108901Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "find-pivot-index",
+      "title": "Find Pivot Index",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-pivot-index/",
+      "url_cn": "https://leetcode.cn/problems/find-pivot-index/",
+      "timestamp": 1793063072
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "matrix-block-sum",
+      "title": "Matrix Block Sum",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/matrix-block-sum/",
+      "url_cn": "https://leetcode.cn/problems/matrix-block-sum/",
+      "timestamp": 1793062160
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "range-sum-query-2d-immutable",
+      "title": "Range Sum Query 2D - Immutable",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+      "url_cn": "https://leetcode.cn/problems/range-sum-query-2d-immutable/",
+      "timestamp": 1793061264
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "range-sum-query-immutable",
+      "title": "Range Sum Query - Immutable",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "url_cn": "https://leetcode.cn/problems/range-sum-query-immutable/",
+      "timestamp": 1793060703
+    },
     {
       "handle": "ConnieXuuu",
       "display_name": "CX_Real",
