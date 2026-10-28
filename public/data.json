@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T20:56:51.975658Z",
+  "generated_at": "2026-10-28T00:28:18.787645Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-27",
-    "title": "Create Grid With Exactly One Path",
-    "slug": "create-grid-with-exactly-one-path",
-    "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path/"
+    "date": "2026-10-28",
+    "title": "Minimum XOR Path in a Grid",
+    "slug": "minimum-xor-path-in-a-grid",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-27T20:56:51.975658Z",
+      "last_fetched": "2026-10-28T00:28:18.787645Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 1,
       "solved_last_7d": 16,
       "active_today": true,
-      "last_fetched": "2026-10-27T20:56:51.975658Z",
+      "last_fetched": "2026-10-28T00:28:18.787645Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-27T20:56:51.975658Z",
+      "last_fetched": "2026-10-28T00:28:18.787645Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 2,
       "solved_last_7d": 13,
       "active_today": true,
-      "last_fetched": "2026-10-27T20:56:51.975658Z",
+      "last_fetched": "2026-10-28T00:28:18.787645Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-27T20:56:51.975658Z",
+      "last_fetched": "2026-10-28T00:28:18.787645Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 2,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-10-27T20:56:51.975658Z",
+      "last_fetched": "2026-10-28T00:28:18.787645Z",
       "stale": false,
       "error": null
     }
