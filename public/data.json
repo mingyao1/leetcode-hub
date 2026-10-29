@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:50:55.184442Z",
+  "generated_at": "2026-10-29T16:53:15.771811Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-29",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T09:50:55.184442Z",
+      "last_fetched": "2026-10-29T16:53:15.771811Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 11,
       "active_today": false,
-      "last_fetched": "2026-10-29T09:50:55.184442Z",
+      "last_fetched": "2026-10-29T16:53:15.771811Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T09:50:55.184442Z",
+      "last_fetched": "2026-10-29T16:53:15.771811Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 1,
       "solved_last_7d": 25,
       "active_today": true,
-      "last_fetched": "2026-10-29T09:50:55.184442Z",
+      "last_fetched": "2026-10-29T16:53:15.771811Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T09:50:55.184442Z",
+      "last_fetched": "2026-10-29T16:53:15.771811Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-10-29T09:50:55.184442Z",
+      "last_fetched": "2026-10-29T16:53:15.771811Z",
       "stale": false,
       "error": null
     }
@@ -568,30 +568,6 @@
       "url_us": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
       "url_cn": "https://leetcode.cn/problems/median-of-two-sorted-arrays/",
       "timestamp": 1791303057
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "redundant-connection",
-      "title": "Redundant Connection",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/redundant-connection/",
-      "url_cn": "https://leetcode.cn/problems/redundant-connection/",
-      "timestamp": 1790700102
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "number-of-islands-ii",
-      "title": "Number of Islands II",
-      "difficulty": "Hard",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/number-of-islands-ii/",
-      "url_cn": "https://leetcode.cn/problems/number-of-islands-ii/",
-      "timestamp": 1790696943
     }
   ]
 }
