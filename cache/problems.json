@@ -2427,5 +2427,23 @@
       "us",
       "cn"
     ]
+  },
+  "decode-ways": {
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "palindromic-substrings": {
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }

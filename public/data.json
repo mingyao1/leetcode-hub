@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:53:15.771811Z",
+  "generated_at": "2026-10-29T21:45:43.394785Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-29",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T16:53:15.771811Z",
+      "last_fetched": "2026-10-29T21:45:43.394785Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 11,
       "active_today": false,
-      "last_fetched": "2026-10-29T16:53:15.771811Z",
+      "last_fetched": "2026-10-29T21:45:43.394785Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T16:53:15.771811Z",
+      "last_fetched": "2026-10-29T21:45:43.394785Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 1,
       "solved_last_7d": 25,
       "active_today": true,
-      "last_fetched": "2026-10-29T16:53:15.771811Z",
+      "last_fetched": "2026-10-29T21:45:43.394785Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T16:53:15.771811Z",
+      "last_fetched": "2026-10-29T21:45:43.394785Z",
       "stale": false,
       "error": null
     },
@@ -100,19 +100,67 @@
       "region": "us",
       "solved": {
         "easy": 14,
-        "medium": 83,
+        "medium": 85,
         "hard": 15,
-        "total": 112
+        "total": 114
       },
-      "streak": 0,
-      "solved_last_7d": 4,
-      "active_today": false,
-      "last_fetched": "2026-10-29T16:53:15.771811Z",
+      "streak": 1,
+      "solved_last_7d": 14,
+      "active_today": true,
+      "last_fetched": "2026-10-29T21:45:43.394785Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "longest-increasing-subsequence",
+      "title": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "url_cn": "https://leetcode.cn/problems/longest-increasing-subsequence/",
+      "timestamp": 1793304396
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "word-break",
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/word-break/",
+      "url_cn": "https://leetcode.cn/problems/word-break/",
+      "timestamp": 1793302162
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "decode-ways",
+      "title": "Decode Ways",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/decode-ways/",
+      "url_cn": "https://leetcode.cn/problems/decode-ways/",
+      "timestamp": 1793301625
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "palindromic-substrings",
+      "title": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/palindromic-substrings/",
+      "url_cn": "https://leetcode.cn/problems/palindromic-substrings/",
+      "timestamp": 1793299522
+    },
     {
       "handle": "chuchu4708",
       "display_name": "Chu",
