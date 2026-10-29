@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:49:36.345452Z",
+  "generated_at": "2026-10-29T09:50:55.184442Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-29",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T02:49:36.345452Z",
+      "last_fetched": "2026-10-29T09:50:55.184442Z",
       "stale": false,
       "error": null
     },
@@ -37,9 +37,9 @@
         "total": 300
       },
       "streak": 2,
-      "solved_last_7d": 22,
-      "active_today": true,
-      "last_fetched": "2026-10-29T02:49:36.345452Z",
+      "solved_last_7d": 11,
+      "active_today": false,
+      "last_fetched": "2026-10-29T09:50:55.184442Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T02:49:36.345452Z",
+      "last_fetched": "2026-10-29T09:50:55.184442Z",
       "stale": false,
       "error": null
     },
@@ -70,10 +70,10 @@
         "hard": 4,
         "total": 71
       },
-      "streak": 2,
-      "solved_last_7d": 13,
-      "active_today": false,
-      "last_fetched": "2026-10-29T02:49:36.345452Z",
+      "streak": 1,
+      "solved_last_7d": 25,
+      "active_today": true,
+      "last_fetched": "2026-10-29T09:50:55.184442Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T02:49:36.345452Z",
+      "last_fetched": "2026-10-29T09:50:55.184442Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,48 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-10-29T02:49:36.345452Z",
+      "last_fetched": "2026-10-29T09:50:55.184442Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "rotate-image",
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/rotate-image/",
+      "url_cn": "https://leetcode.cn/problems/rotate-image/",
+      "timestamp": 1793250882
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "car-pooling",
+      "title": "Car Pooling",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/car-pooling/",
+      "url_cn": "https://leetcode.cn/problems/car-pooling/",
+      "timestamp": 1793250030
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "corporate-flight-bookings",
+      "title": "Corporate Flight Bookings",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/corporate-flight-bookings/",
+      "url_cn": "https://leetcode.cn/problems/corporate-flight-bookings/",
+      "timestamp": 1793248135
+    },
     {
       "handle": "eddiehuang",
       "display_name": "Eddie",
@@ -556,18 +592,6 @@
       "url_us": "https://leetcode.com/problems/number-of-islands-ii/",
       "url_cn": "https://leetcode.cn/problems/number-of-islands-ii/",
       "timestamp": 1790696943
-    },
-    {
-      "handle": "mingyaol",
-      "display_name": "Mingyao",
-      "region": "us",
-      "slug": "product-of-array-except-self",
-      "title": "Product of Array Except Self",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
-      "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
-      "timestamp": 1790653792
     }
   ]
 }
