@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T23:11:45.809782Z",
+  "generated_at": "2026-10-29T02:49:36.345452Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-28",
-    "title": "Minimum XOR Path in a Grid",
-    "slug": "minimum-xor-path-in-a-grid",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/"
+    "date": "2026-10-29",
+    "title": "Palindromic Path Queries in a Tree",
+    "slug": "palindromic-path-queries-in-a-tree",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-28T23:11:45.809782Z",
+      "last_fetched": "2026-10-29T02:49:36.345452Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 22,
       "active_today": true,
-      "last_fetched": "2026-10-28T23:11:45.809782Z",
+      "last_fetched": "2026-10-29T02:49:36.345452Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-28T23:11:45.809782Z",
+      "last_fetched": "2026-10-29T02:49:36.345452Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 2,
       "solved_last_7d": 13,
       "active_today": false,
-      "last_fetched": "2026-10-28T23:11:45.809782Z",
+      "last_fetched": "2026-10-29T02:49:36.345452Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-28T23:11:45.809782Z",
+      "last_fetched": "2026-10-29T02:49:36.345452Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-10-28T23:11:45.809782Z",
+      "last_fetched": "2026-10-29T02:49:36.345452Z",
       "stale": false,
       "error": null
     }
@@ -568,18 +568,6 @@
       "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
       "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
       "timestamp": 1790653792
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "web-crawler",
-      "title": "Web Crawler",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/web-crawler/",
-      "url_cn": "https://leetcode.cn/problems/web-crawler/",
-      "timestamp": 1790637792
     }
   ]
 }
