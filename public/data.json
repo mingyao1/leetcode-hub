@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T21:45:43.394785Z",
+  "generated_at": "2026-10-30T01:54:58.439030Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-29",
-    "title": "Palindromic Path Queries in a Tree",
-    "slug": "palindromic-path-queries-in-a-tree",
-    "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/"
+    "date": "2026-10-30",
+    "title": "Shortest Path With At Most K Consecutive Identical Characters",
+    "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T21:45:43.394785Z",
+      "last_fetched": "2026-10-30T01:54:58.439030Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 11,
       "active_today": false,
-      "last_fetched": "2026-10-29T21:45:43.394785Z",
+      "last_fetched": "2026-10-30T01:54:58.439030Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T21:45:43.394785Z",
+      "last_fetched": "2026-10-30T01:54:58.439030Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 1,
       "solved_last_7d": 25,
       "active_today": true,
-      "last_fetched": "2026-10-29T21:45:43.394785Z",
+      "last_fetched": "2026-10-30T01:54:58.439030Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-29T21:45:43.394785Z",
+      "last_fetched": "2026-10-30T01:54:58.439030Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 14,
       "active_today": true,
-      "last_fetched": "2026-10-29T21:45:43.394785Z",
+      "last_fetched": "2026-10-30T01:54:58.439030Z",
       "stale": false,
       "error": null
     }
