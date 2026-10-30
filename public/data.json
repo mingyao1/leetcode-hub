@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:19:02.773592Z",
+  "generated_at": "2026-10-30T20:12:32.797885Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-10-30",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-30T15:19:02.773592Z",
+      "last_fetched": "2026-10-30T20:12:32.797885Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 9,
       "active_today": false,
-      "last_fetched": "2026-10-30T15:19:02.773592Z",
+      "last_fetched": "2026-10-30T20:12:32.797885Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-30T15:19:02.773592Z",
+      "last_fetched": "2026-10-30T20:12:32.797885Z",
       "stale": false,
       "error": null
     },
@@ -66,14 +66,14 @@
       "region": "us",
       "solved": {
         "easy": 20,
-        "medium": 47,
+        "medium": 48,
         "hard": 4,
-        "total": 71
+        "total": 72
       },
-      "streak": 1,
-      "solved_last_7d": 25,
-      "active_today": false,
-      "last_fetched": "2026-10-30T15:19:02.773592Z",
+      "streak": 2,
+      "solved_last_7d": 32,
+      "active_today": true,
+      "last_fetched": "2026-10-30T20:12:32.797885Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-30T15:19:02.773592Z",
+      "last_fetched": "2026-10-30T20:12:32.797885Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,60 @@
       "streak": 2,
       "solved_last_7d": 16,
       "active_today": true,
-      "last_fetched": "2026-10-30T15:19:02.773592Z",
+      "last_fetched": "2026-10-30T20:12:32.797885Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/valid-palindrome/",
+      "url_cn": "https://leetcode.cn/problems/valid-palindrome/",
+      "timestamp": 1793391092
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "title": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+      "url_cn": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/",
+      "timestamp": 1793390788
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "reverse-words-in-a-string",
+      "title": "Reverse Words in a String",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "url_cn": "https://leetcode.cn/problems/reverse-words-in-a-string/",
+      "timestamp": 1793389030
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "spiral-matrix",
+      "title": "Spiral Matrix",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/spiral-matrix/",
+      "url_cn": "https://leetcode.cn/problems/spiral-matrix/",
+      "timestamp": 1793387795
+    },
     {
       "handle": "ConnieXuuu",
       "display_name": "CX_Real",
