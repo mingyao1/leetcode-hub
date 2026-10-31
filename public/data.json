@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T23:45:38.127047Z",
+  "generated_at": "2026-10-31T05:29:24.634215Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-10-30",
-    "title": "Shortest Path With At Most K Consecutive Identical Characters",
-    "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+    "date": "2026-10-31",
+    "title": "Twisted Mirror Path Count",
+    "slug": "twisted-mirror-path-count",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/"
+    "url": "https://leetcode.com/problems/twisted-mirror-path-count/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-30T23:45:38.127047Z",
+      "last_fetched": "2026-10-31T05:29:24.634215Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 9,
       "active_today": false,
-      "last_fetched": "2026-10-30T23:45:38.127047Z",
+      "last_fetched": "2026-10-31T05:29:24.634215Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-30T23:45:38.127047Z",
+      "last_fetched": "2026-10-31T05:29:24.634215Z",
       "stale": false,
       "error": null
     },
@@ -72,8 +72,8 @@
       },
       "streak": 2,
       "solved_last_7d": 34,
-      "active_today": true,
-      "last_fetched": "2026-10-30T23:45:38.127047Z",
+      "active_today": false,
+      "last_fetched": "2026-10-31T05:29:24.634215Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-10-30T23:45:38.127047Z",
+      "last_fetched": "2026-10-31T05:29:24.634215Z",
       "stale": false,
       "error": null
     },
@@ -106,8 +106,8 @@
       },
       "streak": 2,
       "solved_last_7d": 16,
-      "active_today": true,
-      "last_fetched": "2026-10-30T23:45:38.127047Z",
+      "active_today": false,
+      "last_fetched": "2026-10-31T05:29:24.634215Z",
       "stale": false,
       "error": null
     }
