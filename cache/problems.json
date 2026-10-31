@@ -2445,5 +2445,14 @@
       "us",
       "cn"
     ]
+  },
+  "sort-colors": {
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
