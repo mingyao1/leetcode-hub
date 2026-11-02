@@ -2490,5 +2490,14 @@
       "us",
       "cn"
     ]
+  },
+  "search-a-2d-matrix-ii": {
+    "title": "Search a 2D Matrix II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
