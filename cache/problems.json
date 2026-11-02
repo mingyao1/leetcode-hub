@@ -2454,5 +2454,14 @@
       "us",
       "cn"
     ]
+  },
+  "squares-of-a-sorted-array": {
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
