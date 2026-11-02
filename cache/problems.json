@@ -2463,5 +2463,32 @@
       "us",
       "cn"
     ]
+  },
+  "max-consecutive-ones-iii": {
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "subarray-product-less-than-k": {
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "minimum-operations-to-reduce-x-to-zero": {
+    "title": "Minimum Operations to Reduce X to Zero",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
