@@ -2499,5 +2499,14 @@
       "us",
       "cn"
     ]
+  },
+  "find-k-closest-elements": {
+    "title": "Find K Closest Elements",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
