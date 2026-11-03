@@ -2535,5 +2535,23 @@
       "us",
       "cn"
     ]
+  },
+  "decode-string": {
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "search-in-rotated-sorted-array-ii": {
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
