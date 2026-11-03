@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:14:12.936801Z",
+  "generated_at": "2026-11-03T10:01:51.788934Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-11-03",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-03T02:14:12.936801Z",
+      "last_fetched": "2026-11-03T10:01:51.788934Z",
       "stale": false,
       "error": null
     },
@@ -36,10 +36,10 @@
         "hard": 23,
         "total": 300
       },
-      "streak": 0,
-      "solved_last_7d": 9,
-      "active_today": false,
-      "last_fetched": "2026-11-03T02:14:12.936801Z",
+      "streak": 2,
+      "solved_last_7d": 13,
+      "active_today": true,
+      "last_fetched": "2026-11-03T10:01:51.788934Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-03T02:14:12.936801Z",
+      "last_fetched": "2026-11-03T10:01:51.788934Z",
       "stale": false,
       "error": null
     },
@@ -66,14 +66,14 @@
       "region": "us",
       "solved": {
         "easy": 24,
-        "medium": 55,
+        "medium": 57,
         "hard": 4,
-        "total": 83
+        "total": 85
       },
-      "streak": 5,
-      "solved_last_7d": 63,
+      "streak": 6,
+      "solved_last_7d": 53,
       "active_today": true,
-      "last_fetched": "2026-11-03T02:14:12.936801Z",
+      "last_fetched": "2026-11-03T10:01:51.788934Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-03T02:14:12.936801Z",
+      "last_fetched": "2026-11-03T10:01:51.788934Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,84 @@
       "streak": 0,
       "solved_last_7d": 12,
       "active_today": false,
-      "last_fetched": "2026-11-03T02:14:12.936801Z",
+      "last_fetched": "2026-11-03T10:01:51.788934Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "3sum",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/3sum/",
+      "url_cn": "https://leetcode.cn/problems/3sum/",
+      "timestamp": 1793686179
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "move-zeroes",
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/move-zeroes/",
+      "url_cn": "https://leetcode.cn/problems/move-zeroes/",
+      "timestamp": 1793686112
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "intersection-of-two-linked-lists",
+      "title": "Intersection of Two Linked Lists",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "url_cn": "https://leetcode.cn/problems/intersection-of-two-linked-lists/",
+      "timestamp": 1793685993
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "peak-index-in-a-mountain-array",
+      "title": "Peak Index in a Mountain Array",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+      "url_cn": "https://leetcode.cn/problems/peak-index-in-a-mountain-array/",
+      "timestamp": 1793684527
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "find-peak-element",
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-peak-element/",
+      "url_cn": "https://leetcode.cn/problems/find-peak-element/",
+      "timestamp": 1793684343
+    },
+    {
+      "handle": "eddiehuang",
+      "display_name": "Eddie",
+      "region": "cn",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "url_cn": "https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "timestamp": 1793679766
+    },
     {
       "handle": "chuchu4708",
       "display_name": "Chu",

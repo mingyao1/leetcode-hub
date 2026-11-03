@@ -2508,5 +2508,32 @@
       "us",
       "cn"
     ]
+  },
+  "move-zeroes": {
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "intersection-of-two-linked-lists": {
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "peak-index-in-a-mountain-array": {
+    "title": "Peak Index in a Mountain Array",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
