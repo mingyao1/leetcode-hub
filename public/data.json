@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:32:19.257152Z",
+  "generated_at": "2026-11-04T18:51:33.309218Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-11-04",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-04T11:32:19.257152Z",
+      "last_fetched": "2026-11-04T18:51:33.309218Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 2,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-11-04T11:32:19.257152Z",
+      "last_fetched": "2026-11-04T18:51:33.309218Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-04T11:32:19.257152Z",
+      "last_fetched": "2026-11-04T18:51:33.309218Z",
       "stale": false,
       "error": null
     },
@@ -65,15 +65,15 @@
       "handle": "chuchu4708",
       "region": "us",
       "solved": {
-        "easy": 24,
-        "medium": 59,
+        "easy": 26,
+        "medium": 63,
         "hard": 4,
-        "total": 87
+        "total": 93
       },
       "streak": 7,
-      "solved_last_7d": 60,
+      "solved_last_7d": 67,
       "active_today": true,
-      "last_fetched": "2026-11-04T11:32:19.257152Z",
+      "last_fetched": "2026-11-04T18:51:33.309218Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-04T11:32:19.257152Z",
+      "last_fetched": "2026-11-04T18:51:33.309218Z",
       "stale": false,
       "error": null
     },
@@ -104,15 +104,99 @@
         "hard": 15,
         "total": 115
       },
-      "streak": 0,
-      "solved_last_7d": 12,
-      "active_today": false,
-      "last_fetched": "2026-11-04T11:32:19.257152Z",
+      "streak": 1,
+      "solved_last_7d": 14,
+      "active_today": true,
+      "last_fetched": "2026-11-04T18:51:33.309218Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "car-fleet",
+      "title": "Car Fleet",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/car-fleet/",
+      "url_cn": "https://leetcode.cn/problems/car-fleet/",
+      "timestamp": 1793815766
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "remove-k-digits",
+      "title": "Remove K Digits",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/remove-k-digits/",
+      "url_cn": "https://leetcode.cn/problems/remove-k-digits/",
+      "timestamp": 1793814353
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "online-stock-span",
+      "title": "Online Stock Span",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/online-stock-span/",
+      "url_cn": "https://leetcode.cn/problems/online-stock-span/",
+      "timestamp": 1793813215
+    },
+    {
+      "handle": "ConnieXuuu",
+      "display_name": "CX_Real",
+      "region": "us",
+      "slug": "best-time-to-buy-and-sell-stock-iii",
+      "title": "Best Time to Buy and Sell Stock III",
+      "difficulty": "Hard",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+      "url_cn": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/",
+      "timestamp": 1793811913
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "time-needed-to-buy-tickets",
+      "title": "Time Needed to Buy Tickets",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
+      "url_cn": "https://leetcode.cn/problems/time-needed-to-buy-tickets/",
+      "timestamp": 1793811299
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "number-of-recent-calls",
+      "title": "Number of Recent Calls",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/number-of-recent-calls/",
+      "url_cn": "https://leetcode.cn/problems/number-of-recent-calls/",
+      "timestamp": 1793810460
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "min-stack",
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/min-stack/",
+      "url_cn": "https://leetcode.cn/problems/min-stack/",
+      "timestamp": 1793809954
+    },
     {
       "handle": "chuchu4708",
       "display_name": "Chu",

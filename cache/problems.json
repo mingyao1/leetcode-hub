@@ -2553,5 +2553,41 @@
       "us",
       "cn"
     ]
+  },
+  "remove-k-digits": {
+    "title": "Remove K Digits",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "online-stock-span": {
+    "title": "Online Stock Span",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "time-needed-to-buy-tickets": {
+    "title": "Time Needed to Buy Tickets",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "number-of-recent-calls": {
+    "title": "Number of Recent Calls",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
