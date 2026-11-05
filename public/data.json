@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:20:10.542344Z",
+  "generated_at": "2026-11-05T07:21:52.238614Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-11-05",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T00:20:10.542344Z",
+      "last_fetched": "2026-11-05T07:21:52.238614Z",
       "stale": false,
       "error": null
     },
@@ -36,10 +36,10 @@
         "hard": 23,
         "total": 300
       },
-      "streak": 2,
+      "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-11-05T00:20:10.542344Z",
+      "last_fetched": "2026-11-05T07:21:52.238614Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T00:20:10.542344Z",
+      "last_fetched": "2026-11-05T07:21:52.238614Z",
       "stale": false,
       "error": null
     },
@@ -71,9 +71,9 @@
         "total": 93
       },
       "streak": 7,
-      "solved_last_7d": 67,
-      "active_today": true,
-      "last_fetched": "2026-11-05T00:20:10.542344Z",
+      "solved_last_7d": 55,
+      "active_today": false,
+      "last_fetched": "2026-11-05T07:21:52.238614Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T00:20:10.542344Z",
+      "last_fetched": "2026-11-05T07:21:52.238614Z",
       "stale": false,
       "error": null
     },
@@ -105,9 +105,9 @@
         "total": 115
       },
       "streak": 1,
-      "solved_last_7d": 14,
-      "active_today": true,
-      "last_fetched": "2026-11-05T00:20:10.542344Z",
+      "solved_last_7d": 4,
+      "active_today": false,
+      "last_fetched": "2026-11-05T07:21:52.238614Z",
       "stale": false,
       "error": null
     }
