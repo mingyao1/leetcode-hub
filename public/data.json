@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:47:39.642176Z",
+  "generated_at": "2026-11-05T21:57:35.059163Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-11-05",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T15:47:39.642176Z",
+      "last_fetched": "2026-11-05T21:57:35.059163Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-11-05T15:47:39.642176Z",
+      "last_fetched": "2026-11-05T21:57:35.059163Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T15:47:39.642176Z",
+      "last_fetched": "2026-11-05T21:57:35.059163Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 7,
       "solved_last_7d": 55,
       "active_today": false,
-      "last_fetched": "2026-11-05T15:47:39.642176Z",
+      "last_fetched": "2026-11-05T21:57:35.059163Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T15:47:39.642176Z",
+      "last_fetched": "2026-11-05T21:57:35.059163Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-11-05T15:47:39.642176Z",
+      "last_fetched": "2026-11-05T21:57:35.059163Z",
       "stale": false,
       "error": null
     }
@@ -1060,18 +1060,6 @@
       "url_us": "https://leetcode.com/problems/sort-an-array/",
       "url_cn": "https://leetcode.cn/problems/sort-an-array/",
       "timestamp": 1791522472
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "median-of-two-sorted-arrays",
-      "title": "Median of Two Sorted Arrays",
-      "difficulty": "Hard",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-      "url_cn": "https://leetcode.cn/problems/median-of-two-sorted-arrays/",
-      "timestamp": 1791303057
     }
   ]
 }
