@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T21:57:35.059163Z",
+  "generated_at": "2026-11-06T02:22:09.638489Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-05",
-    "title": "Find the Distance Value Between Two Arrays",
-    "slug": "find-the-distance-value-between-two-arrays",
-    "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/"
+    "date": "2026-11-06",
+    "title": "Count Zero Request Servers",
+    "slug": "count-zero-request-servers",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/count-zero-request-servers/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T21:57:35.059163Z",
+      "last_fetched": "2026-11-06T02:22:09.638489Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-11-05T21:57:35.059163Z",
+      "last_fetched": "2026-11-06T02:22:09.638489Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T21:57:35.059163Z",
+      "last_fetched": "2026-11-06T02:22:09.638489Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 7,
       "solved_last_7d": 55,
       "active_today": false,
-      "last_fetched": "2026-11-05T21:57:35.059163Z",
+      "last_fetched": "2026-11-06T02:22:09.638489Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-05T21:57:35.059163Z",
+      "last_fetched": "2026-11-06T02:22:09.638489Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 1,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-11-05T21:57:35.059163Z",
+      "last_fetched": "2026-11-06T02:22:09.638489Z",
       "stale": false,
       "error": null
     }
