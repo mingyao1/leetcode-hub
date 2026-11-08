@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-07T23:56:08.134032Z",
+  "generated_at": "2026-11-08T05:53:41.566595Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-07",
-    "title": "Process Tasks Using Servers",
-    "slug": "process-tasks-using-servers",
+    "date": "2026-11-08",
+    "title": "Count Servers that Communicate",
+    "slug": "count-servers-that-communicate",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/process-tasks-using-servers/"
+    "url": "https://leetcode.com/problems/count-servers-that-communicate/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-07T23:56:08.134032Z",
+      "last_fetched": "2026-11-08T05:53:41.566595Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 5,
       "active_today": false,
-      "last_fetched": "2026-11-07T23:56:08.134032Z",
+      "last_fetched": "2026-11-08T05:53:41.566595Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-07T23:56:08.134032Z",
+      "last_fetched": "2026-11-08T05:53:41.566595Z",
       "stale": false,
       "error": null
     },
@@ -71,9 +71,9 @@
         "total": 93
       },
       "streak": 0,
-      "solved_last_7d": 45,
+      "solved_last_7d": 44,
       "active_today": false,
-      "last_fetched": "2026-11-07T23:56:08.134032Z",
+      "last_fetched": "2026-11-08T05:53:41.566595Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-07T23:56:08.134032Z",
+      "last_fetched": "2026-11-08T05:53:41.566595Z",
       "stale": false,
       "error": null
     },
@@ -104,10 +104,10 @@
         "hard": 15,
         "total": 115
       },
-      "streak": 1,
+      "streak": 0,
       "solved_last_7d": 3,
       "active_today": false,
-      "last_fetched": "2026-11-07T23:56:08.134032Z",
+      "last_fetched": "2026-11-08T05:53:41.566595Z",
       "stale": false,
       "error": null
     }
@@ -1060,18 +1060,6 @@
       "url_us": "https://leetcode.com/problems/missing-element-in-sorted-array/",
       "url_cn": "https://leetcode.cn/problems/missing-element-in-sorted-array/",
       "timestamp": 1792028854
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "sort-an-array",
-      "title": "Sort an Array",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/sort-an-array/",
-      "url_cn": "https://leetcode.cn/problems/sort-an-array/",
-      "timestamp": 1791522472
     }
   ]
 }
