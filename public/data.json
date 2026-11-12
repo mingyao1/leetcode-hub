@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T22:16:08.683312Z",
+  "generated_at": "2026-11-12T03:19:51.470808Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-11",
-    "title": "Minimum Cost to Acquire Required Items",
-    "slug": "minimum-cost-to-acquire-required-items",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/"
+    "date": "2026-11-12",
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-11T22:16:08.683312Z",
+      "last_fetched": "2026-11-12T03:19:51.470808Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-11T22:16:08.683312Z",
+      "last_fetched": "2026-11-12T03:19:51.470808Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-11T22:16:08.683312Z",
+      "last_fetched": "2026-11-12T03:19:51.470808Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-11T22:16:08.683312Z",
+      "last_fetched": "2026-11-12T03:19:51.470808Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-11T22:16:08.683312Z",
+      "last_fetched": "2026-11-12T03:19:51.470808Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 1,
       "active_today": false,
-      "last_fetched": "2026-11-11T22:16:08.683312Z",
+      "last_fetched": "2026-11-12T03:19:51.470808Z",
       "stale": false,
       "error": null
     }
