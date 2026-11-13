@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:01:59.181326Z",
+  "generated_at": "2026-11-13T07:52:08.850496Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-11-13",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T01:01:59.181326Z",
+      "last_fetched": "2026-11-13T07:52:08.850496Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T01:01:59.181326Z",
+      "last_fetched": "2026-11-13T07:52:08.850496Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T01:01:59.181326Z",
+      "last_fetched": "2026-11-13T07:52:08.850496Z",
       "stale": false,
       "error": null
     },
@@ -65,15 +65,15 @@
       "handle": "chuchu4708",
       "region": "us",
       "solved": {
-        "easy": 26,
+        "easy": 28,
         "medium": 63,
         "hard": 4,
-        "total": 93
+        "total": 95
       },
-      "streak": 0,
-      "solved_last_7d": 0,
-      "active_today": false,
-      "last_fetched": "2026-11-13T01:01:59.181326Z",
+      "streak": 1,
+      "solved_last_7d": 4,
+      "active_today": true,
+      "last_fetched": "2026-11-13T07:52:08.850496Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T01:01:59.181326Z",
+      "last_fetched": "2026-11-13T07:52:08.850496Z",
       "stale": false,
       "error": null
     },
@@ -105,14 +105,50 @@
         "total": 115
       },
       "streak": 0,
-      "solved_last_7d": 1,
+      "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T01:01:59.181326Z",
+      "last_fetched": "2026-11-13T07:52:08.850496Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "maximum-depth-of-binary-tree",
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "url_cn": "https://leetcode.cn/problems/maximum-depth-of-binary-tree/",
+      "timestamp": 1794554927
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "binary-tree-inorder-traversal",
+      "title": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "url_cn": "https://leetcode.cn/problems/binary-tree-inorder-traversal/",
+      "timestamp": 1794554574
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "binary-tree-preorder-traversal",
+      "title": "Binary Tree Preorder Traversal",
+      "difficulty": "Easy",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "url_cn": "https://leetcode.cn/problems/binary-tree-preorder-traversal/",
+      "timestamp": 1794552958
+    },
     {
       "handle": "ConnieXuuu",
       "display_name": "CX_Real",

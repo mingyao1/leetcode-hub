@@ -2589,5 +2589,23 @@
       "us",
       "cn"
     ]
+  },
+  "binary-tree-inorder-traversal": {
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "binary-tree-preorder-traversal": {
+    "title": "Binary Tree Preorder Traversal",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
