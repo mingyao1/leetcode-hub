@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T22:09:12.390746Z",
+  "generated_at": "2026-11-14T02:40:27.229279Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-13",
-    "title": "Count Non-Decreasing Subarrays After K Operations",
-    "slug": "count-non-decreasing-subarrays-after-k-operations",
-    "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/"
+    "date": "2026-11-14",
+    "title": "Minimum Positive Sum Subarray ",
+    "slug": "minimum-positive-sum-subarray",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/minimum-positive-sum-subarray/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T22:09:12.390746Z",
+      "last_fetched": "2026-11-14T02:40:27.229279Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T22:09:12.390746Z",
+      "last_fetched": "2026-11-14T02:40:27.229279Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T22:09:12.390746Z",
+      "last_fetched": "2026-11-14T02:40:27.229279Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 1,
       "solved_last_7d": 4,
       "active_today": true,
-      "last_fetched": "2026-11-13T22:09:12.390746Z",
+      "last_fetched": "2026-11-14T02:40:27.229279Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T22:09:12.390746Z",
+      "last_fetched": "2026-11-14T02:40:27.229279Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-13T22:09:12.390746Z",
+      "last_fetched": "2026-11-14T02:40:27.229279Z",
       "stale": false,
       "error": null
     }
@@ -1072,30 +1072,6 @@
       "url_us": "https://leetcode.com/problems/minimum-knight-moves/",
       "url_cn": "https://leetcode.cn/problems/minimum-knight-moves/",
       "timestamp": 1792170725
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "paint-house",
-      "title": "Paint House",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/paint-house/",
-      "url_cn": "https://leetcode.cn/problems/paint-house/",
-      "timestamp": 1792031259
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "missing-element-in-sorted-array",
-      "title": "Missing Element in Sorted Array",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/missing-element-in-sorted-array/",
-      "url_cn": "https://leetcode.cn/problems/missing-element-in-sorted-array/",
-      "timestamp": 1792028854
     }
   ]
 }
