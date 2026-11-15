@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:51:35.474304Z",
+  "generated_at": "2026-11-15T20:59:56.733352Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-11-15",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-15T15:51:35.474304Z",
+      "last_fetched": "2026-11-15T20:59:56.733352Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-15T15:51:35.474304Z",
+      "last_fetched": "2026-11-15T20:59:56.733352Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-15T15:51:35.474304Z",
+      "last_fetched": "2026-11-15T20:59:56.733352Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 0,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-11-15T15:51:35.474304Z",
+      "last_fetched": "2026-11-15T20:59:56.733352Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-15T15:51:35.474304Z",
+      "last_fetched": "2026-11-15T20:59:56.733352Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-15T15:51:35.474304Z",
+      "last_fetched": "2026-11-15T20:59:56.733352Z",
       "stale": false,
       "error": null
     }
@@ -1036,42 +1036,6 @@
       "url_us": "https://leetcode.com/problems/armstrong-number/",
       "url_cn": "https://leetcode.cn/problems/armstrong-number/",
       "timestamp": 1792536750
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "factor-combinations",
-      "title": "Factor Combinations",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/factor-combinations/",
-      "url_cn": "https://leetcode.cn/problems/factor-combinations/",
-      "timestamp": 1792177742
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "design-snake-game",
-      "title": "Design Snake Game",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/design-snake-game/",
-      "url_cn": "https://leetcode.cn/problems/design-snake-game/",
-      "timestamp": 1792173815
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "minimum-knight-moves",
-      "title": "Minimum Knight Moves",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/minimum-knight-moves/",
-      "url_cn": "https://leetcode.cn/problems/minimum-knight-moves/",
-      "timestamp": 1792170725
     }
   ]
 }
