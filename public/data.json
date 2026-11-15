@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-14T21:25:03.388876Z",
+  "generated_at": "2026-11-15T01:18:10.331821Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-14",
-    "title": "Minimum Positive Sum Subarray ",
-    "slug": "minimum-positive-sum-subarray",
-    "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/minimum-positive-sum-subarray/"
+    "date": "2026-11-15",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "slug": "number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-14T21:25:03.388876Z",
+      "last_fetched": "2026-11-15T01:18:10.331821Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-14T21:25:03.388876Z",
+      "last_fetched": "2026-11-15T01:18:10.331821Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-14T21:25:03.388876Z",
+      "last_fetched": "2026-11-15T01:18:10.331821Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 1,
       "solved_last_7d": 4,
       "active_today": false,
-      "last_fetched": "2026-11-14T21:25:03.388876Z",
+      "last_fetched": "2026-11-15T01:18:10.331821Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-14T21:25:03.388876Z",
+      "last_fetched": "2026-11-15T01:18:10.331821Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-14T21:25:03.388876Z",
+      "last_fetched": "2026-11-15T01:18:10.331821Z",
       "stale": false,
       "error": null
     }
