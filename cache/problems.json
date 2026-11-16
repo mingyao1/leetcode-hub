@@ -2607,5 +2607,14 @@
       "us",
       "cn"
     ]
+  },
+  "binary-tree-paths": {
+    "title": "Binary Tree Paths",
+    "difficulty": "Easy",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
