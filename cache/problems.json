@@ -2616,5 +2616,14 @@
       "us",
       "cn"
     ]
+  },
+  "restore-ip-addresses": {
+    "title": "Restore IP Addresses",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
