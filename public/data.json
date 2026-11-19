@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T19:22:46.692235Z",
+  "generated_at": "2026-11-19T01:28:00.347509Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-18",
-    "title": "Minimum Number of Changes to Make Binary String Beautiful",
-    "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "date": "2026-11-19",
+    "title": "Minimum Score by Changing Two Elements",
+    "slug": "minimum-score-by-changing-two-elements",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/"
+    "url": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-18T19:22:46.692235Z",
+      "last_fetched": "2026-11-19T01:28:00.347509Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-18T19:22:46.692235Z",
+      "last_fetched": "2026-11-19T01:28:00.347509Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-18T19:22:46.692235Z",
+      "last_fetched": "2026-11-19T01:28:00.347509Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 3,
       "solved_last_7d": 22,
       "active_today": false,
-      "last_fetched": "2026-11-18T19:22:46.692235Z",
+      "last_fetched": "2026-11-19T01:28:00.347509Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-18T19:22:46.692235Z",
+      "last_fetched": "2026-11-19T01:28:00.347509Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-18T19:22:46.692235Z",
+      "last_fetched": "2026-11-19T01:28:00.347509Z",
       "stale": false,
       "error": null
     }
