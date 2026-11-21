@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:17:47.841519Z",
+  "generated_at": "2026-11-21T21:06:31.320690Z",
   "timezone": "America/New_York",
   "daily": {
     "date": "2026-11-21",
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T15:17:47.841519Z",
+      "last_fetched": "2026-11-21T21:06:31.320690Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T15:17:47.841519Z",
+      "last_fetched": "2026-11-21T21:06:31.320690Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T15:17:47.841519Z",
+      "last_fetched": "2026-11-21T21:06:31.320690Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 3,
       "solved_last_7d": 38,
       "active_today": true,
-      "last_fetched": "2026-11-21T15:17:47.841519Z",
+      "last_fetched": "2026-11-21T21:06:31.320690Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T15:17:47.841519Z",
+      "last_fetched": "2026-11-21T21:06:31.320690Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T15:17:47.841519Z",
+      "last_fetched": "2026-11-21T21:06:31.320690Z",
       "stale": false,
       "error": null
     }
@@ -1240,30 +1240,6 @@
       "url_us": "https://leetcode.com/problems/partition-list/",
       "url_cn": "https://leetcode.cn/problems/partition-list/",
       "timestamp": 1792947961
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "campus-bikes",
-      "title": "Campus Bikes",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/campus-bikes/",
-      "url_cn": "https://leetcode.cn/problems/campus-bikes/",
-      "timestamp": 1792692729
-    },
-    {
-      "handle": "eddiehuang",
-      "display_name": "Eddie",
-      "region": "cn",
-      "slug": "the-earliest-moment-when-everyone-become-friends",
-      "title": "The Earliest Moment When Everyone Become Friends",
-      "difficulty": "Medium",
-      "paid_only": true,
-      "url_us": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/",
-      "url_cn": "https://leetcode.cn/problems/the-earliest-moment-when-everyone-become-friends/",
-      "timestamp": 1792689080
     }
   ]
 }
