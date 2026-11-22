@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T21:06:31.320690Z",
+  "generated_at": "2026-11-22T01:16:56.842466Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-21",
-    "title": "Find Subtree Sizes After Changes",
-    "slug": "find-subtree-sizes-after-changes",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/find-subtree-sizes-after-changes/"
+    "date": "2026-11-22",
+    "title": "Check if All A's Appears Before All B's",
+    "slug": "check-if-all-as-appears-before-all-bs",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T21:06:31.320690Z",
+      "last_fetched": "2026-11-22T01:16:56.842466Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T21:06:31.320690Z",
+      "last_fetched": "2026-11-22T01:16:56.842466Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T21:06:31.320690Z",
+      "last_fetched": "2026-11-22T01:16:56.842466Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 3,
       "solved_last_7d": 38,
       "active_today": true,
-      "last_fetched": "2026-11-21T21:06:31.320690Z",
+      "last_fetched": "2026-11-22T01:16:56.842466Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T21:06:31.320690Z",
+      "last_fetched": "2026-11-22T01:16:56.842466Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-21T21:06:31.320690Z",
+      "last_fetched": "2026-11-22T01:16:56.842466Z",
       "stale": false,
       "error": null
     }
