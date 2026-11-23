@@ -2625,5 +2625,14 @@
       "us",
       "cn"
     ]
+  },
+  "swap-nodes-in-pairs": {
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
