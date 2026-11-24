@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-23T12:27:15.091523Z",
+  "generated_at": "2026-11-24T00:19:43.973054Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-23",
-    "title": "Product of the Last K Numbers",
-    "slug": "product-of-the-last-k-numbers",
-    "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/"
+    "date": "2026-11-24",
+    "title": "Maximum Subarray With Equal Products",
+    "slug": "maximum-subarray-with-equal-products",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-23T12:27:15.091523Z",
+      "last_fetched": "2026-11-24T00:19:43.973054Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-23T12:27:15.091523Z",
+      "last_fetched": "2026-11-24T00:19:43.973054Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-23T12:27:15.091523Z",
+      "last_fetched": "2026-11-24T00:19:43.973054Z",
       "stale": false,
       "error": null
     },
@@ -66,14 +66,14 @@
       "region": "us",
       "solved": {
         "easy": 31,
-        "medium": 73,
+        "medium": 76,
         "hard": 4,
-        "total": 108
+        "total": 111
       },
-      "streak": 5,
-      "solved_last_7d": 44,
+      "streak": 1,
+      "solved_last_7d": 49,
       "active_today": true,
-      "last_fetched": "2026-11-23T12:27:15.091523Z",
+      "last_fetched": "2026-11-24T00:19:43.973054Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-23T12:27:15.091523Z",
+      "last_fetched": "2026-11-24T00:19:43.973054Z",
       "stale": false,
       "error": null
     },
@@ -107,12 +107,72 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-23T12:27:15.091523Z",
+      "last_fetched": "2026-11-24T00:19:43.973054Z",
       "stale": false,
       "error": null
     }
   ],
   "feed": [
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "product-of-array-except-self",
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
+      "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
+      "timestamp": 1795474028
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "maximum-width-of-binary-tree",
+      "title": "Maximum Width of Binary Tree",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "url_cn": "https://leetcode.cn/problems/maximum-width-of-binary-tree/",
+      "timestamp": 1795473345
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "url_cn": "https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/",
+      "timestamp": 1795466809
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "binary-tree-level-order-traversal",
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "url_cn": "https://leetcode.cn/problems/binary-tree-level-order-traversal/",
+      "timestamp": 1795465822
+    },
+    {
+      "handle": "chuchu4708",
+      "display_name": "Chu",
+      "region": "us",
+      "slug": "find-the-duplicate-number",
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "paid_only": false,
+      "url_us": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "url_cn": "https://leetcode.cn/problems/find-the-duplicate-number/",
+      "timestamp": 1795464292
+    },
     {
       "handle": "chuchu4708",
       "display_name": "Chu",

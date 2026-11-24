@@ -2634,5 +2634,23 @@
       "us",
       "cn"
     ]
+  },
+  "maximum-width-of-binary-tree": {
+    "title": "Maximum Width of Binary Tree",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
+  },
+  "find-the-duplicate-number": {
+    "title": "Find the Duplicate Number",
+    "difficulty": "Medium",
+    "paid_only": false,
+    "available_on": [
+      "us",
+      "cn"
+    ]
   }
 }
