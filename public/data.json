@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T20:51:41.154939Z",
+  "generated_at": "2026-11-25T04:07:33.628733Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-24",
-    "title": "Maximum Subarray With Equal Products",
-    "slug": "maximum-subarray-with-equal-products",
-    "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products/"
+    "date": "2026-11-25",
+    "title": "Smallest Unique Subarray",
+    "slug": "smallest-unique-subarray",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/smallest-unique-subarray/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-24T20:51:41.154939Z",
+      "last_fetched": "2026-11-25T04:07:33.628733Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-24T20:51:41.154939Z",
+      "last_fetched": "2026-11-25T04:07:33.628733Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-24T20:51:41.154939Z",
+      "last_fetched": "2026-11-25T04:07:33.628733Z",
       "stale": false,
       "error": null
     },
@@ -73,7 +73,7 @@
       "streak": 1,
       "solved_last_7d": 44,
       "active_today": false,
-      "last_fetched": "2026-11-24T20:51:41.154939Z",
+      "last_fetched": "2026-11-25T04:07:33.628733Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-24T20:51:41.154939Z",
+      "last_fetched": "2026-11-25T04:07:33.628733Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-24T20:51:41.154939Z",
+      "last_fetched": "2026-11-25T04:07:33.628733Z",
       "stale": false,
       "error": null
     }
@@ -1456,18 +1456,6 @@
       "url_us": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
       "url_cn": "https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/",
       "timestamp": 1793050090
-    },
-    {
-      "handle": "ConnieXuuu",
-      "display_name": "CX_Real",
-      "region": "us",
-      "slug": "merge-intervals",
-      "title": "Merge Intervals",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/merge-intervals/",
-      "url_cn": "https://leetcode.cn/problems/merge-intervals/",
-      "timestamp": 1792981565
     }
   ]
 }
