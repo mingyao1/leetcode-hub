@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T23:35:20.718770Z",
+  "generated_at": "2026-11-26T05:28:23.923398Z",
   "timezone": "America/New_York",
   "daily": {
-    "date": "2026-11-25",
-    "title": "Smallest Unique Subarray",
-    "slug": "smallest-unique-subarray",
-    "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/smallest-unique-subarray/"
+    "date": "2026-11-26",
+    "title": "Stone Removal Game",
+    "slug": "stone-removal-game",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/stone-removal-game/"
   },
   "users": [
     {
@@ -22,7 +22,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-25T23:35:20.718770Z",
+      "last_fetched": "2026-11-26T05:28:23.923398Z",
       "stale": false,
       "error": null
     },
@@ -39,7 +39,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-25T23:35:20.718770Z",
+      "last_fetched": "2026-11-26T05:28:23.923398Z",
       "stale": false,
       "error": null
     },
@@ -56,7 +56,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-25T23:35:20.718770Z",
+      "last_fetched": "2026-11-26T05:28:23.923398Z",
       "stale": false,
       "error": null
     },
@@ -71,9 +71,9 @@
         "total": 111
       },
       "streak": 0,
-      "solved_last_7d": 44,
+      "solved_last_7d": 42,
       "active_today": false,
-      "last_fetched": "2026-11-25T23:35:20.718770Z",
+      "last_fetched": "2026-11-26T05:28:23.923398Z",
       "stale": false,
       "error": null
     },
@@ -90,7 +90,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-25T23:35:20.718770Z",
+      "last_fetched": "2026-11-26T05:28:23.923398Z",
       "stale": false,
       "error": null
     },
@@ -107,7 +107,7 @@
       "streak": 0,
       "solved_last_7d": 0,
       "active_today": false,
-      "last_fetched": "2026-11-25T23:35:20.718770Z",
+      "last_fetched": "2026-11-26T05:28:23.923398Z",
       "stale": false,
       "error": null
     }
@@ -1396,54 +1396,6 @@
       "url_us": "https://leetcode.com/problems/product-of-array-except-self/",
       "url_cn": "https://leetcode.cn/problems/product-of-array-except-self/",
       "timestamp": 1793080072
-    },
-    {
-      "handle": "chuchu4708",
-      "display_name": "Chu",
-      "region": "us",
-      "slug": "find-pivot-index",
-      "title": "Find Pivot Index",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/find-pivot-index/",
-      "url_cn": "https://leetcode.cn/problems/find-pivot-index/",
-      "timestamp": 1793063072
-    },
-    {
-      "handle": "chuchu4708",
-      "display_name": "Chu",
-      "region": "us",
-      "slug": "matrix-block-sum",
-      "title": "Matrix Block Sum",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/matrix-block-sum/",
-      "url_cn": "https://leetcode.cn/problems/matrix-block-sum/",
-      "timestamp": 1793062160
-    },
-    {
-      "handle": "chuchu4708",
-      "display_name": "Chu",
-      "region": "us",
-      "slug": "range-sum-query-2d-immutable",
-      "title": "Range Sum Query 2D - Immutable",
-      "difficulty": "Medium",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
-      "url_cn": "https://leetcode.cn/problems/range-sum-query-2d-immutable/",
-      "timestamp": 1793061264
-    },
-    {
-      "handle": "chuchu4708",
-      "display_name": "Chu",
-      "region": "us",
-      "slug": "range-sum-query-immutable",
-      "title": "Range Sum Query - Immutable",
-      "difficulty": "Easy",
-      "paid_only": false,
-      "url_us": "https://leetcode.com/problems/range-sum-query-immutable/",
-      "url_cn": "https://leetcode.cn/problems/range-sum-query-immutable/",
-      "timestamp": 1793060703
     }
   ]
 }
